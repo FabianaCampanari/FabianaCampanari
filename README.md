@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ✨ Welcome to my space, I am Fabiana Campanari, also known as Fabí. I was born in São Paulo,🇧🇷.
 
-✨ After graduating in Psychology at PUC-SP, I majored in Graphic Design at UCSD, San Diego, California.
+✨ After graduating in Psychology at PUC-SP, I majored in Graphic Design at UCSD, San Diego, California,🇺🇸.
 
 ✨ I developed my career working as graphic designer since 2002 on top Design and Advertising agencies in São Paulo.
 
