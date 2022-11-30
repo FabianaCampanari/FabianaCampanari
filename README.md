@@ -1,9 +1,7 @@
 
-🎨  I DO DESIGN & CODE
-  
- < with love & joy />  🤎
+
                         
-____________________________________________________________________________________________                 
+     
                         
 
 ✨ Welcome to my space, I am Fabiana Campanari, also known as Fabí. I was born in São Paulo,🇧🇷.
