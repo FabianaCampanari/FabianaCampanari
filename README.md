@@ -1,6 +1,9 @@
 
-<h1 align="center">  🎨  I DO DESIGN & CODE  </h1>
-<p align="center">  < with love & joy />  🤎</p>
+<h1 align="center">  🎨  I DO DESIGN & CODE 
+  
+  
+< with love & joy />  🤎</h1>
+
   
         
  
