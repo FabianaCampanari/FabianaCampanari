@@ -1,7 +1,9 @@
 
 
   
-    🎨  I DO DESIGN & CODE < with love & joy />  🤎
+    🎨  I DO DESIGN & CODE 
+    
+        < with love & joy />  🤎
  __________________________________________________________________________________________
  
  ![giphy](https://user-images.githubusercontent.com/113218619/207639193-8a8043cf-f905-45ff-a4bc-da3d83613752.gif)
