@@ -1,10 +1,8 @@
 
-
+<h1 align="center">  🎨  I DO DESIGN & CODE  </h1>
+<h2 align="center">  < with love & joy />  🤎</h2>
   
-                                    🎨  I DO DESIGN & CODE 
-   
-    
-                                     < with love & joy />  🤎
+        
  __________________________________________________________________________________________
  
  ![giphy](https://user-images.githubusercontent.com/113218619/207639193-8a8043cf-f905-45ff-a4bc-da3d83613752.gif)
