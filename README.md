@@ -7,10 +7,7 @@
 </h1>
 
 
-<p align="center">
-  <img src="![3](https://user-images.githubusercontent.com/113218619/207891367-b8c9e463-69f6-4a4a-88da-c63f182f03af.gif)" alt="animated" />
-</p>
- ![28](https://user-images.githubusercontent.com/113218619/207889905-348e2039-6ff8-494a-9c39-d12958e0dfb2.gif)  
+
    
 ![24](https://user-images.githubusercontent.com/113218619/207889067-8edb19fc-a500-413d-b1cf-08182f64ca10.gif)
   
