@@ -7,7 +7,7 @@
 </h1>
 
 
-
+# 👽 Welcome to my space, I am Fabiana Campanari, also known as Fabí. I was born in São Paulo, Brazil 🇧🇷,Earth 🌎
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113218619/207962226-673d57ec-c076-47c4-8f8a-c1e57e834f6f.gif" />
@@ -18,8 +18,9 @@
                            
                         
 
-# 🕊 Welcome to my space, I am Fabiana Campanari, also known as Fabí. I was born in São Paulo,🇧🇷.
 
+
+# about my journey
 ✨After graduating in Psychology at PUC-SP, I majored in Graphic Design at UCSD, San Diego, California,🇺🇸.
 
 ✨ I developed my career working as graphic designer since 2002 on top Design and Advertising agencies in São Paulo.
