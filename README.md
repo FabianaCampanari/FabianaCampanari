@@ -15,7 +15,7 @@
 
 
                   
-# 🚀 about my journey on this planet:
+# 🚀 About my journey on this Planet:
 
 ✨After graduating in Psychology at PUC-SP, I majored in Graphic Design at UCSD, San Diego, California,🇺🇸.
 
