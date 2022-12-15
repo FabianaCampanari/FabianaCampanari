@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="![28](https://user-images.githubusercontent.com/113218619/207889905-348e2039-6ff8-494a-9c39-d12958e0dfb2.gif)" alt="animated" />
+  <img src="" alt="animated" />
 </p>
  ![28](https://user-images.githubusercontent.com/113218619/207889905-348e2039-6ff8-494a-9c39-d12958e0dfb2.gif)  
    
