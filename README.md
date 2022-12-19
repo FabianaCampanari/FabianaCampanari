@@ -30,6 +30,6 @@
  </p>
  
  <p align="center">
- “Programmers and artists are the only professionals whose hobby is their profession.” – Rafael Lain''
+ “Programmers and artists are the only professionals whose hobby is their profession.” 
   </p>
 
