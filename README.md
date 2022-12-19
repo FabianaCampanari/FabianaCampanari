@@ -6,9 +6,8 @@
        < with love & joy /> 🤎  
 </h1>
 
-
-
-# 👽 Welcome to my space, I am Fabiana Campanari, also known as Fabí. I was born in São Paulo, Brazil 🇧🇷,Earth 🌎.
+# <p align="center"> 👽 Welcome to my space, I am Fabiana Campanari, also known as Fabí. I was born in São Paulo, Brazil 🇧🇷,Earth 🌎.
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113218619/207962226-673d57ec-c076-47c4-8f8a-c1e57e834f6f.gif" />
