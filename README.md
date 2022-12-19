@@ -25,4 +25,6 @@
 
 #
 
+<p align="center">
 🌟 Favorite quote:
+</p>
