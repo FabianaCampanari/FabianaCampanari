@@ -34,7 +34,7 @@
 
 
 <p align="center"> ✨ “As above, so below” </p>
-<p align="center"> ( The Kybalion )  </p>
+<p align="center"> ( The Kybali
 
 
  
