@@ -28,7 +28,7 @@
 #
 
 <p align="center"> 🌟 Favorites Quotes:  </p>
-<p align="center"> ✨ “Programmers and artists are the only professionals whose hobby is their profession.” </p>
+<p align="center"> “Programmers and artists are the only professionals whose hobby is their profession.” </p>
 
 <p align="center">( Rafael Lain ) </p>
 
