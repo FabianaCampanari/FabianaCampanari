@@ -34,7 +34,7 @@
 
 
 <p align="center"> ✨ “As above, so below” </p>
-<p align="center"> ( T
+<p align="ce
 
 
  
