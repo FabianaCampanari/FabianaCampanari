@@ -33,8 +33,7 @@
 <p align="center">( Rafael Lain ) </p>
 
 
-<p align="center"> ✨ “As above, so below” </p>
-<p al
+<p align="center"> ✨ “As above, so below” <
 
 
  
