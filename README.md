@@ -11,13 +11,13 @@ I was born in São Paulo 🏙, Brazil 🇧🇷, Urantia (Earth) 🌎, Alcyone St
 
 #
 
-#### <p align="center">  ✨ As above, So below ✨ </p>
+### <p align="center">  ✨ As above, So below ✨ </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113218619/207962226-673d57ec-c076-47c4-8f8a-c1e57e834f6f.gif" />
 </p>
                 
-#### <p align="center"> 🚀 About my journey on this Planet... </p>
+### <p align="center"> 🚀 About my journey on this Planet... </p>
 
 #
 
