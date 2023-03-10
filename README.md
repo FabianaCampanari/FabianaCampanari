@@ -10,7 +10,7 @@
 #### <p align="center"> 🇧🇷 Brazil </p>
 #### <p align="center"> 🌎 Urantia (Earth) </p>
 #### <p align="center"> ⭐️ Alcyone Star System </p>
-#### <p align="center">💥 Universe of Nebadon
+#### <p align="center">💥 Universe of Nebadon </p>
 #### <p align="center">🔆 7° SuperUniverse of Orvonton.
 </p>  
 
