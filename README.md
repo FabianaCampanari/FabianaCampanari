@@ -6,7 +6,7 @@
 </h1>
 
 #### <p align="center"> 👽 Welcome to my creative space, I am Fabiana Campanari, also known as Fabí.
-#### <p align="center"> 🏡 I was born in São Paulo 
+#### <p align="center"> 🏡 I was born in São Paulo </p>
 #### <p align="center"> 🇧🇷 Brazil 
 #### <p align="center"> 🌎 Urantia (Earth) 
 #### <p align="center"> ⭐️ Alcyone Star System
