@@ -6,7 +6,8 @@
        < with love & joy /> 🤎  
 </h1>
 
-## <p align="center"> 👽 Welcome to my space, I am Fabiana Campanari, also known as Fabí. I was born in São Paulo, Brazil 🇧🇷, Urantia (Earth) 🌎, Alcyone Star System ⭐️ , Universe of Nebadon 💥, 7° SuperUniverse of Orvonton 💫
+<p align="center"> 👽 Welcome to my space, I am Fabiana Campanari, also known as Fabí. 
+I was born in São Paulo, Brazil 🇧🇷, Urantia (Earth) 🌎, Alcyone Star System ⭐️ , Universe of Nebadon 💥, 7° SuperUniverse of Orvonton 💫
 </p>
 
 <p align="center">  ✨ As above, so below ✨ </p>
