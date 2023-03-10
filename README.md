@@ -10,6 +10,8 @@
 I was born in São Paulo, Brazil 🇧🇷, Urantia (Earth) 🌎, Alcyone Star System ⭐️ , Universe of Nebadon 💥, 7° SuperUniverse of Orvonton 💫
 </p>
 
+#
+
 <p align="center">  ✨ As above, so below ✨ </p>
 
 <p align="center">
