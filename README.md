@@ -10,7 +10,7 @@
  
 #
 
-#### <p align="center">  ✨ As above, So below ✨ </p>
+#### <p align="center"> ✨ As above, So below ✨ </p>
 ( Kybalion ) ✨ 
 
 <p align="center">
