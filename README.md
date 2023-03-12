@@ -21,7 +21,7 @@
 
 #
 
-👩‍🎓  After graduating in Psychology at PUC-SP, I majored in Graphic Design at UCSD, San Diego, California, USA 🇺🇸. 
+### 👩‍🎓  After graduating in Psychology at PUC-SP, I majored in Graphic Design at UCSD, San Diego, California, USA 🇺🇸. 
 
 🎨  I developed my career working as Graphic Designer since 2002 on top design and advertising agencies in São Paulo.
 
