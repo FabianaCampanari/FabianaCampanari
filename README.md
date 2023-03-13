@@ -14,7 +14,7 @@
 
 ###  <p align="center"> ⭐️ Alcyone Star System 
 
-💥 Universe of Nebadon
+###  <p align="center"> 💥 Universe of Nebadon
 
 🔆 7° SuperUniverse of Orvonton </p>
  
