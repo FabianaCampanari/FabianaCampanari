@@ -9,7 +9,7 @@
 
 ###  <p align="center"> 🏡 I was born in São Paulo </p>
 
-###  <p align="center"> 🇧🇷 Brazil
+###  <p align="center"> 🇧🇷 Brazil </P>
 
 ###  <p align="center"> 🌎 Urantia (Earth)
 
