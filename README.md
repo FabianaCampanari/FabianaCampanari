@@ -8,9 +8,9 @@
 ### <p align="center"> 👽 Welcome to my creative space, I am Fabiana Campanari, also known as Fabí.
 ###  <p align="center"> 🏡 I was born in São Paulo
 
-###  <p align="center">🇧🇷 Brazil
+###  <p align="center"> 🇧🇷 Brazil
 
-🌎 Urantia (Earth)
+###  <p align="center"> 🌎 Urantia (Earth)
 
 ⭐️ Alcyone Star System 
 
