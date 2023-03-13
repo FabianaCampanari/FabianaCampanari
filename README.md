@@ -16,7 +16,7 @@
 
 ###  <p align="center"> 💥 Universe of Nebadon
 
-🔆 7° SuperUniverse of Orvonton </p>
+###  <p align="center"> 🔆 7° SuperUniverse of Orvonton </p>
  
 #
 
