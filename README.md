@@ -11,7 +11,7 @@
 
 ###  <p align="center"> 🇧🇷 Brazil </P>
 
-###  <p align="center"> 🌎 Urantia (Earth)
+###  <p align="center"> 🌎 Urantia (Earth) </p>
 
 ###  <p align="center"> ⭐️ Alcyone Star System 
 
