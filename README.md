@@ -40,8 +40,9 @@
 
 #### <p> 👩‍💻  I am currently in career transition and learning frontend development to achieve new market demands.
 
+ #
 
-## <p align="center"> ✨ Favorite Quote ✨  
+<p align="center"> ✨ Favorite Quote ✨  
  
 ### <p align="center"> “ Programmers and artists are the only professionals whose hobby is their profession. ”
 
