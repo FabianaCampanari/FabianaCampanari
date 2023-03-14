@@ -15,9 +15,9 @@
 
 ###  <p align="center"> 💫 Alcyone Star System </p>
 
-###  <p align="center"> 💥 Universe of Nebadon </p>
+###  <p align="center"> 🔅 Universe of Nebadon </p>
 
-###  <p align="center"> 🌟 7° SuperUniverse of Orvonton </p>🔅🔆⚗️🩹🏵✨☀️
+###  <p align="center"> 🔆 7° SuperUniverse of Orvonton </p>🔅🔆⚗️🩹🏵✨☀️
  
 #
 
@@ -42,7 +42,7 @@
 
 #
 
-###  <p align="center"> 🌟 Favorite Quote:  </p>
+###  <p align="center"> ✨ Favorite Quote:  </p>
 ####  <p align="center"> “ Programmers and artists are the only professionals whose hobby is their profession. ” </p>
 ####  <p align="center"> ( Rafael Lain ) </p>
 
