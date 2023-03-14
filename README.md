@@ -40,7 +40,6 @@
 
 #### <p> 👩‍💻  I am currently in career transition and learning frontend development to achieve new market demands.
 
-#
 
 ## <p align="center"> ✨ Favorite Quote ✨  
  
