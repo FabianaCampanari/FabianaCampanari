@@ -32,7 +32,7 @@
                 
 ### <p align="center"> 🚀 About my journey on this Planet... </p>
 
-#### <p> 👩‍🎓 After graduating in Psychology at PUC-SP, I majored in Graphic Design at UCSD, San Diego, California, USA 🇺🇸. </p>
+### <p> 👩‍🎓 After graduating in Psychology at PUC-SP, I majored in Graphic Design at UCSD, San Diego, California, USA 🇺🇸. </p>
 
 #### <p> 🎨 I developed my career working as Graphic Designer since 2002 on top design and advertising agencies in São Paulo.
 
