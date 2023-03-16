@@ -38,7 +38,7 @@
 
 ### <p align="center"> 👗 Further I initiated a solo career in Rio de Janeiro specializing in fabric print design development for selective fashion brands.
 
-### 👩‍💻 I am currently in career transition and learning frontend development to achieve new market demands.
+### <p align="center"> 👩‍💻 I am currently in career transition and learning frontend development to achieve new market demands.
 
 #
 
