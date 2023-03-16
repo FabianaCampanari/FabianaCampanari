@@ -1,9 +1,18 @@
 <h1 align="center">  
     
-      ## <p> 🎨 I DO DESIGN & CODE 
+       🎨 I DO DESIGN & CODE 
 
          < with love & joy /> 🤎  
 </h1>
+
+<h1>  
+    
+### <p align="center">  🎨 I DO DESIGN & CODE 
+
+         < with love & joy /> 🤎  
+</h1>
+
+
 
 ### <p align="center"> 👽 Welcome to my creative space, I am Fabiana Campanari, also known as Fabí. </p>
 
