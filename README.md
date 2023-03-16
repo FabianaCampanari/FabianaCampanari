@@ -42,7 +42,7 @@
 
 #
 
-#### <p align="center">  ⚛︎ Favorite Quote   
+#### <p align="center">  🌟 Favorite Quote   
  
 #### <p align="center"> “ Programmers and artists are the only professionals whose hobby is their profession. ”
 
