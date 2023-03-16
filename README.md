@@ -30,7 +30,7 @@
 
 #
                 
-## <p align="center"> 🚀 About my journey on this Planet...  </p>
+### <p align="center"> 🚀 About my journey on this Planet...  </p>
 
  👩‍🎓 After graduating in Psychology at PUC-SP, I majored in Graphic Design at UCSD, San Diego, California, USA 🇺🇸.
 
