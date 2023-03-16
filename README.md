@@ -36,9 +36,9 @@
 
 ### <p align="center"> 🎨 I developed my career working as Graphic Designer since 2002 on top design and advertising agencies in São Paulo.
 
-### <p align="center"> 👗 Further I initiated a solo career in Rio de Janeiro specializing in fabric print design development for selective fashion brands.
+### 👗 Further I initiated a solo career in Rio de Janeiro specializing in fabric print design development for selective fashion brands.
 
-###  👩‍💻 I am currently in career transition and learning frontend development to achieve new market demands.
+### 👩‍💻 I am currently in career transition and learning frontend development to achieve new market demands.
 
 #
 
