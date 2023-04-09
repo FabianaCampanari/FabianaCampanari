@@ -30,8 +30,6 @@
 
 #### <p align="center"> ❉ Quantum Awakeful ❉ </p>
 
-![4-Torus CM](https://user-images.githubusercontent.com/113218619/230747591-a08f678e-1c06-4bc4-b417-5fa9875b9f77.gif)
-
 #
                 
 ### <p align="center"> 🚀 About my journey on this Planet...  </p>
