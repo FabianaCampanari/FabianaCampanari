@@ -31,9 +31,6 @@
 
 #### <p align="center">  " Quantum Awakening ⚛︎ Quantum 4 All "    </p> 
 
-#### <p align="center">  " Quantum Awakening ⚛︎ Quantum 4 All " </p> 
-
-
 #
                 
 ### <p align="center"> 🚀 About my journey on this Planet...  </p>
