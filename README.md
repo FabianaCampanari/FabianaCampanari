@@ -28,9 +28,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113218619/207962226-673d57ec-c076-47c4-8f8a-c1e57e834f6f.gif" />
 
-![10-Quantum Torus](https://user-images.githubusercontent.com/113218619/231000275-b45cc9f7-d968-48b1-a5b9-895bc45905c2.jpeg)
-
 #### <p align="center">  " Quantum Awakening ⚛︎ Quantum 4 All "    </p> 
+
+![10-Quantum Torus](https://user-images.githubusercontent.com/113218619/231000275-b45cc9f7-d968-48b1-a5b9-895bc45905c2.jpeg)
 
 #
                 
