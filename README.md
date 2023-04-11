@@ -30,7 +30,7 @@
 
 #### <p align="center">  " Quantum Awakening ⚛︎ Quantum 4 All "    </p> 
 
-
+![9-Toris   HB](https://user-images.githubusercontent.com/113218619/231310348-f9d05cb8-b272-4ec9-9e6e-fcf5367435ee.jpeg)
 
 #
                 
