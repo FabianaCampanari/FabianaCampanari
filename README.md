@@ -39,7 +39,7 @@
 
 #
                 
-### <p align="center"> 🚀 About my journey on this Planet...  </p>
+### <p align="center"> 🚀 About my journey on this Planet...  </
 
 ✨ After graduating in Psychology at PUC-São Paulo, BR 🇧🇷. I majored in Graphic Design at UCSD, San Diego, California, USA 🇺🇸. </p>
 
