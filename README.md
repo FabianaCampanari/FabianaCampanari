@@ -32,10 +32,13 @@
 
 #### <p align="center">   Quantum ⚛︎ Awake     </p> 
 
-<p align="center">
-<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/3d730ac8-838e-4873-a9aa-71b77f39da88" />
+https://github.com/FabianaCampanari/FabianaCampanari/issues/374#issue-1754024855
+
 
 #### <p align="center"> ✭ Torus Quantum Flow ✭  </p>
+
+<p align="center">
+<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/3d730ac8-838e-4873-a9aa-71b77f39da88" />
 
 #
                 
@@ -56,6 +59,7 @@
 #### <p align="center"> “ Programmers and artists are the only professionals whose hobby is their profession. ” </p>
 
 #### <p align="center"> ( Rafael Lain ) </p>
+
 
 
 
