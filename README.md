@@ -11,9 +11,9 @@
 
 #####  ✨  I was born in São Paulo  
 
-#####  🇧🇷  Brazil 
+#####  ✨  Brazil 🇧🇷
 
-#####  🌎  Urantia (Earth) 
+#####  ✨  Urantia (Earth) 🌎 
 
 #####  ✨  Alcyone Star System 
 
