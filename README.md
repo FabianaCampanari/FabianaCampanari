@@ -15,11 +15,11 @@
 
 #####  🌎  Urantia (Earth) 
 
-#####  💫  Alcyone Star System 
+#####  ✨  Alcyone Star System 
 
-#####  🔅  Universe of Nebadon 
+#####  ✨  Universe of Nebadon 
 
-#####  🔆  7° SuperUniverse of Orvonton
+#####  ✨  7° SuperUniverse of Orvonton
  
 #
 
