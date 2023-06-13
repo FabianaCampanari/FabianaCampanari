@@ -32,10 +32,12 @@
 
 #### <p align="center">   Quantum ⚛︎ Awake     </p> 
 
-<p align="center">
-<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/3d730ac8-838e-4873-a9aa-71b77f39da88" />
+
 
 #### <p align="center"> ✭ Torus Quantum Flow ✭  </p>
+
+<p align="center">
+<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/3d730ac8-838e-4873-a9aa-71b77f39da88" />
 
 #
                 
