@@ -60,12 +60,8 @@
 #### <p align="center"> ( Rafael Lain ) </p>
 
 
-#
-
-https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7cc807c6-a549-4575-97ec-c995e8928725
 
 
-https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2bddde7b-7b81-4429-b255-d6352d9c027b
 
 
 
