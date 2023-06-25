@@ -19,7 +19,7 @@
 
 ####  ✨  Universe of Nebadon 
 
-#####  ✨  7° SuperUniverse of Orvonton
+####  ✨  7° SuperUniverse of Orvonton
  
 #
 
