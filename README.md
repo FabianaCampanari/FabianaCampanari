@@ -41,7 +41,7 @@
 
 ##### ✨ After graduating in Psychology at PUC-São Paulo, BR 🇧🇷. I majored in Graphic Design at UCSD, San Diego, California, USA 🇺🇸. </p>
 
-✨ I developed my career working as Graphic Designer since 2002 on top Design and Advertising Agencies in São Paulo. </p>
+##### ✨ I developed my career working as Graphic Designer since 2002 on top Design and Advertising Agencies in São Paulo. </p>
 
 ✨ Further I initiated a solo career in Rio de Janeiro specializing in fabric print design development for selective fashion brands. </p>
 
