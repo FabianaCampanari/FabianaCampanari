@@ -3,8 +3,7 @@
     🎨 I DO DESIGN & CODE 
    
      < with love & joy /> 🧡 
-   
-</h1>
+   </h1>
 
 
 ####  💡🪬⚛︎⚛︎⚛︎ Welcome to my creative space, I am Fabiana Campanari, also known as Fabí. 
