@@ -11,7 +11,7 @@
 
 ####  ✨  I was born in São Paulo  
 
-#####  ✨  Brazil 🇧🇷
+####  ✨  Brazil 🇧🇷
 
 #####  ✨  Urantia (Earth) 🌎 
 
