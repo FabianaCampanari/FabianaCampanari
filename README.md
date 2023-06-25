@@ -15,7 +15,7 @@
 
 ####  ✨  Urantia (Earth) 🌎 
 
-#####  ✨  Alcyone Star System 
+####  ✨  Alcyone Star System 
 
 #####  ✨  Universe of Nebadon 
 
