@@ -7,7 +7,7 @@
    </h1>
 
 
-####  🧘🏼‍♀️ Welcome to my creative space, I am Fabiana Campanari, also known as Fabí. 
+####  🧘 Welcome to my creative space, I am Fabiana Campanari, also known as Fabí. 
 
 ####  ✨  I was born in São Paulo,  
 
