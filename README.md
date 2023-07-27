@@ -7,6 +7,14 @@
    </h1>
 
 
+
+
+#### <p align="center"> ✭ Quantum  4 All ✭ </p> 
+
+![Qbit](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/a41228bd-e581-40a5-839b-c63b7bba31e3)
+
+#
+
 ####  🧘 Welcome to my creative space, I am Fabiana Campanari, also known as Fabí. 
 
 ####  ✨  I was born in São Paulo,  
@@ -22,11 +30,6 @@
 ####  ✨  7° SuperUniverse of Orvonton.
  
 #
-
-#### <p align="center"> ✭ Quantum  4 All ✭ </p> 
-
-![Qbit](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/a41228bd-e581-40a5-839b-c63b7bba31e3)
-
 
 
 
