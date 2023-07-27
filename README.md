@@ -31,8 +31,7 @@ My goal is not only to become a standout professional in the Front-End Developme
 
 
 
- Through continuous education, hard work, and collaboration with other technology enthusiasts, I hope to drive innovation and contribute to the advancement of science and computing.
-
+ 
 
 
 
