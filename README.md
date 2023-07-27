@@ -9,6 +9,14 @@
 
 #
 
+
+
+
+
+
+
+#
+
 ####  ✨  Welcome to my creative space, I am Fabiana Campanari, also known as Fabí. 
 
 ####  ✨  I was born in São Paulo, Brazil, Earth, Alcyone Star System, Universe of Nebadon, 7° SuperUniverse of Orvonton.
