@@ -2,7 +2,7 @@
 #### <p align="center">  I Do Design & Code  </p> 
 
 <p align="center">
-<img src=""/> 
+<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/eccdc4d9-94cb-494b-9c36-dc02669eb09b"/> 
 
 ![Screen Shot 2023-07-27 at 00 20 34](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/eccdc4d9-94cb-494b-9c36-dc02669eb09b)
 
