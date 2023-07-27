@@ -10,6 +10,7 @@
 #
 
 ## About Me:
+
 I am a professional in career transition with a strong background and experience in Graphic Design, and I am directing my focus towards Front-End Development. Additionally, I hold a degree in Psychology from PUC-SP and seek to integrate my knowledge from both fields to create innovative and impactful digital solutions. Furthermore, after graduating, I had the opportunity to study at UCSD-California, where I attended the American Language Institute to enhance my fluency in English, followed by the Graphic Design course.
 
 Constantly seeking to improve my skills and explore new opportunities in the world of technology, I decided to take a step forward and embark on my academic journey at Impacta Tecnologia University, pursuing a degree in Analysis and Systems Development (ADS) in São Paulo.
@@ -18,7 +19,7 @@ Combining my passion for design and my growing proficiency in Front-End Developm
 
 I am excited about the possibility of growing and evolving in the technology field, and I am determined to explore new horizons, embracing the challenges that Computing and Front-End Development can offer.
 
-### Professional Focus:
+## Professional Focus:
 
 I seek to integrate my knowledge in Graphic Design, Front-End Development, and soon, in Quantum Computing, to create innovative and impactful solutions in the digital world. I am enthusiastic about the possibilities that this combination of skills can provide and eager to contribute to projects and teams that share this vision.
 
