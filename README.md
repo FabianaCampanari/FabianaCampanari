@@ -31,21 +31,8 @@ My goal is not only to become a standout professional in the Front-End Developme
 
 
 
- 
 
-
-
-
-
-
-#
-
-####  ✨  Welcome to my creative space, I am Fabiana Campanari, also known as Fabí. 
-
-####  ✨  I was born in São Paulo, Brazil, Earth, Alcyone Star System, Universe of Nebadon, 7° SuperUniverse of Orvonton.
-
-####  ✨  After graduating in Psychology at PUC-São Paulo, Brazil. I majored in Graphic Design at UCSD, San Diego, California, USA 🇺🇸. </p>
-
+####  ✨  I was born in São Paulo, Brazil, Earth, A
 #### ✨ I developed my career working as Graphic Designer since 2002 on top Design and Advertising Agencies in São Paulo. </p>
 
 
