@@ -4,7 +4,6 @@
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/eccdc4d9-94cb-494b-9c36-dc02669eb09b"/> 
 
-![Scree
 
 #### <p align="center">  < with love & joy /> ❦
 
