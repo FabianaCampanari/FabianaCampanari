@@ -29,7 +29,7 @@ My goal is not only to become a standout professional in the Front-End Developme
 
 #((((((((((
 
-working as Graphic Designer since 2002 on top Design and Advertising Agencies in São Paulo. </p>
+working as Graphic Designer since 2002 on
 
 
 #$$$$$$
