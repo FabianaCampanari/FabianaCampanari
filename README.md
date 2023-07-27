@@ -9,21 +9,9 @@
 
 ####  ✨  Welcome to my creative space, I am Fabiana Campanari, also known as Fabí. 
 
-####  ✨  I was born in São Paulo, Brazil, Earth, Alcyone Star System, Universe of Nebadon, 7° SuperUniverse of Orvonton.   
+####  ✨  I was born in São Paulo, Brazil, Earth, Alcyone Star System, Universe of Nebadon, 7° SuperUniverse of Orvonton.
 
- 
-
-
-
-
-<p align="center">
-<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/0a6fda50-d109-4b4a-8183-61df53adde03" />
-
-#
-                
-#### <p align="center"> 🚀 About my journey on this Planet...  </p>
-
-#### ✨ After graduating in Psychology at PUC-São Paulo, BR 🇧🇷. I majored in Graphic Design at UCSD, San Diego, California, USA 🇺🇸. </p>
+####  ✨  After graduating in Psychology at PUC-São Paulo, BR 🇧🇷. I majored in Graphic Design at UCSD, San Diego, California, USA 🇺🇸. </p>
 
 #### ✨ I developed my career working as Graphic Designer since 2002 on top Design and Advertising Agencies in São Paulo. </p>
 
