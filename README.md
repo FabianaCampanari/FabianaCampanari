@@ -14,7 +14,7 @@
  
 
 
-#### <p align="center">  As Above ✭ So Below  </p>
+
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/0a6fda50-d109-4b4a-8183-61df53adde03" />
