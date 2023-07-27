@@ -23,7 +23,7 @@ I seek to integrate my knowledge in Graphic Design, Front-End Development, and s
 
 ## 👀 Future Objectives:
 
-My goal is not only to become a standout professional in the Front-End Development field but also to be part of the constantly evolving movement in Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I hope to drive innovation and contribute to the advancement of science and computing.
+My goal is not only to become a standout professional in the Front-End Development field but also to be part of the constantly evolving movement in Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I hope to drive innovation and contribute to the advancement of science and computing and humanity,
 
 #### <p align="center">  < with love & joy /> ❦
 
