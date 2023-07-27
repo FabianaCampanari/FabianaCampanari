@@ -7,7 +7,7 @@
 
 #
 
-## About Me:
+## 👽 About Me:
 
 I am a professional in career transition with a strong background and experience in Graphic Design, and I am directing my focus towards Front-End Development. Additionally, I hold a degree in Psychology from PUC-SP and seek to integrate my knowledge from both fields to create innovative and impactful digital solutions. Furthermore, after graduating, I had the opportunity to study at UCSD-California, where I attended the American Language Institute to enhance my fluency in English, followed by the Graphic Design course.
 
@@ -21,7 +21,7 @@ I am excited about the possibility of growing and evolving in the technology fie
 
 I seek to integrate my knowledge in Graphic Design, Front-End Development, and soon, in Quantum Computing, to create innovative and impactful solutions in the digital world. I am enthusiastic about the possibilities that this combination of skills can provide and eager to contribute to projects and teams that share this vision.
 
-👀🕊🍥⌛️💡🕯🔭🔬💎🧘🏼‍♀️🧘🏻👁👽## Future Objectives:
+👀🕊🍥⌛️💡🕯🔭🔬💎🧘🏼‍♀️🧘🏻👁## Future Objectives:
 
 My goal is not only to become a standout professional in the Front-End Development field but also to be part of the constantly evolving movement in Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I hope to drive innovation and contribute to the advancement of science and computing.
 
