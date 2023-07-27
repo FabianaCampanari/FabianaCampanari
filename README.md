@@ -48,11 +48,8 @@ My goal is not only to become a standout professional in the Front-End Developme
 
 #### ✨ I developed my career working as Graphic Designer since 2002 on top Design and Advertising Agencies in São Paulo. </p>
 
-#### ✨ Further I initiated a solo career in Rio de Janeiro specializing in fabric print design development for selective fashion brands. </p>
 
-####  ✨ I am currently in career transition and working as a frontend developer to achieve new market demands.
-
-#
+#$$$$$$
 
 ##### <p align="center">  🌟 Favorite Quote </p>  
  
