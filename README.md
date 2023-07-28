@@ -46,7 +46,7 @@
 
 #
 
-##### <p align="center">  ✨ Favorites Arts </p> 
+
 
 
 
