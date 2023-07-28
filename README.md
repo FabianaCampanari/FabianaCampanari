@@ -27,8 +27,6 @@ My goal is not only to become a standout professional in the Front-End Developme
 
 ### <p align="center">  < with love & joy /> ❦
 
-### <p align="center">  Fab 🚀
-
 #
 
 
