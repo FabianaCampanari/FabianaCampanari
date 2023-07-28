@@ -32,6 +32,10 @@
 
 #
 
+![207962226-673d57ec-c076-47c4-8f8a-c1e57e834f6f](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2)
+
+#
+
 
 ##### <p align="center">  ✨ Favorite Quote </p>  
  
@@ -43,7 +47,6 @@
 
 ##### <p align="center">  ✨ Favorites Arts </p> 
 
-![207962226-673d57ec-c076-47c4-8f8a-c1e57e834f6f](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2)
 
 
 
