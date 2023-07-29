@@ -15,7 +15,7 @@
 
 #### Constantly seeking to improve my skills and explore new opportunities in the world of technology, I decided to take a step forward and embark on my academic journey at Impacta Tecnologia University, pursuing a degree in Analysis and Systems Development (ADS) in São Paulo.
 
-### Combining my passion for design and my growing proficiency in Front-End Development, my aim is to build a career that brings together the best of both worlds, providing incredible and functional digital experiences.
+#### Combining my passion for design and my growing proficiency in Front-End Development, my aim is to build a career that brings together the best of both worlds, providing incredible and functional digital experiences.
 
 ### I am excited about the possibility of growing and evolving in the technology field, and I am determined to explore new horizons, embracing the challenges that Computing and Front-End Development can offer.
 
