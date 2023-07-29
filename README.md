@@ -17,7 +17,7 @@
 
 #### Combining my passion for design and my growing proficiency in Front-End Development, my aim is to build a career that brings together the best of both worlds, providing incredible and functional digital experiences.
 
-### I am excited about the possibility of growing and evolving in the technology field, and I am determined to explore new horizons, embracing the challenges that Computing and Front-End Development can offer.
+#### I am excited about the possibility of growing and evolving in the technology field, and I am determined to explore new horizons, embracing the challenges that Computing and Front-End Development can offer.
 
 ## 🧘🏻 Professional Focus:
 
