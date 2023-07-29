@@ -53,7 +53,7 @@
 
 <p align="center"> ⚖︎ This project is licensed under the MIT License. </p>
 
-<p align="center"> 
+<p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved
 
 
 
