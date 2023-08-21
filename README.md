@@ -54,7 +54,6 @@
 
 <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved  </p>
 
-[![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME)
 
 
 
