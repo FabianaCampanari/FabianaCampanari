@@ -1,4 +1,3 @@
-### <p align="center"> ✨ [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME) ✨
 
 #### <p align="center">  I Do Design & Code 
 
@@ -8,7 +7,7 @@
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/eccdc4d9-94cb-494b-9c36-dc02669eb09b"/> 
 
-
+### <p align="center"> ✨ [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME) ✨
 
 #
 
