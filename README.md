@@ -3,7 +3,10 @@
 #### <p align="center">  I Do Design & Code 
 
 <p align="center">
-<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/eccdc4d9-94cb-494b-9c36-dc02669eb09b"/> 
+<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/> 
+
+
+
 
 
 #### <p align="center">  < with love & joy /> ❦
