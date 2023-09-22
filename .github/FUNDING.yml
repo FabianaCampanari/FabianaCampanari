@@ -5,7 +5,7 @@
 
 
 
-github: [ @FabianaCampanari, @Quantum-Software-Development ]
+☆ github: [ @FabianaCampanari, @Quantum-Software-Development ]
 github: [ 'https://github.com/FabianaCampanari', 'https://github.com/Quantum-Software-Development' ]
 
 
@@ -17,9 +17,12 @@ open_collective: [ @FabianaCampanari. @quantum-software-development ]
 open_collective: [ 'https://opencollective.com/fabianacampanari', 'https://opencollective.com/quantum-software-development' ]
 
 
-Embed button
+✩☆☆☆Embed Sponsor button
 <iframe src="https://github.com/sponsors/FabianaCampanari/button" title="Sponsor FabianaCampanari" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
+
+Embed a Sponsor card
+<iframe src="https://github.com/sponsors/FabianaCampanari/card" title="Sponsor FabianaCampanari" height="225" width="600" style="border: 0;"></iframe>
 
 
 
