@@ -5,23 +5,27 @@
 
 
 
-github: @FabianaCampanari, @Quantum-Software-Development]
-
-github: ['https://github.com/FabianaCampanari', 'https://github.com/Quantum-Software-Development']
-
-stripre_express: @FabianaCampanari 
-['https://stripe.com/docs/financial-services']
+github: [ @FabianaCampanari, @Quantum-Software-Development ]
+github: [ 'https://github.com/FabianaCampanari', 'https://github.com/Quantum-Software-Development' ]
 
 
+stripre_express: @FabianaCampanari  
+stripre_express: ['https://stripe.com/docs/financial-services']
 
 
-open_collective: [@fabiana-campanari , @quantum-software-development]
-
+open_collective: [ @FabianaCampanari. @quantum-software-development ]
+open_collective: [ 'https://opencollective.com/fabianacampanari', 'https://opencollective.com/quantum-software-development' ]
 
 
 
 
-open_collective: [@fabiana-campanari , @quantum-software-development]
+
+
+
+
+
+
+
 
 
 
