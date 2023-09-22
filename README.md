@@ -1,4 +1,5 @@
 
+### <p align="center"> 🚀 [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME) 
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/> 
@@ -11,7 +12,6 @@
 
 
 
-### <p align="center"> 🚀 [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME) 
 
 
 
