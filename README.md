@@ -8,7 +8,7 @@
 
 ### <p align="center">  < with love & joy /> ❦
 
-[![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME)
+### <p align="center">   [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME)
 
 
 
