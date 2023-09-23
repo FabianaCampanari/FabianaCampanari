@@ -8,11 +8,6 @@
 
 #
 
-##### <p align="center">   [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME) 
-
-#
-
-
 ## 👽 About Me:
 
 I am a professional in career transition with a strong background and experience in Graphic Design, and I am directing my focus towards Front-End Development and Data Sciense. Additionally, I hold a degree in Psychology from PUC-SP and seek to integrate my knowledge from both fields to create innovative and impactful digital solutions. Furthermore, after graduating, I had the opportunity to study at UCSD-California, where I attended the American Language Institute to enhance my fluency in English, followed by the Graphic Design course.
@@ -45,6 +40,8 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 <p align="center"> “ Programmers and artists are the only professionals whose hobby is their profession. ”
 
 #### <p align="center">( Rafael Lain ) </p>
+
+##### <p align="center">   [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME) 
 
 #
 
