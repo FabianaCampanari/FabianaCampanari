@@ -1,10 +1,10 @@
 
-### <p align="center">  I Do Design & Code 
+<p align="center">  I Do Design & Code 
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/> 
 
-### <p align="center">  < with love & joy /> 🤍
+<p align="center">  < with love & joy /> 🤍
 
 #
 
