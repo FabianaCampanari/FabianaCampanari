@@ -1,6 +1,7 @@
 
-### <p align="center">  I Do Design, AI & Code 
+<br><br><br>
 
+### <p align="center">  I Do Design, AI & Code 
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/> 
@@ -10,8 +11,6 @@
 <br><br><br>
 
 <br><br><br><br><br><br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 👽 About Me:
 
