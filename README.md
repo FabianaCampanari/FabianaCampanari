@@ -5,6 +5,8 @@
 
 <p align="center">  < with love & joy /> 💎<br>
 
+<p align="center" style="font-size: 120px;">< with love & joy /> 💎</p>
+
 <br><br>
 
 ## 👽 About Me:
