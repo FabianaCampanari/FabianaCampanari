@@ -8,9 +8,9 @@
 
 <br><br>
 
-<p align="center">  < with love & joy /> 💎
+<p align="center">  < with love & joy /> 💎<br>
 
-<p align="center" style="font-size:70px;">< with love & joy /> 💎</p>
+<p align="center" style="font-size: 70px;">< with love & joy /> 💎</p>
 
 
 <br><br><br>
