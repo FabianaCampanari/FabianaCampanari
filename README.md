@@ -59,9 +59,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 #
 
-##### <p align="center"> ⚖︎ This project is licensed under the MIT License. 
-<br></b>
-<p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
+##### <p align="center"> ⚖︎ This project is licensed under the MIT License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
 
 
