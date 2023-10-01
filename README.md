@@ -1,4 +1,4 @@
-
+ <br>
 
 ### <p align="center">  I Do Design, AI & Code </p>
 
@@ -36,6 +36,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/>
+ 
 <br>
 
 ##### <p align="center">   [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME)  
@@ -59,10 +60,14 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 #
 
+
 ##### <p align="center"> ⚖︎ This project is licensed under the MIT License. 
  <br>
 
-<p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
+<br>
+
+
+##### <p align="center"> ⚖︎ This project is licensed under the MIT License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
 
 
