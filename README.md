@@ -53,6 +53,12 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
  #### <p align="center"> [ 💬 Let's Chat](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
 
+ <p align="center">
+<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/>
+ <br>
+
+ #
+ <br>
 
 
  
@@ -63,10 +69,9 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 #
 
-[ 💬 Let's Chat](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
 
-<p align="center">
-<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/>
+
+
 
 #
 
