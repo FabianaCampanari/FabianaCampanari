@@ -6,7 +6,7 @@
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/><br> 
 <br>
  
-#### <p align="center">  < with love & joy /> 💎
+### <p align="center">  < with love & joy /> 💎
 
 #
 <br><br>
@@ -40,7 +40,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 #
 <br>
 
-#### <p align="center"> [🔗 My Contacts Hub](https://linktr.ee/fabianacampanari)
+### <p align="center"> [🔗 My Contacts Hub](https://linktr.ee/fabianacampanari)
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/>
@@ -49,7 +49,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 #
  <br> 
 
- #### <p align="center"> [ 💬 Let's Chat](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
+ ### <p align="center"> [ 💬 Let's Chat](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
 
  <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/>
