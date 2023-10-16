@@ -9,14 +9,13 @@
 #### <p align="center">  < with love & joy /> 💎
 
 #
-
 <br><br>
-
-#
 
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40">  [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME)
 
 <br><br>
+
+#
 
 ## 👽 About Me:  
 
