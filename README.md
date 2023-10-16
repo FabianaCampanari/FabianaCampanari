@@ -3,10 +3,9 @@
 ### <p align="center">  I Do Design, AI & Code </p>
 
 <p align="center">
-<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/> 
+<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/>
+ 
 <p align="center">  < with love & joy /> 💎<br>
-
-##### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME) <br>
 
 ## :octocat: About Me:  
 
@@ -41,10 +40,10 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 #
 
-#### <p align="center"> ⭐︎ Favorite Quote </p>
+### <p align="center"> ⭐︎ Favorite Quote </p>
 <p align="center">  "Programmers and artists are the only professionals whose hobby is their profession."
  
-#### <p align="center">( Rafael Lain ) </p>
+### <p align="center">( Rafael Lain ) </p>
 
 #
 
