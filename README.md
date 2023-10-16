@@ -43,7 +43,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
  
 
-:octocat: [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME
+
 
 #
  
