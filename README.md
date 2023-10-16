@@ -6,8 +6,14 @@
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/><br> 
 <br>
  
-#### <p align="center">  < with love & joy /> 💎<br>
-<br><br>
+#### <p align="center">  < with love & joy /> 💎
+
+#
+
+<br>
+
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40">  [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME)
+
 
 ## 👽 About Me:  
 
