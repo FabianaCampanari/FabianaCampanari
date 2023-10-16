@@ -9,7 +9,7 @@
 #### <p align="center">  < with love & joy /> 💎<br>
 <br><br>
 
-## :octocat: About Me:  
+## 👽 About Me:  
 
 
 I am a professional in career transition with a strong background and experience in Graphic Design, and I am directing my focus towards Front-End Development, AI and Data Sciense. Additionally, I hold a degree in Psychology from PUC-SP and seek to integrate my knowledge from both fields to create innovative and impactful digital solutions. Furthermore, after graduating, I had the opportunity to study at UCSD-California, where I attended the American Language Institute to enhance my fluency in English, followed by the Graphic Design course.
