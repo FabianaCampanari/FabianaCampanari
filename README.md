@@ -33,7 +33,6 @@ My goal is not only to become a standout professional in the Software Developmen
 I aspire to drive innovation and contribute to the advancement of science and quantum computing for the benefit of humanity.
 
 #
-<br> [ 💬 Let's Chat](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
 
 #### <p align="center"> [🔗 My Contacts Hub](https://linktr.ee/fabianacampanari)
 
@@ -42,6 +41,8 @@ I aspire to drive innovation and contribute to the advancement of science and qu
  
 <br>
 
+
+[ 💬 Let's Chat](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
 
 jj
 #
