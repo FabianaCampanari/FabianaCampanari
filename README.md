@@ -38,9 +38,9 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/>
  <br>
 
-:octocat: 
+:octocat: [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME
 #
-
+ 
 ### <p align="center"> ⭐︎ Favorite Quote </p>
 <p align="center">  "Programmers and artists are the only professionals whose hobby is their profession."
  
