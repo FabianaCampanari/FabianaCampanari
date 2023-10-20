@@ -9,7 +9,9 @@
 
 #
 <br><br> 
-[![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://userbadge.committers.top/brazil/USERNAME)
+
+#### <p align="center"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="48"> [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://userbadge.committers.top/brazil/USERNAME) 
+    
 <br>
 
 ## 👽 About Me:  
