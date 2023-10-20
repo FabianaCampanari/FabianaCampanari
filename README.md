@@ -12,6 +12,8 @@
 
 #### <p align="center"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="48"> [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME)
 
+[![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+
   
 <br>
 
