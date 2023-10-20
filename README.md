@@ -15,6 +15,13 @@
     
 
 
+<p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50">          
+
+ 
+<p align="center">   [![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME)
+<br>
+
+
 ## 👽 About Me:  
 
 
