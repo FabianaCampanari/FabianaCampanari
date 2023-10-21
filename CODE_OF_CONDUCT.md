@@ -24,6 +24,7 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
   overall community
+  
 
 Examples of unacceptable behavior include:
 
