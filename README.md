@@ -10,9 +10,9 @@
 #
 <br> 
 
-### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="48"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
-### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="48">
 
 
 
