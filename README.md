@@ -10,7 +10,7 @@
 #
 <br> 
 
-  <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="45"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+ 
   
 ## 👽 About Me:  
 
