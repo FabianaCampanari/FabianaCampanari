@@ -10,7 +10,8 @@
 #
 <br> 
 
-    <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"></p>p>  [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)[![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+  <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="45"></p>
+  [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)[![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
 
 
