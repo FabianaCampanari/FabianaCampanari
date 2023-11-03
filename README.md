@@ -11,10 +11,10 @@
 
 #
 
-<br> 
+<br><br>  
 
 <p align="center"> <a href="https://github.com/sponsors/FabianaCampanari"><img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="200" height="20">
-</a>✬<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40">✬ <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+</a> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="48"> <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
 <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" width="200" height="20">
 </a>
 
