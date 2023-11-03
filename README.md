@@ -26,7 +26,7 @@ Badge 2 e 3:
 </a>
 
 <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" width="200" height="17">
+    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" width="180" height="20">
 </a>
  
  ✬<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="35">✬
