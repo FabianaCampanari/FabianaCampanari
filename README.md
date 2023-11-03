@@ -10,6 +10,9 @@
 #
 <br> 
 
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="35">
+
+
  
   
 ## 👽 About Me:  
