@@ -1,6 +1,6 @@
  <br>
  
-### <p align="center">  I Do Design, AI & Code 
+**<p align="center">  I Do Design, AI & Code** 
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/><br> 
@@ -13,14 +13,14 @@
 
 <br> 
 
-<a href="https://github.com/sponsors/FabianaCampanari"><img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="200" height="20">
+<p align="center"> <a href="https://github.com/sponsors/FabianaCampanari"><img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="200" height="20">
 </a>✬<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40">✬ <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
 <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" width="200" height="20">
 </a>
 
  
   
-## 👽  About Me:  
+## 👽 About Me:  
 
 
 I am a professional in career transition with a strong background and experience in Graphic Design, and I am directing my focus towards Front-End Development, AI and Data Sciense. Additionally, I hold a degree in Psychology from PUC-SP and seek to integrate my knowledge from both fields to create innovative and impactful digital solutions. Furthermore, after graduating, I had the opportunity to study at UCSD-California, where I attended the American Language Institute to enhance my fluency in English, followed by the Graphic Design course.
