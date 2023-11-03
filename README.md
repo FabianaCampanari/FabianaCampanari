@@ -16,41 +16,22 @@
  [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari) <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="48"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
 
-<a href="https://github.com/sponsors/FabianaCampanari">
-    <img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="200" height="50">
-</a>
-
-<a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" width="200" height="50">
-</a>
-
-
 
 Badge 1:
 [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
 
 Badge 2 e 3:
 <a href="https://github.com/sponsors/FabianaCampanari">
-    <img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="67" height="17">
+    <img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="150" height="17">
 </a>
 
 <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" width="67" height="17">
+    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" width="150" height="17">
 </a>
  
  ✬<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="35">✬
 
- Badge 1:
-[![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
 
-Badge 2 e 3:
-<a href="https://github.com/sponsors/FabianaCampanari">
-    <img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="100" height="28">
-</a>
-
-<a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" width="100" height="28">
-</a>
 
  
 
