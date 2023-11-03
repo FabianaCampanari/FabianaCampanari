@@ -13,27 +13,14 @@
 
 <br> 
 
-<a href="https://github.com/sponsors/FabianaCampanari">
-    <img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="200" height="20">
+<a href="https://github.com/sponsors/FabianaCampanari"><img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="200" height="20">
+</a>✬<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40">✬ <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+<img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" width="200" height="20">
 </a>
-
- <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="48"> 
-
-<a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" width="200" height="20">
-</a>
- 
-
- 
- ✬<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="35">✬
-
-
-
- 
 
  
   
-## 👽 About Me:  
+## 👽  About Me:  
 
 
 I am a professional in career transition with a strong background and experience in Graphic Design, and I am directing my focus towards Front-End Development, AI and Data Sciense. Additionally, I hold a degree in Psychology from PUC-SP and seek to integrate my knowledge from both fields to create innovative and impactful digital solutions. Furthermore, after graduating, I had the opportunity to study at UCSD-California, where I attended the American Language Institute to enhance my fluency in English, followed by the Graphic Design course.
