@@ -22,7 +22,7 @@ Badge 1:
 
 Badge 2 e 3:
 <a href="https://github.com/sponsors/FabianaCampanari">
-    <img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="200" height="20">
+    <img src="https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub" width="222" height="22">
 </a>
 
 <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
