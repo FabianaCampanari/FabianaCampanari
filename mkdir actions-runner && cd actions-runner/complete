@@ -12,6 +12,7 @@ Configure
 $ ./config.sh --url https://github.com/FabianaCampanari/FabianaCampanari --token A27ZIOZNGGJ5OKEZTTYIZTTFI4AU2# Last step, run it!
 $ ./run.sh
 
+Using your self-hosted runner
 
 # Use this YAML in your workflow file for each job
 runs-on: self-hosted
