@@ -1,3 +1,4 @@
+# Configuration
 # Create the runner and start the configuration experience
 $ ./config.sh --url https://github.com/FabianaCampanari/FabianaCampanari --token A27ZIOZNGGJ5OKEZTTYIZTTFI4AU2# Last step, run it!
 $ ./run.sh
