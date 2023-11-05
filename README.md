@@ -1,6 +1,7 @@
  <br>
  
-**<p align="center">  I Do Design, AI & Code**<br> 
+**<p align="center">  I Do Design, AI & Code**<br> :octocat:[![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+
 <br>
 
 <p align="center">
