@@ -9,3 +9,6 @@ $ tar xzf ./actions-runner-osx-x64-2.311.0.tar.gz
 $ ./config.sh --url https://github.com/FabianaCampanari/FabianaCampanari --token A27ZIOZNGGJ5OKEZTTYIZTTFI4AU2# Last step, run it!
 $ ./run.sh
 
+
+# Use this YAML in your workflow file for each job
+runs-on: self-hosted
