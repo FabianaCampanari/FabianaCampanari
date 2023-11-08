@@ -1,6 +1,6 @@
 <br>
  
-**<p align="center">  I Do Design, AI & Code**<br> 
+### **<p align="center">  I Do Design, AI & Code**<br> 
 <br>
 
 <p align="center">
@@ -8,7 +8,7 @@
 <br>
 
  
- ***<p align="center"> < with love & joy /> 🪬***
+ ### ***<p align="center"> < with love & joy /> 🪬***
 
   <br>
  
