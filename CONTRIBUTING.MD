@@ -1,6 +1,4 @@
 
-
-
 :octocat: Contributing to Fabiana Campanari's Project
 
 Hello! We're very glad that you're interested in contributing to Fabiana Campanari's project. Whether you're an experienced programmer or making your first open source contribution, everyone is welcome!
@@ -30,10 +28,4 @@ We ask that all contributors follow our [Code of Conduct](CODE_OF_CONDUCT.md), w
 If you have any questions, feel free to open an Issue. We'll do our best to help you!
 
 
-
-* :octocat: (:octocat:) - Este é o mascote do GitHub e pode ser apropriado para um arquivo de contribuição do GitHub.
-* :computer: (:computer:) - Este emoji pode representar o trabalho de codificação que os contribuidores estarão fazendo.
-* :memo: (:memo:) - Este emoji pode representar a documentação ou as mensagens de commit que os contribuidores estarão escrevendo.
-* :question: (:question:) - Este emoji pode ser usado na seção "Questions?" para representar perguntas que os contribuidores possam ter.
-* :sparkles: (:sparkles:) - Este emoji pode representar a nova e excitante contribuição que os contribuidores estarão fazendo para o seu projeto.
 
