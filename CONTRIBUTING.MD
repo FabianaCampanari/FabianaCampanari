@@ -21,3 +21,4 @@
 <h2>Questions?</h2>
 
 <p>If you have any questions, feel free to open an Issue. We'll do our best to help you!</p>
+
