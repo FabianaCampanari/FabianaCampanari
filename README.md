@@ -11,8 +11,6 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 
  <p align="center"> < with love & joy /> 🪬 </p>
 
- + < with love & joy /> 🪬
-
 
   <br>
  
