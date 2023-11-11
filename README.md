@@ -1,6 +1,6 @@
 <br>
 
-<h3 align="center"> I Do Design, AI & Code </h3><br>
+<h2 align="center"> I Do Design, AI & Code </h2><br>
 
 
 <p align="center">
