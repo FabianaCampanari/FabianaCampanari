@@ -8,7 +8,7 @@
 <br>
 
 
-#### <h2 align="center">I Do Design, AI & Code 🪬</h2> 
+#### <h3 align="center">I< with love & joy /> 🪬</h3> 
 
  
 ### **<p align="center"> < with love & joy /> 🪬**
