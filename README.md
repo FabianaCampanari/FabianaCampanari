@@ -1,6 +1,8 @@
 <br>
 
-<h1 align="center"> I Do Dsign, AI & Code </h1><br>
+<h1 align="center"> I Do Design, AI & Code </h1><br>
+
+<h1 style="color:purple;">Hello World</h1>
 
 
 <p align="center">
