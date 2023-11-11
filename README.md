@@ -1,6 +1,6 @@
 <br>
 
-#### <h1 align="center">I Do Design, AI & Code</h1> 
+#### <h2 align="center"> I Do Design, AI & Code </h2> 
 <br>
 
 <p align="center">
@@ -8,7 +8,7 @@
 <br>
 
 
-#### <h3 align="center">I< with love & joy /> 🪬</h3> 
+#### <h3 align="center"> < with love & joy /> 🪬 </h3> 
 
  
 ### **<p align="center"> < with love & joy /> 🪬**
