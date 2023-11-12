@@ -5,7 +5,7 @@
 
 $${\color{red}I Do \space \color{lightblue}Design \space \color{orange}AI Code}$$
 
-${\textsf{\color{lightgreen}Green}}$ t
+$${\textsf{\color{lightgreen}Green}}$$ 
 
 
 <p align="center">
