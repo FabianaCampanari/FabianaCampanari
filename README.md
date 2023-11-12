@@ -1,11 +1,8 @@
 <br>
 
 
-<h2 align="center"> I Do Design, AI & Code </h2><br>
+<h3 align="center"> I Do Design, AI & Code </h3><br>
 
-$${\color{red}I Do \space \color{lightblue}Design \space \color{orange}AI Code}$$
-
-$${\textsf{\color{lightgreen}Green}}$$ 
 
 
 <p align="center">
