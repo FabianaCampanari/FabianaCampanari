@@ -1,7 +1,9 @@
 <br>
 
 
-### $${\color{red}I Do \space \color{lightblue}Design \space \color{orange}AI Code}$$
+<h2 align="center"> I Do Design, AI & Code </h2><br>
+
+$${\color{red}I Do \space \color{lightblue}Design \space \color{orange}AI Code}$$
 
 
 <p align="center">
