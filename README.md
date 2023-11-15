@@ -8,7 +8,7 @@
 
  <p align="center"> < with love & joy /> 🧿 </p>
 
- <p style="font-size: 20px;"> < with love & joy /> 🧿 </p>
+ <p style="font-size: 100px;"> < with love & joy /> 🧿 </p>
 
 
  <br>
