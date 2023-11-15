@@ -36,7 +36,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 #
 <br>
 
-#### <p align="center"> [🌐📪📬🛰️ My Contacts Hub](https://linktr.ee/fabianacampanari)
+#### <p align="center"> [🌐 My Contacts Hub](https://linktr.ee/fabianacampanari)
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/>
