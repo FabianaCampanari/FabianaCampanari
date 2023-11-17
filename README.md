@@ -1,13 +1,12 @@
 <br>
-
 <!-- <h3 align="center"> 🪬 I Do Design, AI & Code </h3><br> -->
-
-
 $$\Huge{\color{blue}I Do \space \color{DodgerBlue}Design, \space \color{DeepSkyBlue}AI  \space and \space \color{LightSkyBlue}Code}$$
 
 <!-- <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/><br> 
 <br> -->
+
+![frequency gradient from low to high](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ceb020e1-d34d-4e4a-83c0-e4f5fa66f7bf)
 
  <p align="center"> < with love & joy /> 🧿 </p>
 
