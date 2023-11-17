@@ -5,9 +5,9 @@
 
 $$\Huge{\color{blue}I Do \space \color{DodgerBlue}Design, \space \color{DeepSkyBlue}AI  \space and \space \color{LightSkyBlue}Code}$$
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/><br> 
-<br>
+<br> -->
 
  <p align="center"> < with love & joy /> 🧿 </p>
 
