@@ -32,6 +32,9 @@ I seek to integrate my knowledge in Graphic Design, Front-End Development, and s
 ## 👀 Future Objectives:
 
 
+[👀  Future](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/df2ad03e-1c80-44f8-8d70-b41c8422708)
+
+
 [👀 ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/df2ad03e-1c80-44f8-8d70-b41c84227083)
 
 My goal is not only to become a standout professional in the Software Development field but also to be part of the constantly evolving movement in Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts.
