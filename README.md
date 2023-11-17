@@ -9,7 +9,7 @@
 
 <!-- ![frequency gradient from low to high](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ceb020e1-d34d-4e4a-83c0-e4f5fa66f7bf) -->
 
- <p align="center"> < with love & joy /> 🧿 </p>
+ ###### <p align="center"> < with love & joy /> 🧿 </p>
 
 
  <br>
