@@ -7,7 +7,7 @@
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/><br> 
 <br> -->
 
- ###### <p align="center"> < with vibe, frequency & joy /> 🧿 </p>
+ ### <p align="center"> < with vibe, frequency & joy /> 🧿 </p>
 
 
  <br>
