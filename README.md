@@ -7,7 +7,7 @@
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/><br> 
 <br> -->
 
- ###### <p align="center"> < with love & joy /> 🧿 </p>
+ ###### <p align="center"> < with vibe, frequency & joy /> 🧿 </p>
 
 
  <br>
@@ -74,7 +74,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 ##### <p align="center"> 💎 Favorite Quote </p> 
 <p align="center"> Programmers and artists are the only professionals whose hobby is their profession <br>
  
-##### <p align="center">( Rafael Lain ) </p>
+##### <p align="center">( Rafael Lain ) </p> 
 
 #
  <br>
