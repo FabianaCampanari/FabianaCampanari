@@ -4,12 +4,15 @@
 
 
 
+## $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+
 # $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{MediumBlue}Design,} \space \textbf{\color{RoyalBlue}AI}  \space \textbf{\color{DodgerBlue}and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
 
 # $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
 # $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+
 
 # $$\Huge{\textbf{\textit{\color{blue}I Do}} \space \textbf{\textit{\color{DodgerBlue}Design,}} \space \textbf{\textit{\color{DeepSkyBlue}AI}}  \space \textbf{\textit{and}} \space \textbf{\textit{\color{LightSkyBlue}Code}}}$$
 
@@ -70,7 +73,6 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 ### <p align="center"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
 
-#
  
  #### <p align="center"> [🪬  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
 
