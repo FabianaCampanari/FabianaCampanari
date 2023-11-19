@@ -6,6 +6,14 @@
 
 ## $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
+# $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{MediumBlue}Design,} \space \textbf{\color{RoyalBlue}AI}  \space \textbf{\color{DodgerBlue}and} \space \textbf{\color{LightSkyBlue}Code}}$$
+
+
+# $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+
+# $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+
+
 # $$\Huge{\textbf{\textit{\color{blue}I Do}} \space \textbf{\textit{\color{DodgerBlue}Design,}} \space \textbf{\textit{\color{DeepSkyBlue}AI}}  \space \textbf{\textit{and}} \space \textbf{\textit{\color{LightSkyBlue}Code}}}$$
 
 
@@ -26,9 +34,7 @@
 
 #### ***<p align="center"> < with vibe, frequency & joy /> 🧿 </p>***
 
-### ***<p align="center"> < with vibe, frequency & joy /> 🧿 </p>***
-
-
+### ***<p align="center"> < with vibe, & joy /> 🧿 </p>***
 
  <br>
 
@@ -67,9 +73,19 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 ### <p align="center"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
 
-#
  
  #### <p align="center"> [🪬  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
+
+
+Claro, aqui está o código com as cores da palavra "AI" e "and" trocadas:
+
+```latex
+$$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{CornflowerBlue}AI}  \space \textbf{\color{DeepSkyBlue}and} \space \textbf{\color{LightSkyBlue}Code}}$$
+```
+
+Agora, a palavra "AI" está na cor CornflowerBlue e a palavra "and" está na cor DeepSkyBlue. Espero que isso ajude! 😊
+
+
 
  <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/>
