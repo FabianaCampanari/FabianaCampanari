@@ -69,6 +69,17 @@ I aspire to drive innovation and contribute to the advancement of science and qu
  
  #### <p align="center"> [🪬  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
 
+
+Claro, aqui está o código com as cores da palavra "AI" e "and" trocadas:
+
+```latex
+$$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{CornflowerBlue}AI}  \space \textbf{\color{DeepSkyBlue}and} \space \textbf{\color{LightSkyBlue}Code}}$$
+```
+
+Agora, a palavra "AI" está na cor CornflowerBlue e a palavra "and" está na cor DeepSkyBlue. Espero que isso ajude! 😊
+
+
+
  <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/>
   
