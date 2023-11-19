@@ -10,8 +10,6 @@
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/><br> 
 <br> -->
 
-![Me](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/f41f94e0-78ed-438d-bc43-c9cc265056bc)
-
 
 <br>
 
