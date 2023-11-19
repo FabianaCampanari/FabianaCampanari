@@ -39,7 +39,6 @@ My goal is not only to become a standout professional in the Software Developmen
 I aspire to drive innovation and contribute to the advancement of science and quantum computing for the benefit of humanity.
 
 #
-
 <br>
 
 #### <p align="center"> [🌐 My Contacts Hub](https://linktr.ee/fabianacampanari)
@@ -56,7 +55,6 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 <br>
 
 #
-
 <br>
  
  #### <p align="center"> [🪬  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
@@ -64,7 +62,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
  <br>
 
  <p align="center">
-<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/>
+<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/><br>
   
  <br>
 
@@ -81,7 +79,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 #
 
-##### <p align="center"> Copyright 2023 Fabiana Campanari. Code released under the MIT license.
+###### <p align="center"> Copyright 2023 Fabiana Campanari. Code released under the MIT license.
  
 
 
