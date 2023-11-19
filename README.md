@@ -61,6 +61,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
  
  #### <p align="center"> [🪬  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
 
+ <br>
 
  <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/>
@@ -68,6 +69,8 @@ I aspire to drive innovation and contribute to the advancement of science and qu
  <br>
 
  #### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari) 
+
+<br>
 
  #
  
