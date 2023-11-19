@@ -2,6 +2,13 @@
 <!-- <h3 align="center"> 🪬 I Do Design, AI & Code </h3><br> -->
 
 
+Para colocar o texto em negrito na expressão LaTeX, você pode usar o comando `\textbf{}`. Aqui está o seu código com o texto em negrito:
+
+```latex
+$$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+```
+
+Espero que isso ajude! 😊
 
 
 # $$\Huge{\color{blue}I Do \space \color{DodgerBlue}Design, \space \color{DeepSkyBlue}AI  \space and \space \color{LightSkyBlue}Code}$$
