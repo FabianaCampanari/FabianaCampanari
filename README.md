@@ -5,7 +5,7 @@
 
 
 $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
-```
+
 
 # $$\Huge{\color{blue}I Do \space \color{DodgerBlue}Design, \space \color{DeepSkyBlue}AI  \space and \space \color{LightSkyBlue}Code}$$
 
