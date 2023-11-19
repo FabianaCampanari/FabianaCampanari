@@ -2,6 +2,11 @@
 <!-- <h3 align="center"> 🪬 I Do Design, AI & Code </h3><br> -->
 
 
+
+
+$$\Huge{\textbf{\color{MidnightBlue}I Do} \space \textbf{\color{MediumBlue}Design,} \space \textbf{\color{RoyalBlue}AI}  \space \textbf{\color{DodgerBlue}and} \space \textbf{\color{LightSkyBlue}Code}}$$
+
+
 # $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
 ## $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
