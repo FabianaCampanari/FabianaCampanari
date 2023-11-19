@@ -2,11 +2,8 @@
 <!-- <h3 align="center"> 🪬 I Do Design, AI & Code </h3><br> -->
 
 
-
-
 # $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
------------
 
 <!-- <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/2d2e58bd-bdd4-4899-877a-509469e5f2d3"/><br> 
@@ -18,7 +15,6 @@
 
 #### ***<p align="center"> < with vibe, frequency & joy /> 🧿 </p>***
 
-### ***<p align="center"> < with vibe, & joy /> 🧿 </p>***
 
  <br>
 
