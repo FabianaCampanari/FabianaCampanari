@@ -9,7 +9,6 @@
 -----------
 
 
-# $$\Huge{\textbf{\textit{\color{blue}I Do}} \space \textbf{\textit{\color{DodgerBlue}Design,}} \space \textbf{\textit{\color{DeepSkyBlue}AI}}  \space \textbf{\textit{and}} \space \textbf{\textit{\color{LightSkyBlue}Code}}}$$
 
 
 # $$\Huge{\color{blue}I Do \space \color{DodgerBlue}Design, \space \color{DeepSkyBlue}AI  \space and \space \color{LightSkyBlue}Code}$$
