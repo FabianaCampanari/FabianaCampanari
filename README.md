@@ -11,7 +11,7 @@
 
 <br>
 
-### ***<p align="center"> < with vibe, frequency & joy /> 🧿 </p>***
+#### ***<p align="center"> < with vibe, frequency & joy /> 🧿 </p>***
 
  <br>
 
