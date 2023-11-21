@@ -13,7 +13,7 @@
 
 ## [👽 About Me:]()
 
-![Vibration](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/25dc26ab-b9c3-4051-9ec9-42cac3797084)
+https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/25dc26ab-b9c3-4051-9ec9-42cac3797084
 
 
 
