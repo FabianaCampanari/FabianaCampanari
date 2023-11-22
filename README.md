@@ -83,6 +83,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 
 
+[🧘🏼‍♀️ Professional Focus:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/4186893c-443a-4e1d-98a0-96acaa4ef00b)
 
 
 
