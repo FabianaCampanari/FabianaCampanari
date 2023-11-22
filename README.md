@@ -24,7 +24,7 @@ I am excited about the possibility of growing and evolving in the technology fie
 
 
 
-https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/e01b7202-31e6-4c1c-bcf2-0aa6fec67d35
+https://github.com/FabianaCampanari/F
 
 ## [🧘🏼‍♀️ Professional Focus:]()
 
