@@ -27,7 +27,7 @@ I am excited about the possibility of growing and evolving in the technology fie
 
 
 
-https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/6ce5d709-0dc0-409b-87d4-2ee5cba9f2f8
+https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/6ce5d709-0
 
 
 
