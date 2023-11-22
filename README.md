@@ -32,7 +32,7 @@ I seek to integrate my knowledge in Graphic Design, Front-End Development, and s
 ## [👀 Future Objectives:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7f5c9c2f-44b3-4386-9422-c2a3e0a91088)
 
 
-![Torus Magnectic Quantum Flow](
+![Torus 
 
 My goal is not only to become a standout professional in the Software Development field but also to be part of the constantly evolving movement in Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts.
 
