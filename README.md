@@ -23,7 +23,7 @@ Combining my passion for design and my growing proficiency in Front-End Developm
 I am excited about the possibility of growing and evolving in the technology field, and I am determined to explore new horizons, embracing the challenges that Quantum Computing and Software Development can offer.
 
 
-## [🧘🏼‍♀️ Professional Focus
+## [🧘🏼‍♀️ Professional Focus]
 
 https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/4186893c-443a-4e1d-98a0-96acaa4ef00b
 
