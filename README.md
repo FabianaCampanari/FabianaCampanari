@@ -78,7 +78,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 #
 
-###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/9bc7ac46f8c38e95344ba3dac8cb07c527bb5226/LICENSE)
+###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.]()
 
 https://github.com/FabianaCampanari/FabianaCampanari/blob/6c025e5f18f74c0c55427915fc612d1dacfa4564/LICENSE
  
