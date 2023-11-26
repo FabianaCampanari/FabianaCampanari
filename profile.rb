@@ -72,8 +72,8 @@ puts\
 puts "#"\
 puts " <br>"\
 puts\
-puts "###### <p align=\\"center\\"> \uc0\u9878 \u65038  This project is licensed under the MIT License. <p align=\\"center\\"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>"\
-puts\
+puts "###### <p align=\\"center\\"> \uc0\u9878 \u65038  [Copyright 2023 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/9bc7ac46f8c38e95344ba3dac8cb07c527bb5226/LICENSE)
+ 
 puts "<br>"\
 puts "<br>"\
 puts "<br>"\
