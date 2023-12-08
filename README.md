@@ -24,7 +24,7 @@ I am excited about the possibility of growing and evolving in the technology fie
 
 
 
-186893c-443a-4e1d-98a0-96acaa4ef00b)(http
+186893c-443a-4e1d-98a0-
 
 
 
