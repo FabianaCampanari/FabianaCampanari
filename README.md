@@ -12,7 +12,6 @@
 
 ## [👽 About Me:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
 
-
 I am a professional in career transition with a strong background and experience in Graphic Design, and I am directing my focus towards Front-End Development, AI and Data Sciense. Additionally, I hold a degree in Psychology from PUC-SP and seek to integrate my knowledge from both fields to create innovative and impactful digital solutions. Furthermore, after graduating, I had the opportunity to study at UCSD-California, where I attended the American Language Institute to enhance my fluency in English, followed by the Graphic Design course.
 
 Constantly seeking to improve my skills and explore new opportunities in the world of technology, I decided to take a step forward and embark on my academic journey at Impacta Tecnologia University, pursuing a degree in Analysis and Systems Development (ASD) in São Paulo.
@@ -26,13 +25,11 @@ I am excited about the possibility of growing and evolving in the technology fie
 
 186893c-443a-4e1d-98a0-96acaa4ef00b)(https://github.com/FabianaCampanari/
 
-Focus:](186893c-443a-4
-
+Fo
+cus:](186893c-443a-4
 
 
 ## [🧘🏼‍♀️ Professional Focus:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/25dc26ab-b9c3-4051-9ec9-42cac3797084)
-
-
 
 I seek to integrate my knowledge in Graphic Design, Front-End Development, and soon, in Quantum Computing, to create innovative and impactful solutions in the digital world. I am enthusiastic about the possibilities that this combination of skills can provide and eager to contribute to projects and teams that share this vision.
 
