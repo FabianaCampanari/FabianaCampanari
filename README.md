@@ -26,7 +26,7 @@ I am excited about the possibility of growing and evolving in the technology fie
 
 186893c-443a-4e1d-98a0-96acaa4ef00b)(https://github.com/FabianaCampanari/
 
-Focus:](186893c-443a-4e1d-98a0-96acaa4ef00b)(https
+Focus:](186893c-443a-4
 
 
 
