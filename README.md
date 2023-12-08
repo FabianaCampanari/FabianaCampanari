@@ -24,7 +24,6 @@ I am excited about the possibility of growing and evolving in the technology fie
 
 
 
-18689
 
 
 
