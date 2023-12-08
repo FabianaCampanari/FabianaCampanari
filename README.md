@@ -23,7 +23,7 @@ I am excited about the possibility of growing and evolving in the technology fie
 
 
 
-## [🧘🏼‍♀️ Professional Focus:](186893c-443a-4e1d-98a0-96acaa4ef00b)(https://github.com/FabianaCampanari/
+Focus:](186893c-443a-4e1d-98a0-96acaa4ef00b)(https://github.com/FabianaCampanari/
 
 
 ## [🧘🏼‍♀️ Professional Focus:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/25dc26ab-b9c3-4051-9ec9-42cac3797084)
