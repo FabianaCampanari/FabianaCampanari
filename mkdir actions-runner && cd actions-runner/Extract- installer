@@ -1,2 +1,0 @@
-# Extract the installer
-tar xzf ./actions-runner-osx-x64-2.311.0.tar.gz
