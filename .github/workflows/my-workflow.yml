@@ -13,7 +13,7 @@ steps:
 - name: My Action
   uses: my-action@v1
   with:
-     meu_segredo: ${{ secrets.VICTORYA_SECRETS}}
+     my_secret: ${{ secrets.GITHUB_TOKEN }}
 
 
 
