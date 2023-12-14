@@ -25,9 +25,8 @@ I am excited about the possibility of growing and evolving in the technology fie
 I seek to integrate my knowledge in Graphic Design, Front-End Development, and soon, in Quantum Computing, to create innovative and impactful solutions in the digital world. I am enthusiastic about the possibilities that this combination of skills can provide and eager to contribute to projects and teams that share this vision.
 
 
-## [👀 Future Objectives:]()
+## [👀 Future Objectives:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)
 
-https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d
 
 https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7f5c9c2f-44b3-4386-9422-c2a3e0a91088
 
