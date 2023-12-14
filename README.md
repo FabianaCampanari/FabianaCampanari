@@ -8,7 +8,7 @@
 
 ### <p align="center"> ***< with vibe, frequency & joy />*** 🪬</p>
 
-#### <p align="center"> [ A KURIA MATTE](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)
+##### <p align="center"> [A KURIA MATTE](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)
 
  <br>
 
