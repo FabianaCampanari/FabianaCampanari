@@ -31,10 +31,6 @@ My goal is not only to become a standout professional in the Software Developmen
 
 I aspire to drive innovation and contribute to the advancement of science and quantum computing for the benefit of humanity.
 
-<br>
-
-#### <p align="center"> [🔮 A KURIA MATTE](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)
-
 #
 
 <br>
