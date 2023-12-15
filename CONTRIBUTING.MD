@@ -1,6 +1,6 @@
 <h1>Contributing to Fabiana Campanari's Project</h1>
 
-<p>Hello! We're very glad that you're interested in contributing to Fabiana Campanari's project. Whether you're an experienced programmer or making your first open source contribution, everyone is welcome!</p>
+<p>Hello! I am very glad that you're interested in contributing to Fabiana Campanari's project. Whether you're an experienced programmer or making your first open source contribution, everyone is welcome!</p>
 
 <h2>How to Contribute</h2>
 
@@ -21,4 +21,7 @@
 <h2>Questions?</h2>
 
 <p>If you have any questions, feel free to open an Issue. We'll do our best to help you!</p>
+
+🌎 We Are All One ! We Are Open Source ! 🫶
+
 
