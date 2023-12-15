@@ -22,6 +22,6 @@
 
 <p>If you have any questions, feel free to open an Issue. We'll do our best to help you!</p>
 
-🌎 We Are All One ! We Are Open Source ! 🫶
+🌎💙 We Are All One ! We Are Open Source 🫶 !
 
 
