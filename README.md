@@ -80,7 +80,6 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 "I love people who are involved in making a difference in the world."
 
-> main
 
 
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
