@@ -73,7 +73,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 ##### <p align="center">  Favorite Quote </p> 
 **<p align="center"> 🌏💙 </p>**
 
-<p align="center"> ***I love people who are committed to transforming the world*** 💙 </p>
+<p align="center"> ***I lov
 
 **<p align="center"> I love people who are committed to transforming the world </p>**
 
