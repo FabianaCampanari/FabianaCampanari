@@ -74,9 +74,9 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 <p align="center"> 🌏 </p>
 
 <p align="center"> " I'm big fan of those who are making waves in the world! "</p>
-**<p align="center"> "I love people who are involved in making a difference in the world." </p>**
+**<p align="center"> "I love people who are involved in making a difference in the world."</p>**
 
-**<p align="center"> I love people who are committed to transforming the world
+**<p align="center"> I love people who are committed to transforming the world </p>**
 
 
 
