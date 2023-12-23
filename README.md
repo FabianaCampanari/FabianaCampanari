@@ -75,17 +75,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 <p align="center"> " I'm big fan of those who are making waves in the world! "</p>
 
-
-
-
 **<p align="center"> I love people who are committed to transforming the world </p>**
-
-
-
-
-
-
-
 
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
 
