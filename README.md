@@ -82,6 +82,8 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
 
+I'm big fan of those who are making waves in the world!
+
 ##### <p align="center">( Rafael Lain ) </p>   -->
 
 #
