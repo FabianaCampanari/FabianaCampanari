@@ -83,6 +83,8 @@ I'm big fan of those who are making waves in the world!
 
 #
 
+<br>
+
 ###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/6c025e5f18f74c0c55427915fc612d1dacfa4564/LICENSE)
 
 
