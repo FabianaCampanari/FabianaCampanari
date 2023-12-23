@@ -75,6 +75,11 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 **<p align="center"> " I'm big fan of those who are making waves in the world! "</p>**
 
 
+
+"I love people who are involved in making a difference in the world."
+
+
+
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
 
 ##### <p align="center">( Rafael Lain ) </p>   -->
