@@ -73,7 +73,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 ##### <p align="center">  Favorite Quote </p> 
 <p align="center"> 🌏 </p>
 
-<p align="center"> " I'm big fan of those who are making waves in the world! "**</p>
+<p align="center"> " I'm big fan of those who are making waves in the world! "</p>
 **<p align="center">    </p>**
 
 
