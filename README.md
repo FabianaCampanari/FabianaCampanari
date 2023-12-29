@@ -79,7 +79,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 I'm big fan of those who are making waves in the world!
 
-##### <p align="center">( Rafael Lain ) </p>   -->
+
 
 #
 
