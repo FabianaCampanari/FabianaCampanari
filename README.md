@@ -23,7 +23,7 @@ Constantly seeking to improve my skills and explore new opportunities in the wor
 Combining my passion for design and my growing proficiency in Front-End Development, my aim is to build a career that brings together the best of both worlds, providing incredible and functional digital experiences.
 I am excited about the possibility of growing and evolving in the technology field, and I am determined to explore new horizons, embracing the challenges that Quantum Computing and Software Development can offer.
 
-## [🧘🏼‍♀️ Professional Focus:](
+## [🧘🏼‍♀️ Professional Focus:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
 
 https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9
 
