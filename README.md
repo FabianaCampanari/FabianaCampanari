@@ -71,7 +71,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 ##### <p align="center"> 💎 Favorite Quote </p> 
 **<p align="center"> 🌏💙 </p>**
 
-**<p align="center"> One People. One World. One Spirit... We Are All One! </p>**
+### **<p align="center"> One People. One World. One Spirit... We Are All One! </p>**
 
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
 
