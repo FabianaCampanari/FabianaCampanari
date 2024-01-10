@@ -36,7 +36,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 <br>
 
-#### <p align="center"> [🌐 My Contacts Hub](https://linktr.ee/fabianacampanari)
+### <p align="center"> [🌐 My Contacts Hub](https://linktr.ee/fabianacampanari)
 
 <br>
 
@@ -62,7 +62,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
   
  <br>
 
- #### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari) 
+ ### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari) 
 
 <br>
 
