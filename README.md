@@ -25,7 +25,7 @@ I am excited about the possibility of growing and evolving in the technology fie
 I seek to integrate my knowledge in Graphic Design, Front-End Development, and soon, in Quantum Computing, to create innovative and impactful solutions in the digital world. I am enthusiastic about the possibilities that this combination of skills can provide and eager to contribute to projects and teams that share this vision.
 
 
-## [👀 Future Objectives:](https://github.com/FabianaCampanari/FabianaCampanari)
+## [👀 Future Objectives:](https://github.com/)
 
 My goal is not only to become a standout professional in the Software Development field but also to be part of the constantly evolving movement in Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts.
 
