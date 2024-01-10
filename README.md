@@ -71,7 +71,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 ##### <p align="center"> 𓋹 Favorite Quote </p> 
 **<p align="center"> 🌏💙 </p>**
 
-One People. One World. One Spirit... We Are One!
+One People. One World. One Spirit... We Are All One!
 
 **<p align="center">   </p>**
 
