@@ -22,7 +22,9 @@
 
 <p>If you have any questions, feel free to open an Issue. We'll do our best to help you!</p>
 
-  #### <p align="center"> 🌎💙  ***One People. One World. One Spirit... We Are All One!*** </p>
+<br>
+
+  #### <p align="center"> 🌎💙 **One People. One World. One Spirit... We Are All One!** </p>
 
 
 
