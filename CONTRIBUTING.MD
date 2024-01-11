@@ -24,7 +24,7 @@
 
 <br>
 
-  #### <p align="center"> 🌎💙 **One People. One World. One Spirit... We Are All One!** </p>
+  #### <p align="center"> 🌎💙 **One People. One World. One Spirit...We Are All One!** </p>
 
 
 
