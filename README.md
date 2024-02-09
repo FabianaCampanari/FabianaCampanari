@@ -67,8 +67,6 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
  #
 
- <br>
- 
 #### <p align="center"> [Favorite Quote](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/e04dd82a-fbe4-4f49-84ad-1272db42782a) </p> 
 
 
