@@ -87,10 +87,6 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 #
 
-[![FabianaCampanari Github Stats]](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/FabianaCampanari /github-readme-stats)
-
-
-#
 
 <br>
 
