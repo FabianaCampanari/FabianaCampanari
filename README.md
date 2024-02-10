@@ -91,11 +91,6 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 #
 
-<!-- [![Fabiana Campanari's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<br>
-
 ###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/6c025e5f18f74c0c55427915fc612d1dacfa4564/LICENSE)
 
 
