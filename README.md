@@ -1,5 +1,9 @@
 
+<!-- [![Fabiana Campanari's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 <!-- <h3 align="center"> 🪬 I Do Design, AI & Code </h3><br> -->
+
 <br><br>
 
 # $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
