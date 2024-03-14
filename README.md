@@ -78,11 +78,9 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 <!--   [ૐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/1f22af38-0c44-420e-9247-7ffc16cd25a1) -->
 
 
-#### <p align="center"> Favorite Quote  </p>
+#### <p align="center"> Favorite Quote </p>
 
-
-
-### ***<p align="center"> One People. One World. One Spirit... We Are All One! </p>*** [ૐ]()
+ **<p align="center"> One People. One World. One Spirit... We Are All One! </p>** [ૐ]()
 
 <p align="center">  </p>
 
