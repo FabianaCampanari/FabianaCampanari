@@ -80,7 +80,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 #### <p align="center"> Favorite Quote </p>
 
- ***<p align="center"> One People. One World. One Spirit... We Are All One! </p>*** [ૐ]()
+### ***<p align="center"> One People. One World. One Spirit... We Are All One! </p>*** [ૐ]()
 
 <p align="center">  </p>
 
