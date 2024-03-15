@@ -25,7 +25,7 @@ I am excited about the possibility of growing and evolving in the technology fie
 
 
 
-## [🧘🏼‍♀️ Professional Focus:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
+## [🧘🏼‍♀️ Professional Focus:]()
 
 I seek to integrate my knowledge in Graphic Design, Front-End Development, and soon, in Quantum Computing, to create innovative and impactful solutions in the digital world. I am enthusiastic about the possibilities that this combination of skills can provide and eager to contribute to projects and teams that share this vision.
 
