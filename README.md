@@ -74,7 +74,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
   <br>
 
 
-#### <p align="center">  ⚝ Favorite Quote ⚝
+#### <p align="center">  [⚝]() Favorite Quote ⚝
 
 ### **<p align="center"> [ૐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9) </p>** 
 
