@@ -13,7 +13,7 @@
 <!--  Formuulas  -->
 ### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
 
-|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)
+$$|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$$
 
 
 <br>
