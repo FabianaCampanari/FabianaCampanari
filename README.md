@@ -1,5 +1,4 @@
 <!-- 
-
 [![Fabiana Campanari's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <h3 align="center"> 🪬 I Do Design, AI & Code </h3><br> -->
@@ -11,7 +10,11 @@
 
 <br>
 
+<!--  Formuulas  -->
 ### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
+
+|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)
+
 
 <br>
 
