@@ -14,6 +14,8 @@
 
 
 
+ #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
+
 
 #### <p align="center"> Entanglement:
 
@@ -97,7 +99,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
   
  <br>
 
- #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
+#
 
  ### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari) 
 
