@@ -19,6 +19,8 @@ $$|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$$
 
 # $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
+ #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
+
 
 #### <p align="center"> Entanglement:
 
@@ -102,7 +104,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
   
  <br>
 
- #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
+#
 
  ### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari) 
 
