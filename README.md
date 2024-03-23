@@ -19,6 +19,8 @@ $$|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$$
 
 # $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
+|\psi\rangle = \alpha |0\rangle + \beta |1\rangle
+
 
 
 
