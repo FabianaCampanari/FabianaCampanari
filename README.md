@@ -9,13 +9,13 @@
 # $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
 <br>
-
+-->
 <!--  Formuulas  -->
 
 
-
- #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
-
+<!-- Relativity Formula  
+ 
+ #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  -->
 
 #### <p align="center"> Entanglement:
 
@@ -28,8 +28,6 @@
 #### <p align="center">  Qubit Superposition 
 
 ## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
-
-## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle$$
 
 
 
