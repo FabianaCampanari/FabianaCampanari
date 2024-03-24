@@ -27,7 +27,7 @@
 
 
 
-#### <p align="center">  Qubit Superposition 
+<!-- #### <p align="center">  Qubit Superposition -->
 
 ## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
