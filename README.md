@@ -19,7 +19,7 @@
  
 <!-- #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  --> 
 
-<!-- #### <p align="center"> Entanglement: -->
+<!-- #### Entanglement: -->
 
 <!-- ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$ -->
 
@@ -29,11 +29,7 @@
 
 <!-- ## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$  -->
 
-
-
-
-
-
+### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
 
 <br>
