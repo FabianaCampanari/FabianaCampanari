@@ -30,7 +30,7 @@
 
 ### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
-#### <p align="center">  **< with vibe, frequency & joy />** 🪬  </p>
+#### <p align="center">  *< with vibe, frequency & joy />* 🪬  </p>
 
 ###### <p align="center"> 𓂀 ***[A KURIA MATTE](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)*** 
 
