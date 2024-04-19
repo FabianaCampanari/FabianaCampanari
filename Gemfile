@@ -1,3 +1,4 @@
-source '9'
-gem 'rufus-scheduler'
-gem 'selenium-webdriver'
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
