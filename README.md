@@ -39,6 +39,8 @@
 
 ### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
+### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+
 <br>
 
 #### <p align="center">  *< with vibe, frequency & joy />* 🪬  </p>
