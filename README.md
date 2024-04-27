@@ -50,6 +50,8 @@
 
 ## [👽 About Me:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b0d76e97-041f-4c6a-92b6-a1271c9f5913)
 
+<br>
+
 #### <p align="center"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
 
