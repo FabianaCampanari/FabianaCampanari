@@ -141,6 +141,9 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 #
 
+#### <p align="center"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+
+
 ###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)
 
 
