@@ -43,6 +43,8 @@
 
 ### <p align="center">  *< with vibe, frequency & joy />* 🪬  </p>
 
+ ### <p align="center"> [![Sponsor FabianaCampanari ](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+
 ###### <p align="center"> 𓂀 ***[A KURIA MATTE](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)*** 
 
 <!--END HEADER --> <br>
@@ -101,7 +103,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/><br>
 
 
- ### <p align="center"> [![Sponsor FabianaCampanari ](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+
   
  <br>
 
