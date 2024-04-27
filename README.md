@@ -102,7 +102,6 @@ I aspire to drive innovation and contribute to the advancement of science and qu
  <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/><br>
 
-
  <br>
 
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots) 
@@ -120,7 +119,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 ### <p align="center" style="font-size: 200px"> [ૐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
 
-#### ***<p align="center"> One People. One World. One Spirit... We Are All One!*** 🌎 </p>  <br>
+#### ***<p align="center"> One People. One World. One Spirit... We Are All One!*** 🌎 </p>  
 
 
 ### </p> <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
