@@ -9,9 +9,6 @@
 <!--START HEADER -->
 # $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
-##### <p align="center"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
-
-
 <br>
 
 <!--  Formuulas  -->
@@ -77,6 +74,8 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 #### <p align="center"> [🌐 My Contacts Hub](https://linktr.ee/fabianacampanari)
 
 <br>
+
+
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/> <br>
