@@ -102,8 +102,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
  <br>
 
-### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%26%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots) 
-
+### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 <br>
 
