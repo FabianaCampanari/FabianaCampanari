@@ -9,7 +9,9 @@
 <!--START HEADER -->
 # $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
-### <p align="center">  *< with vibe, frequency & joy />* 🪬  </p>
+### <p align="center">  **< with vibe, frequency & joy />** 🪬  </p>
+
+###### <p align="center"> 𓂀 *[A KURIA MATTE](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* <br><br>
 
 <br>
 
@@ -43,8 +45,7 @@
 
 ### $${\color{Green} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
-
-###### <p align="center"> 𓂀 ***[A KURIA MATTE](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)***<br><br>
+<br>
 
 #### </p> <p align="center"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
@@ -118,7 +119,7 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 ## <p align="center" style="font-size: 200px"> [ૐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
 
-### ***<p align="center"> One People. One World. One Spirit... We Are All One!*** 🌎 <br><br>
+### *<p align="center"> One People. One World. One Spirit... We Are All One!* 🌎 <br><br>
 
 #### </p> <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
