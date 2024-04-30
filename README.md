@@ -45,7 +45,7 @@
 
 <br>
 
-[![committers.top badge](https://user-badge.committers.top/brazil/USERNAME.svg)](https://user-badge.committers.top/brazil/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/USERNAME)
 
 <!--END HEADER -->
 
