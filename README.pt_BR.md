@@ -57,7 +57,9 @@ c
 <br>
 
 
+## 👽 Sobre Mim:
 
+Sou uma profissional em transição de carreira com forte experiência e formação em Design Gráfico, e estou direcionando meu foco para o Desenvolvimento Front-End e Ciência de Dados.
 
 
 
