@@ -59,7 +59,8 @@ c
 
 ## 👽 Sobre Mim:
 
-Sou uma profissional em transição de carreira com forte experiência e formação em Design Gráfico, e estou direcionando meu foco para o Desenvolvimento Front-End e Ciência de Dados.
+Sou uma profissional em transição de carreira com forte experiência e formação em Design Gráfico, e estou direcionando meu foco para o Desenvolvimento Front-End e Ciência de Dados., também tenho graduação em Psicologia pela PUC-SP 
+
 
 
 
