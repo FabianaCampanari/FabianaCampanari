@@ -47,6 +47,11 @@
 
 ### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
+<br>
+<!--
+#### </p> <p align="center"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+c
+
 
 
 
