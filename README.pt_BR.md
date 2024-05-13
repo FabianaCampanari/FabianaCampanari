@@ -61,7 +61,8 @@ c
 
 Sou uma profissional em transição de carreira com forte experiência e formação em Design Gráfico, e estou direcionando meu foco para o Desenvolvimento Front-End e Ciência de Dados., também tenho graduação em Psicologia pela PUC-SP e busco integrar meus conhecimentos de ambas as áreas para criar soluções digitais inovadoras e impactantes. Além disso, após a graduação, tive a oportunidade de estudar na UCSD-Califórnia, onde frequentei o American Language Institute para aprimorar minha fluência em inglês, seguido pelo curso de Design Gráfico.
 
-Buscando constantemente aprimorar minhas habilidades e explorar novas oportunidades no mundo da tecnologia, decidi dar um passo à frente e embarcar na minha jornada acadêmica na Universidade Impacta Tecnologia, cursando Análise e Desenvolvimento de Sistemas (ADS) em São Paulo. 
+Buscando constantemente aprimorar minhas habilidades e explorar novas oportunidades no mundo da tecnologia, decidi dar um passo à frente e embarcar na minha jornada acadêmica na Universidade Impacta Tecnologia, cursando Análise e Desenvolvimento de Sistemas (ADS) em São Paulo. Combinando minha paixão pelo design e minha crescente proficiência em Desenvolvimento Front-End, Ciência de Dados e Inteligenciua Artificial, 
+
 
 
 
