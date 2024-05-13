@@ -11,3 +11,6 @@
 
 <!--INÍCIO DO CABEÇALHO -->
 # $$\Huge{\textbf{\color{blue}Eu Faço} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}IA}  \space \textbf{e} \space \textbf{\color{LightSkyBlue}Código}}$$
+
+### <p align="center">  **< com vibração, frequência & alegria />** 🪬  </p>
+
