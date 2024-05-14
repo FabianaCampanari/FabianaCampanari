@@ -73,6 +73,11 @@ Busco integrar meus conhecimentos em Design Gráfico, Desenvolvimento Front-End 
 Estou entusiasmada com as possibilidades que essa combinação de habilidades pode proporcionar e ansiosa para contribuir com projetos e equipes que compartilham essa visão.
 
 
+## 👀 Objetivos Futuros:
+
+
+
+
 
 
 
