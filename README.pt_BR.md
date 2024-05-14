@@ -68,8 +68,7 @@ Estou animada com a possibilidade de crescer e evoluir no campo da tecnologia, e
 
 ## 🧘🏼‍♀️ Foco Profissional:
 
-
-
+Busco integrar meus conhecimentos em Design Gráfico, Desenvolvimento Front-End e, em breve, em Computação Quântica, para criar soluções inovadoras e impactantes no mundo digital. 
 
 
 
