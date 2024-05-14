@@ -66,6 +66,12 @@ Buscando constantemente aprimorar minhas habilidades e explorar novas oportunida
 Estou animada com a possibilidade de crescer e evoluir no campo da tecnologia, e estou determinada a explorar novos horizontes, abraçando os desafios que a Computação Quântica e o Desenvolvimento de Software podem oferecer.
 
 
+## 🧘🏼‍♀️ Foco Profissional:
+
+
+
+
+
 
 
 
