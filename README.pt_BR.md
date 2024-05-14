@@ -75,6 +75,8 @@ Estou entusiasmada com as possibilidades que essa combinação de habilidades po
 
 ## 👀 Objetivos Futuros:
 
+Meu objetivo não é apenas me tornar uma profissional de destaque no campo do Desenvolvimento de Software, mas também fazer parte do movimento em constante evolução na Computação Quântica. Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia.
+
 
 
 
