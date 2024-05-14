@@ -63,6 +63,11 @@ Sou uma profissional em transição de carreira com forte experiência e formaç
 
 Buscando constantemente aprimorar minhas habilidades e explorar novas oportunidades no mundo da tecnologia, decidi dar um passo à frente e embarcar na minha jornada acadêmica na Universidade Impacta Tecnologia, cursando Análise e Desenvolvimento de Sistemas (ADS) em São Paulo. Combinando minha paixão pelo design e minha crescente proficiência em Desenvolvimento Front-End, Ciência de Dados e Inteligenciua Artificial,  meu objetivo é construir uma carreira que reúna o melhor desses mundos, proporcionando experiências digitais incríveis e funcionais.
 
+Estou animada com a possibilidade de crescer e evoluir no campo da tecnologia, e estou determinada a explorar novos horizontes, abraçando os desafios que a Computação Quântica e o Desenvolvimento de Software podem oferecer.
+
+
+
+
 
 
 
