@@ -70,6 +70,11 @@ Estou animada com a possibilidade de crescer e evoluir no campo da tecnologia, e
 
 Busco integrar meus conhecimentos em Design Gráfico, Desenvolvimento Front-End e, em breve, em Computação Quântica, para criar soluções inovadoras e impactantes no mundo digital. 
 
+Estou entusiasmada com as possibilidades que essa combinação de habilidades pode proporcionar e ansiosa para contribuir com projetos e equipes que compartilham essa visão.
+
+
+
+
 
 
 
