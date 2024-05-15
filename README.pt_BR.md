@@ -65,7 +65,8 @@ Buscando constantemente aprimorar minhas habilidades e explorar novas oportunida
 Estou animada com a possibilidade de crescer e evoluir no campo da tecnologia, e estou determinada a explorar novos horizontes, abraçando os desafios que a Computação Quântica e o Desenvolvimento de Software podem oferecer.
 
 
-## 🧘🏼‍♀️ Foco Profissional:
+## [🧘🏼‍♀️ Foco Profissional:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
+
 
 Busco integrar meus conhecimentos em Design Gráfico, Desenvolvimento Front-End e, em breve, em Computação Quântica, para criar soluções inovadoras e impactantes no mundo digital. 
 
