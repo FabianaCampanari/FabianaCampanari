@@ -82,7 +82,8 @@ Meinha maior motivação é impulsionar a inovação e contribuir para o avanço
 
 <br>
 
-#### <p align="center"> [🌐 Meu Hub de Contatos]()
+#### <p align="center"> [🌐 Meu Hub de Contatos](https://linktr.ee/fabianacampanari)
+
 
 <br>
 
