@@ -56,7 +56,7 @@
 <br>
 
 
-## 👽 Sobre Mim:
+## [👽 Sobre Mim:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b0d76e97-041f-4c6a-92b6-a1271c9f5913)
 
 Sou uma profissional em transição de carreira com forte experiência e formação em Design Gráfico, e estou direcionando meu foco para o Desenvolvimento Front-End e Ciência de Dados., também tenho graduação em Psicologia pela PUC-SP e busco integrar meus conhecimentos de ambas as áreas para criar soluções digitais inovadoras e impactantes. Além disso, após a graduação, tive a oportunidade de estudar na UCSD-Califórnia, onde frequentei o American Language Institute para aprimorar minha fluência em inglês, seguido pelo curso de Design Gráfico.
 
