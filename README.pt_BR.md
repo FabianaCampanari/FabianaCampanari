@@ -137,7 +137,15 @@ Meinha maior motivação é impulsionar a inovação e contribuir para o avanço
 ##### <p align="center">( Rafael Lain ) </p>   -->
 
 #
+<!-- Programmers and artists are the only professionals whose hobby is their profession."
 
+" I love people who are committed to transforming the world "
+
+" I'm big fan of those who are making waves in the world! "
+
+##### <p align="center">( Rafael Lain ) </p>   -->
+
+#
 
 
 
