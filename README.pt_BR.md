@@ -99,6 +99,10 @@ Meinha maior motivação é impulsionar a inovação e contribuir para o avanço
  
  #### <p align="center"> [![Sponsor FabianaCampanari ](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
 
+<br>
+
+#
+
 
 
 
