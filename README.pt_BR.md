@@ -57,11 +57,6 @@
 <!--END HEADER -->
 
 
-<br>
-<!--
-#### </p> <p align="center"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
-c
-
 <!--FIM DO CABEÇALHO -->
 
 <br>
