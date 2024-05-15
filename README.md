@@ -147,21 +147,6 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 
 
-<!--  Latex Formuulas and Comments  -->
-
-<!-- Relativity Formula  --> 
- 
-<!-- #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  --> 
-
-<!-- #### Entanglement: -->
-
-<!-- ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$ -->
-
-<!-- ### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$ -->
-
-<!-- #### <p align="center">  Qubit Superposition -->
-
-<!-- ## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$  -->
 
 
 
