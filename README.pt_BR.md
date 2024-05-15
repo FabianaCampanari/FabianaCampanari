@@ -77,7 +77,7 @@ Estou entusiasmada com as possibilidades que essa combinação de habilidades po
 
 Meu objetivo não é apenas me tornar uma profissional de destaque no campo do Desenvolvimento de Software, mas também fazer parte do movimento em constante evolução na Computação Quântica. Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia.
 
-Aspiro a impulsionar a inovação e contribuir para o avanço da ciência e da computação quântica em benefício da humanidade.
+Meinha maior motivação é impulsionar a inovação e contribuir para o avanço da ciência e da computação quântica em benefício da humanidade.
 
 #
 
