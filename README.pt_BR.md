@@ -124,6 +124,12 @@ Meinha maior motivação é impulsionar a inovação e contribuir para o avanço
 
 ### *<p align="center"> One People. One World. One Spirit... We Are All One!* 🌎 <br><br>
 
+#### </p> <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+  <br>
+
+
+
 
 
 
