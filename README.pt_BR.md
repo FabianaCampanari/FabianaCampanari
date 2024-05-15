@@ -79,6 +79,15 @@ Meu objetivo não é apenas me tornar uma profissional de destaque no campo do D
 
 Aspiro a impulsionar a inovação e contribuir para o avanço da ciência e da computação quântica em benefício da humanidade.
 
+#
+
+<br>
+
+#### <p align="center"> 🌐 Meu Hub de Contatos
+
+<br>
+
+
 
 
 
