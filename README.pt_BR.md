@@ -106,6 +106,12 @@ Meinha maior motivação é impulsionar a inovação e contribuir para o avanço
  <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/><br>
 
+ <br>
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+
 
 
 
