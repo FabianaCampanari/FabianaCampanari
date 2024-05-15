@@ -122,7 +122,7 @@ Meinha maior motivação é impulsionar a inovação e contribuir para o avanço
 
 ### <p align="center" style="font-size: 200px"> [ૐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
-
+### *<p align="center"> One People. One World. One Spirit... We Are All One!* 🌎 <br><br>
 
 
 
