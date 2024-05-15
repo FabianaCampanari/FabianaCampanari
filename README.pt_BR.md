@@ -99,8 +99,6 @@ Meinha maior motivação é impulsionar a inovação e contribuir para o avanço
 
 #
 
-<br>
-
  #### <p align="center"> [💭 Mande Mensagem](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
  
 
