@@ -1,7 +1,8 @@
-\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
-
 [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
   
+
+\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
+
 
 <!-- STATS API
 [![Fabiana Campanari's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/anuraghazra/github-readme-stats) 
