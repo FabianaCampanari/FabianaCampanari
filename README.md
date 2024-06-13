@@ -61,8 +61,6 @@
 -->
 
 
-####  <p align="center"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
-
  
 <!--END HEADER -->
 
