@@ -107,7 +107,9 @@ I aspire to drive innovation and contribute to the advancement of science and qu
 
 <br>
 
+<!--
  #### <p align="center"> [💭  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
+-->
  
  <br>
 
