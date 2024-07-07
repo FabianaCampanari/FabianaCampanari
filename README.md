@@ -77,7 +77,7 @@ Insights from quantum physics  help develop robust predictive models, while my u
 I integrate knowledge in Graphic Design, Front-End Development, and Quantum Computing to create innovative and impactful solutions in the digital world. I am excited about the possibilities of this combination of skills and eager to contribute to projects that share this vision.
 
 
-## [👀 Future Objectives:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
+## [👀 Goals:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
 
 My goal is not only to become a standout professional in the Software Development field but also to be part of the constantly evolving movement in Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts.
