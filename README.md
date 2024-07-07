@@ -68,6 +68,8 @@
 I am a multifaceted professional, currently pursuing my 4th degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP), with a focus on Humanistic AI. My diverse educational background includes Psychology, also at PUC-SP, Design at UCSD in San Diego, California, and Analysis and Systems Development at the Impacta University of Technology. Additionally, I am an enthusiast and self-taught in Physics and Quantum Computing, which allows me to make fascinating connections between distinct fields. This interdisciplinary journey gives me a unique perspective for tackling complex problems.
 My solid foundation in Psychology is fundamental for creating AI systems aligned with human needs and values. I utilize my knowledge of behavior and cognition to develop intuitive and empathetic AI interfaces, as well as to mitigate algorithmic biases, ensuring fair and equitable AI.
 
+Insights from quantum physics  help develop robust predictive models, while my understanding of the human psyche  contributes to user-centered software solutions. This convergence of areas opens fascinating windows to explore the nature of reality and consciousness.
+
 
 
 ## [🧘🏼‍♀️ Professional Focus:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
