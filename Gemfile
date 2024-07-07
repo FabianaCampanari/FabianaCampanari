@@ -19,7 +19,6 @@ end
 # Gems for production
 group :production do
   gem 'pg'
-  gem 'puma'
 end
 
 # Gems for all stages
