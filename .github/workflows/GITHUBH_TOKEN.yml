@@ -8,9 +8,9 @@ jobs:
       contents: read
       issues: write
     steps:
-      - run:|
-        gh issue --repo ${{ github.repository }} \
-        create --title "Issue title" --body "Issue body"
+      - name: Create GitHub Issue
+        run: |
+          gh issue create --repo ${{ github.repository }} \
+          --title "Issue title" --body "Issue body"
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-          
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
