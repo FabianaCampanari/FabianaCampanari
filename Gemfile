@@ -16,11 +16,6 @@ group :development, :test do
   gem 'database_cleaner'
 end
 
-# Gems for production
-group :production do
-  gem 'pg'
-end
-
 # Gems for all stages
 gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
 gem 'sqlite3', '~> 1.4'
