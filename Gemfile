@@ -1,9 +1,33 @@
+
 source 'https://rubygems.org'
 
-gem 'rufus-scheduler'
-gem 'selenium-webdriver'
-gem 'nokogiri'
-gem 'rack', '~> 2.2.4'
-gem 'rspec'
+# Specify Ruby version
+ruby '2.7.0'
 
+# System gems
+gem 'rake'
+gem 'bundler'
 
+# Gems for development and testing
+group :development, :test do
+  gem 'rspec'
+  gem 'faker'
+  gem 'factory_bot'
+  gem 'database_cleaner'
+end
+
+# Gems for production
+group :production do
+  gem 'pg'
+  gem 'puma'
+end
+
+# Gems for all stages
+gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
+gem 'sqlite3', '~> 1.4'
+gem 'puma', '~> 4.1'
+gem 'sass-rails', '>= 6'
+gem 'webpacker', '~> 4.0'
+gem 'turbolinks', '~> 5'
+gem 'jbuilder', '~> 2.7'
+gem 'bootsnap', '>= 1.4.2', require: false
