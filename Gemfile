@@ -2,7 +2,7 @@
 source 'https://rubygems.org'
 
 # Specify Ruby version
-ruby '2.7.0'
+ruby '3.1.1'
 
 # System gems
 gem 'rake'
