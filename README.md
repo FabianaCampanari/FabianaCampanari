@@ -1,4 +1,4 @@
-
+()
 \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
 
 <!-- STATS API
@@ -92,7 +92,7 @@ My goal is to excel in the field of Software Development and be part of the ever
 
 For a fascinating exploration of the connections between quantum physics and psychology, I highly recommend the article "When Quantum Physicists Met Freud and Jung". This article provides a unique synthesis of these seemingly distinct disciplines and is a must-read for anyone interested in the intersections of science, art and the human mind.
 
-[🔗 Read the article] When Quantum Physicists Met Freud and Jung()
+[🔗 Read the article]() "When Quantum Physicists Met Freud and Jung" 
 
 <br>
 
