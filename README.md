@@ -84,13 +84,12 @@ I integrate knowledge in Graphic Design, Front-End Development, Artificial Intel
 
 ## [👀 Goals:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
-
-My goal is to excel in the field of Software Development and be part of the ever-evolving movement of AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation and contribute to the advancement of science, AI and quantum computing for the benefit of humanity
+Meu objetivo é me destacar no campo do Desenvolvimento de Software e fazer parte do movimento sempre em evolução da IA e da Computação Quântica. Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia, aspiro impulsionar a inovação e contribuir para o avanço da ciência, IA e computação quântica fo
 
 
 ## [🧠 Recommended Reading:]()
 
-For a fascinating exploration of the connections between quantum physics and psychology, I highly recommend the article "When Quantum Physicists Met Freud and Jung". This article provides a unique synthesis of these seemingly distinct disciplines and is a must-read for anyone interested in the intersections of science, art and the human mind.
+Para uma exploração fascinante das conexões entre a física quântica e a psicologia, eu recomendo fortemente o artigo “Quando Físicos Quânticos Encontraram Freud e Jung”. Este artigo oferece uma síntese única dessas disciplinas aparentemente distintas e é uma leitura obrigatória para qualquer pessoa interessada nas interseções da ciência, arte e mente humana.
 
 #### [🔗 Read the article](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857) "When Quantum Physicists Met Freud and Jung" 
 
