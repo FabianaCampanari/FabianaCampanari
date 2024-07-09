@@ -110,8 +110,6 @@ Para uma exploração fascinante das conexões entre a física quântica e a psi
  #### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
 
-<br>
-
 #
 
 <br>
