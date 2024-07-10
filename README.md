@@ -92,7 +92,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 #### 🔗 Read the article - [When Quantum Physicists Met Freud and Jung]()
 
-#### 🔗 Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century]()
+#### 🔗 Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
 
 
 
