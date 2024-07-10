@@ -80,7 +80,7 @@ I'm a multifaceted professional pursuing my fourth degree, currently studying Da
 Combining skills in Design, Front-End Development, AI Data Science, and Quantum Computing as a hobbyist, alongside a deep commitment to open source, I create innovative digital solutions. I'm enthusiastic about collaborating on projects that align with this multidisciplinary approach.
 
 
-## [👀 Goals:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
+## [👀 👀 What I'm After:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
 My goal is to excel in the field of Software Development, Design and AI Data Science and be part of the ever-evolving movement of AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation and contribute to the advancement of science, AI, arts and quantum computing.
 
