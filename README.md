@@ -75,7 +75,7 @@ I'm a multifaceted professional pursuing my fourth degree, currently studying Da
 
 
 
-## [🧘🏼‍♀️ Professional Focus:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
+## [🧘🏼‍♀️ Work Focus::](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
 
 Combining skills in Design, Front-End Development, AI Data Science, and Quantum Computing as a hobbyist, alongside a deep commitment to open source, I create innovative digital solutions. I'm enthusiastic about collaborating on projects that align with this multidisciplinary approach.
 
