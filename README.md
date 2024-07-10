@@ -19,9 +19,7 @@
 
 
 ###### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* <br><br>
-
-<br>
-
+ 
 <!--  Formuulas  -->
 
 <!-- Relativity Formula  --> 
@@ -90,7 +88,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-#### 🔗 Read the article - [When Quantum Physicists Met Freud and Jung]()
+#### 🔗 Read the article - [When Quantum Physicists Met Freud and Jung](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)
 
 #### 🔗 Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
 
