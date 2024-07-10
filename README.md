@@ -82,7 +82,8 @@ Combining skills in Design, Front-End Development, AI Data Science, and Quantum 
 
 My goal is to excel in the field of Software Development, Design and AI Data Science and be part of the ever-evolving movement of AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation and contribute to the advancement of science, AI, arts and quantum computing.
 
-## [🧠 Brain Fuel:]()
+## [🧠 Brain Fuel:](
+https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/1a9e930f-1fb3-4d51-970d-d8674c8abbab)
 
 For a fascinating exploration of the connections between quantum physics and psychology, I highly recommend two articles, **When Quantum Physicists Met Freud and Jung** and **Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century**. These articles offer a unique synthesis of these seemingly distinct disciplines and are a must-read for anyone interested in the intersections of science, art, and the human mind.
 
