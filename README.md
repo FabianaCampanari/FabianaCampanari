@@ -89,13 +89,6 @@ Meu objetivo é me destacar no campo do Desenvolvimento de Software e fazer part
 
 My goal is to excel in the field of Software Development, design and AI Data Sience and be part of the ever-evolving movement of AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation and contribute to the advancement of science, AI, arts and quantum computing.
 
-
-## [🧠 Recommended Readings:]()
-
-It looks like you want to translate the text into English. Here is the translation:
-
----
-
 ## [🧠 Recommended Readings:]()
 
 For a fascinating exploration of the connections between quantum physics and psychology, I highly recommend two articles, **“When Quantum Physicists Met Freud and Jung"** and **“Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century"**. These articles offer a unique synthesis of these seemingly distinct disciplines and are a must-read for anyone interested in the intersections of science, art, and the human mind.
