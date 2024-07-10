@@ -79,7 +79,7 @@ Insights from quantum physics  help develop robust predictive models, while my u
 
 ## [🧘🏼‍♀️ Professional Focus:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
 
-I integrate knowledge in Graphic Design, Front-End Development, Artificial Inteligence Data Science and Quantum Computing as a enthusiast to create innovative and impactful solutions in the digital world. I am excited about the possibilities of this combination of skills and eager to contribute to projects that share this vision.
+Combining skills in Graphic Design, Front-End Development, AI Data Science, and Quantum Computing as a hobbyist, alongside a deep commitment to open source, I create innovative digital solutions. I'm enthusiastic about collaborating on projects that align with this multidisciplinary approach.
 
 
 ## [👀 Goals:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
