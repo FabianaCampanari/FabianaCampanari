@@ -87,11 +87,16 @@ I integrate knowledge in Graphic Design, Front-End Development, Artificial Intel
 Meu objetivo é me destacar no campo do Desenvolvimento de Software e fazer parte do movimento sempre em evolução da IA e da Computação Quântica. Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia, aspiro impulsionar a inovação e contribuir para o avanço da ciência, IA, art e computação quântica fo
 
 
+My goal is to excel in the field of Software Development, design and AI Data Sience and be part of the ever-evolving movement of AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation and contribute to the advancement of science, AI, arts and quantum computing.
+
+
 ## [🧠 Recommended Reading:]()
 
-Para uma exploração fascinante das conexões entre a física quântica e a psicologia, eu recomendo fortemente o artigo “Quando Físicos Quânticos Encontraram Freud e Jung”. Este artigo oferece uma síntese única dessas disciplinas aparentemente distintas e é uma leitura obrigatória para qualquer pessoa interessada nas interseções da ciência, arte e mente humana.
+For a fascinating exploration of the connections between quantum physics and psychology, I highly recommend two articles, “When Quantum Physicists Met Freud and Jung and "".” This article offers a unique synthesis of these seemingly distinct disciplines and is a must-read for anyone interested in the intersections of science, art, and the human mind.
 
-#### [🔗 Read the article](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857) "When Quantum Physicists Met Freud and Jung" 
+#### 🔗 Read the article - [When Quantum Physicists Met Freud and Jung]()
+
+#### 🔗 Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century]()
 
 <br>
 
