@@ -84,7 +84,11 @@ I integrate knowledge in Graphic Design, Front-End Development, Artificial Intel
 
 ## [👀 Goals:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
+Meu objetivo é me destacar no campo do Desenvolvimento de Software e fazer parte do movimento sempre em evolução da IA e da Computação Quântica. Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia, aspiro impulsionar a inovação e contribuir para o avanço da ciência, IA, art e computação quântica fo
+
+
 My goal is to excel in the field of Software Development, design and AI Data Sience and be part of the ever-evolving movement of AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation and contribute to the advancement of science, AI, arts and quantum computing.
+
 
 ## [🧠 Recommended Reading:]()
 
