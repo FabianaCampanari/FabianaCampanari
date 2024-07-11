@@ -20,19 +20,21 @@
 
 ###### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* <br><br>
  
-<!--  Formuulas  -->
+<!-- 
 
-<!-- Relativity Formula  --> 
+Formuulas Latrex Code
+
+Relativity Formula  
  
 <!-- #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  --> 
 
-<!-- #### Entanglement: -->
+<!-- #### Entanglement:
 
-<!-- ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$ -->
+<!-- ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
 
-<!-- ### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$ -->
+<!-- ### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
-<!-- #### <p align="center">  Qubit Superposition -->
+<!-- #### <p align="center">  Qubit Superposition 
 
 <!-- ## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$  
 
@@ -44,12 +46,16 @@
 
 ### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
- -->
+ #### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+ 
+-->
 
-<!-- ... #### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$ -->
 
+<!-- ####
+USAR ESSA FORMULA
 ### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
-
+ -->
+ 
 <br>
 
 
