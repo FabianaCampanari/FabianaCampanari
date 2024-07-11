@@ -77,8 +77,6 @@ USAR ESSA FORMULA
 I'm a multifaceted professional pursuing my fourth degree, currently studying Data Science and AI at PUC-SP in São Paulo. My educational journey spans Psychology at PUC-SP and Systems Analysis and Development at Impacta Tech University. I also studied Design at UCSD in California. With a passion for AI that prioritizes human-centric solutions (AI Data Science with a focus on Humanistic AI), I integrate insights from psychology to develop user-friendly and unbiased AI systems. My interest in Quantum Computing enriches my ability to build robust predictive models.
 
 
-
-
 ## [🧘🏼‍♀️ Work Focus::](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
 
 Combining skills in Design, Front-End Development, AI Data Science, and Quantum Computing as a hobbyist, alongside a deep commitment to open source, I create innovative digital solutions. I'm enthusiastic about collaborating on projects that align with this multidisciplinary approach.
