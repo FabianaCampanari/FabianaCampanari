@@ -74,7 +74,17 @@ USAR ESSA FORMULA
 ## [👽 About Me:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b0d76e97-041f-4c6a-92b6-a1271c9f5913)
 
 
-I'm a multifaceted professional pursuing my fourth degree, currently studying Data Science and Artificial Intelligence at Pontifical Catholic University of São Paulo (PUC-SP). My educational journey spans Psychology also at PUC-SP and Systems Analysis and Development at Impacta Tech University. I also studied Design at University of California, San Diego (UCSD). With a passion for AI that prioritizes human-centric solutions (AI Data Science with a focus on Humanistic AI), I integrate insights from psychology to develop user-friendly and unbiased AI systems. My interest in Quantum Computing enriches my ability to build robust predictive models.
+As a multifaceted professional, I am currently pursuing my fourth degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP). My educational background spans Psychology (PUC-SP), Systems Analysis and Development (Impacta Tech University), and Design (University of California, San Diego).
+
+I am passionate about AI with a focus on human-centric solutions. I leverage insights from psychology to develop user-friendly and unbiased AI systems. My interest in Quantum Computing allows me to build robust predictive models. I have also completed the CS50 course from Harvard University, strengthening my foundation in Computer Science.
+
+Achievements:
+
+  - Top GitHub User by Public Contributions in Brazil: 2nd place.
+    
+  - Committers.top Brazil: 2nd place.
+
+  - HackaPUC-SP 2024 Champion: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation.
 
 
 ## [🧘🏼‍♀️ Work Focus::](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
