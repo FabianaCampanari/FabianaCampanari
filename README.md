@@ -73,12 +73,16 @@ USAR ESSA FORMULA
 ## [👽 About Me:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b0d76e97-041f-4c6a-92b6-a1271c9f5913)
 
 
+As a multifaceted professional, I am currently pursuing my fourth degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP). My educational background spans Psychology (PUC-SP), Systems Analysis and Development (Impacta Tech University), and Design (University of California, San Diego).
 
-  - Top GitHub User by Public Contributions in Brazil: 2nd place.
-    
-  - Committers.top Brazil: 2nd place.
+I am passionate about AI with a focus on human-centric solutions. I leverage insights from psychology to develop user-friendly and unbiased AI systems. My interest in Quantum Computing allows me to build robust predictive models. I have also completed the CS50 course from Harvard University, strengthening my foundation in Computer Science.
 
-  - HackaPUC-SP 2024 Champion: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation.
+### Achievements:
+
+- **Top GitHub User by Public Contributions in Brazil: 2nd place**. [Read more](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+- **Committers.top Brazil: 2nd place**. [Read more](https://committers.top/brazil#FabianaCampanari)
+- **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)
+- **Exclusive Designs for Tidsy**: Designed exclusive prints for Tidsy, a chic clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brasil and worn by celebrities like Ingrid Guimarães (Revista Quem) and Giovanna Antonelli (Revista Contigo). [See the collection](https://github.com/FabianaCampanari/Fashion-and-Design)
 
 
 ## [🧘🏼‍♀️ Work Focus::](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
