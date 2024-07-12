@@ -73,8 +73,6 @@ USAR ESSA FORMULA
 ## [👽 About Me:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b0d76e97-041f-4c6a-92b6-a1271c9f5913)
 
 
-andreiorio.espacointegrativo
-Achievements:
 
   - Top GitHub User by Public Contributions in Brazil: 2nd place.
     
