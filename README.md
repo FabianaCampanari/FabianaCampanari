@@ -13,7 +13,10 @@
 <br>
 
 <!--START HEADER -->
-# $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+# <p align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+
+$$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+
 
 ### <p align="center">  ***< with vibe, frequency & joy />*** 🪬  </p>
 
@@ -70,24 +73,11 @@ USAR ESSA FORMULA
 
 <br>
 
-## [👽 About Me:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b0d76e97-041f-4c6a-92b6-a1271c9f5913)
+## [👽 About Me](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b0d76e97-041f-4c6a-92b6-a1271c9f5913)
 
 As a multifaceted professional, I am currently pursuing my fourth degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP). My educational background spans Psychology (PUC-SP), Systems Analysis and Development (Impacta Tech University), and Design (University of California, San Diego).
 
 I am passionate about AI with a focus on human-centric solutions. I leverage insights from psychology to develop user-friendly and unbiased AI systems. My interest in Quantum Computing allows me to build robust predictive models. I have also completed the CS50 course from Harvard University, strengthening my foundation in Computer Science.
-
-
-## [🏆 Achievements](https://gayanvoice.github.io/top-github-users/index.html)
-
-  - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
-
-  - **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
-
-  
-  - **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)
-
-
-  - **[Exclusive Designs for Tidsy Fashion Brand Rio de Janeiro](https://www.facebook.com/tidsyleblon/)**: Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brasil and worn by celebrities like Ingrid Guimarães (Revista Quem) and Giovanna Antonelli (Revista Contigo). [See the collection](https://github.com/FabianaCampanari/Fashion-and-Design)
 
 
 ## [🧘🏼‍♀️ Work Focus::](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
@@ -109,6 +99,20 @@ For a fascinating exploration of the connections between quantum physics and psy
 #### 🔗 Read the article - [When Quantum Physicists Met Freud and Jung](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)
 
 #### 🔗 Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
+
+
+## [🏆 Achievements](https://gayanvoice.github.io/top-github-users/index.html)
+
+  - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+
+  - **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
+
+  
+  - **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)
+
+
+  - **[Exclusive Designs for Tidsy Fashion Brand Rio de Janeiro](https://www.facebook.com/tidsyleblon/)**: Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brasil and worn by celebrities like Ingrid Guimarães (Revista Quem) and Giovanna Antonelli (Revista Contigo). [See the collection](https://github.com/FabianaCampanari/Fashion-and-Design)
+
 
 
 ## 💖 GitHub Sponsors:
