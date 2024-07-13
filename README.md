@@ -113,8 +113,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 ## GitHub Sponsors:
 
-
-
+- **[Personal Account](https://github.com/sponsors/FabianaCampanari)**
 
 
 <br>
