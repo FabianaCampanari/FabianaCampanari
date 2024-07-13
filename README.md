@@ -88,7 +88,7 @@ I am passionate about AI with a focus on human-centric solutions. I leverage ins
   - **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)
 
 
-  - **[Exclusive Designs for Tidsy Fashion Brand]**: Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brasil and worn by celebrities like Ingrid Guimarães (Revista Quem) and Giovanna Antonelli (Revista Contigo). [See the collection](https://github.com/FabianaCampanari/Fashion-and-Design)
+  - **[Exclusive Designs for Tidsy Fashion Brand Rio de Janeiro](https://www.facebook.com/tidsyleblon/)**: Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brasil and worn by celebrities like Ingrid Guimarães (Revista Quem) and Giovanna Antonelli (Revista Contigo). [See the collection](https://github.com/FabianaCampanari/Fashion-and-Design)
 
 
 ## [🧘🏼‍♀️ Work Focus::](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
