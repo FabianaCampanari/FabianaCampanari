@@ -79,13 +79,15 @@ I am passionate about AI with a focus on human-centric solutions. I leverage ins
 
 ## [🏆 Achievements]()
 
-  - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+  -- **2nd Place GitHub User By Public Contributions in Brazil**. [Check it](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
 
 
-  - **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
+  -- **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
 
   
-- **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)
+  -- **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)
+
+
 - **Exclusive Designs for Tidsy**: Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brasil and worn by celebrities like Ingrid Guimarães (Revista Quem) and Giovanna Antonelli (Revista Contigo). [See the collection](https://github.com/FabianaCampanari/Fashion-and-Design)
 
 
