@@ -77,7 +77,7 @@ As a multifaceted professional, I am currently pursuing my fourth degree in Data
 I am passionate about AI with a focus on human-centric solutions. I leverage insights from psychology to develop user-friendly and unbiased AI systems. My interest in Quantum Computing allows me to build robust predictive models. I have also completed the CS50 course from Harvard University, strengthening my foundation in Computer Science.
 
 
-## [🏆 Achievements]()
+## [🏆 Achievements](https://gayanvoice.github.io/top-github-users/index.html)
 
   - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
 
