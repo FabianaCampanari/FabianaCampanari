@@ -98,7 +98,7 @@ Combining skills in Design, Front-End Development, AI Data Science, and Quantum 
 
 ## [👀 What I'm After:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
-My goal is to excel in the field of Software Development, Design, and AI Data Science and be part of the ever-evolving movement of AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation and contribute to the advancement of science, AI, arts, and quantum computing.
+My goal is to excel in the field of Software Development, Design, and AI Data Science and be part of the ever-evolving movement of AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation and contribute to the advancement of data science, AI, arts, and quantum computing.
 
 
 ## [🧠 Brain Fuel:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/1a9e930f-1fb3-4d51-970d-d8674c8abbab)
