@@ -77,18 +77,21 @@ As a multifaceted professional, I am currently pursuing my fourth degree in Data
 I am passionate about AI with a focus on human-centric solutions. I leverage insights from psychology to develop user-friendly and unbiased AI systems. My interest in Quantum Computing allows me to build robust predictive models. I have also completed the CS50 course from Harvard University, strengthening my foundation in Computer Science.
 
 
-## [🏆 Achievements]()
+## [🏆 Achievements](https://gayanvoice.github.io/top-github-users/index.html)
 
 - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
 
+  - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
 
-- **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
 
-- - **Committers.top Brazil: 2nd place**. [Read more](https://gayanvoice.github.io/top-github-users/index.html)
+
+  - **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
 
   
-- **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)
-- **Exclusive Designs for Tidsy**: Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brasil and worn by celebrities like Ingrid Guimarães (Revista Quem) and Giovanna Antonelli (Revista Contigo). [See the collection](https://github.com/FabianaCampanari/Fashion-and-Design)
+  - **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)
+
+
+  - **[Exclusive Designs for Tidsy Fashion Brand Rio de Janeiro](https://www.facebook.com/tidsyleblon/)**: Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brasil and worn by celebrities like Ingrid Guimarães (Revista Quem) and Giovanna Antonelli (Revista Contigo). [See the collection](https://github.com/FabianaCampanari/Fashion-and-Design)
 
 
 ## [🧘🏼‍♀️ Work Focus::](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
@@ -98,7 +101,8 @@ Combining skills in Design, Front-End Development, AI Data Science, and Quantum 
 
 ## [👀 What I'm After:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
-My goal is to excel in the field of Software Development, Design and AI Data Science and be part of the ever-evolving movement of AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation and contribute to the advancement of science, AI, arts and quantum computing.
+My goal is to excel in the field of Software Development, Design, and AI Data Science and be part of the ever-evolving movement of AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation and contribute to the advancement of data science, AI, arts, and quantum computing.
+
 
 ## [🧠 Brain Fuel:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/1a9e930f-1fb3-4d51-970d-d8674c8abbab)
 
