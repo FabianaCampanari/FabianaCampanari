@@ -117,6 +117,9 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 - **[Mindful AI Assistants](https://github.com/sponsors/Mindful-AI-Assistants)**
 
+- **[Quantum Software Development](https://github.com/sponsors/Quantum-Software-Development)*
+
+
 
 
 
