@@ -79,7 +79,10 @@ I am passionate about AI with a focus on human-centric solutions. I leverage ins
 
 ## [🏆 Achievements](https://gayanvoice.github.io/top-github-users/index.html)
 
+- **2nd Place GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+
   - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+
 
 
   - **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
