@@ -81,7 +81,7 @@ I am passionate about AI with a focus on human-centric solutions. I leverage ins
 
 ## [🧘🏼‍♀️ Work Focus::](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
 
-Combining skills in Design, Front-End Development, AI Data Science, and Quantum Computing as a hobbyist, alongside a deep commitment to open source, I create innovative digital solutions. I'm enthusiastic about collaborating on projects that align with this multidisciplinary approach.
+With a blend of skills in Design, Front-End Development, AI Data Science, and Quantum Computing as a passionate hobbyist, combined with a degree in Psychology, I am dedicated to creating innovative digital solutions. My deep commitment to open source fuels my enthusiasm for collaborating on projects that align with this multidisciplinary approach.
 
 
 ## [👀 What I'm After:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
