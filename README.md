@@ -79,7 +79,7 @@ USAR ESSA FORMULA
 
 <br>
 
-## [👽 About Me](https://github.com/user-attachments/assets/221cdac8-58e9-4d57-88c7-1d16b51c9481)
+## [👽 About Me](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
 
 As a multifaceted professional, I am currently pursuing my fourth degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP). My educational background spans Psychology (PUC-SP), Systems Analysis and Development (Impacta Tech University), and Design (University of California, San Diego).
 
