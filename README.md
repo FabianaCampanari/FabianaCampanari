@@ -92,6 +92,7 @@ I am passionate about AI, particularly in developing human-centric solutions. By
 With a blend of skills in Design, Front-End Development, AI Data Science, and Quantum Computing as a passionate hobbyist, combined with a degree in Psychology, I am dedicated to creating innovative digital solutions. My deep commitment to open source fuels my enthusiasm for collaborating on projects that align with this multidisciplinary approach.
 
 
+
 ## [👀 What I'm After](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
 My goal is to excel in Software Development, Design, and AI Data Science, while contributing to advancements in AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation across these fields and beyond.
