@@ -114,7 +114,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 ## [🏆 Achievements](https://gayanvoice.github.io/top-github-users/index.html)   
 
-  - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+  - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | For global rankings, [click here]().
 
   - **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
 
@@ -124,7 +124,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 (https://www.facebook.com/tidsyleblon/)
 
- Exclusive Designs for Tidsy Fashion Brand Rio de Janeiro: Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brasil and worn by celebrities like Ingrid Guimarães (Revista Quem) and Giovanna Antonelli (Revista Contigo)
+  - **Exclusive Designs for Tidsy Fashion Brand Rio de Janeiro**: Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brasil and worn by celebrities like Ingrid Guimarães (Revista Quem) and Giovanna Antonelli (Revista Contigo)
 
 
 ## 💖 GitHub Sponsors:
