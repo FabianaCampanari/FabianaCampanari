@@ -12,14 +12,14 @@
 
 <br>
 
-<!--START HEADER --> 
+<!--START HEADER - IMPORTANT NOTE FROM 07/24 --> 
 
 <!-- OLD MARKDOWN ACCEPTED FOR LATEX CODE UNTIL JUL/20024 --
 # $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
 After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymore, see new HTML format Bellow 👇
--->
 
+-->
 
 <h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
