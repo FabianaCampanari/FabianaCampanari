@@ -120,10 +120,11 @@ For a fascinating exploration of the connections between quantum physics and psy
 
   - **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
 
-       <br>
+ <br>
   
   - **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
+    <br>
 
  - **Exclusive Fabric Prints and Designs for Tidsy Fashion Brand, Rio de Janeiro:** Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brazil and worn by celebrities like Ingrid Guimarães (Quem - Brazilian Magazine) and Giovanna Antonelli (Contigo - Brazilian Magazine).
 
