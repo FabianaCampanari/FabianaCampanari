@@ -10,6 +10,10 @@
 <br><br>
 
 <!--INÍCIO DO CABEÇALHO -->
+
+<h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+
+
 # $$\Huge{\textbf{\color{blue}Eu Faço} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}IA}  \space \textbf{e} \space \textbf{\color{LightSkyBlue}Código}}$$
 
 ### <p align="center">  **< com vibração, frequência & alegria />** 🪬  </p>
