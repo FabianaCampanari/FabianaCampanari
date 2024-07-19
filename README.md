@@ -144,8 +144,6 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 
 
-
-
 <br><br>
 
 #
