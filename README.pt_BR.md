@@ -60,6 +60,8 @@
 
 ## [**👽 Sobre Mim**:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b0d76e97-041f-4c6a-92b6-a1271c9f5913)
 
+Como uma profissional multifacetada, atualmente estou cursando meu quarto grau em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP). 
+
 
 
 
