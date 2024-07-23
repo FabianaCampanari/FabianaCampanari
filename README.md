@@ -133,7 +133,9 @@ For a fascinating exploration of the connections between quantum physics and psy
   
      - [Image of "It Dress" in Vogue](link_to_image_vogue) 
 
- 
+     - [Ingrid Guimarães - Revista Quem](link_to_image_ingrid)
+
+
 
 
  
