@@ -129,8 +129,6 @@ For a fascinating exploration of the connections between quantum physics and psy
 
      - [View detailed designs on my GitHub repository](https://github.com/FabianaCampanari/Fashion-and-Design)
   
-        <br>
-
      - [Tidsy Facebook Page](https://www.facebook.com/tidsyleblon/)
 
 
