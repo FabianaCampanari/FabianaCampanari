@@ -52,8 +52,10 @@
 <!-- ... #### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$ -->
 
 
-<!-- 
+<!-- Last Formula Usada
 ### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+
+ -->
 
 <br>
 
