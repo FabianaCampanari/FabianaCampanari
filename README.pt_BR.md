@@ -67,9 +67,10 @@ Sou apaixonada por IA, especialmente no desenvolvimento de soluções centradas 
 
 
 
-## [🧘🏼‍♀️ **Work Focus*] (https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
+## [🧘🏼‍♀️ **Work Focus**] (https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
 
 Integro conhecimentos em Design Gráfico, Desenvolvimento Front-End, Inteligência Artificial Ciência de Dados e Computação Quântica como entusiasta para criar soluções inovadoras e impactantes no mundo digital. Estou animado com as possibilidades desta combinação de habilidades e ansioso para contribuir para projetos que compartilham esta visão.
+
 
 
 
