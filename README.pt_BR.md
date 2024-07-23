@@ -61,8 +61,6 @@
 ## [**👽 Sobre Mim**:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b0d76e97-041f-4c6a-92b6-a1271c9f5913)
 
 
-Sou uma profissional multifacetado, atualmente cursando meu 4º grau em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP), com foco em IA Humanística. Minha formação educacional diversificada inclui Psicologia, também na PUC-SP, Design na UCSD em San Diego, Califórnia, e Análise e Desenvolvimento de Sistemas na Universidade de Tecnologia Impacta. Além disso, sou entusiasta e autodidata em Física e Computação Quântica, o que me permite fazer conexões fascinantes entre campos distintos. Esta jornada interdisciplinar me dá uma perspectiva única para resolver problemas complexos. Minha sólida base em Psicologia é fundamental para criar sistemas de IA alinhados com as necessidades e valores humanos. Utilizo meu conhecimento sobre comportamento e cognição para desenvolver interfaces de IA intuitivas e empáticas, bem como para mitigar vieses algorítmicos, garantindo uma IA justa e equitativa.
-Os insights da física quântica ajudam a desenvolver modelos preditivos robustos, enquanto meu entendimento da psique humana contribui para soluções de software centradas no usuário. Esta convergência de áreas abre janelas fascinantes para explorar a natureza da realidade e da consciência.
 
 
 ## [🧘🏼‍♀️ Foco Profissional:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
