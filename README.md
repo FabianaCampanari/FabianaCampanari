@@ -131,7 +131,7 @@ For a fascinating exploration of the connections between quantum physics and psy
   
      - [Tidsy Facebook Page](https://www.facebook.com/tidsyleblon/)
   
-     - [Vogue "It Dress" - Main Fabric Print Design  - 1.80 X 0.90 cm](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg)
+     - [Vogue "It Dress" - Fabric Print Design  - 1.80 X 0.90 cm](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg)
 
      - [Image of "It Dress" in Vogue](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg) 
 
