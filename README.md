@@ -85,7 +85,7 @@ USAR ESSA FORMULA
 As a multifaceted professional, I am currently pursuing my fourth degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP). My educational background includes degrees in Psychology (PUC-SP), Systems Analysis and Software Development (Impacta Tech University), and Design (University of California, San Diego).
 
 
-I am passionate about AI, particularly in developing human-centric solutions. 
+I am passionate about AI, particularly in developing human-centric solutions. By leveraging insights from psychology, 
 
 
 
