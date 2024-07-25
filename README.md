@@ -82,10 +82,9 @@ USAR ESSA FORMULA
 
 ## [👽 About Me](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
 
-As a multifaceted professional, I am currently pursuing my fourth degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP). My educational background includes degrees in Psychology (PUC-SP), Systems Analysis and Software Development (Impacta Tech University), and Design (University of California, San Diego).
+👽 **Sobre Mim**
 
-I am passionate about AI, particularly in developing human-centric solutions. By leveraging insights from psychology, I strive to create user-friendly and unbiased AI systems. My interest in Quantum Computing enables me to build robust predictive models. Additionally, I have completed the CS50 course from Harvard University, which has strengthened my foundation in Computer Science.
-
+Como uma profissional multifacetada, atualmente estou cursando meu quarto grau em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP). 
 
 
 ## [🧘🏼‍♀️ Work Focus](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
@@ -125,7 +124,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
     <br>
 
- - **Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brazil and worn by celebrities like Ingrid Guimarães (Quem - Brazilian Magazine) and Giovanna Antonelli (Contigo - Brazilian Magazine).
+ - **Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brazil and worn by celebrities like Ingrid Guimarães (Revista Quem - Brazilian Magazine) and Giovanna Antonelli (Contigo - Brazilian Magazine).
 
      - [View detailed designs on my GitHub repository](https://github.com/FabianaCampanari/Fashion-and-Design)
   

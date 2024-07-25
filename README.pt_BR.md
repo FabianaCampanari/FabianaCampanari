@@ -64,9 +64,6 @@ Como uma profissional multifacetada, atualmente estou cursando meu quarto grau e
 
 Sou apaixonada por IA, especialmente no desenvolvimento de soluções centradas no ser humano. Ao aproveitar insights da psicologia, busco criar sistemas de IA amigáveis e imparciais. Meu interesse em Computação Quântica me permite construir modelos preditivos robustos. Além disso, concluí o curso CS50 da Universidade de Harvard, o que fortaleceu minha base em Ciência da Computação.
 
-
-
-
 ## [🧘🏼‍♀️ **Work Focus**] (https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
 
 Integro conhecimentos em Design Gráfico, Desenvolvimento Front-End, Inteligência Artificial Ciência de Dados e Computação Quântica como entusiasta para criar soluções inovadoras e impactantes no mundo digital. Estou animado com as possibilidades desta combinação de habilidades e ansioso para contribuir para projetos que compartilham esta visão.
