@@ -125,7 +125,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
     <br>
 
- - **Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brazil and worn by celebrities like Ingrid Guimarães (Quem - Brazilian Magazine) and Giovanna Antonelli (Contigo - Brazilian Magazine).
+ - **Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brazil and worn by celebrities like Ingrid Guimarães (Revista Quem - Brazilian Magazine) and Giovanna Antonelli (Contigo - Brazilian Magazine).
 
      - [View detailed designs on my GitHub repository](https://github.com/FabianaCampanari/Fashion-and-Design)
   
