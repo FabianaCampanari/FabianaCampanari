@@ -84,7 +84,7 @@ USAR ESSA FORMULA
 
 👽 **Sobre Mim**
 
-Como uma profissional multifacetada, atualmente estou cursando meu quarto grau em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP). 
+As a multifaceted professional, I am currently pursuing my fourth degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP). 
 
 
 ## [🧘🏼‍♀️ Work Focus](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
