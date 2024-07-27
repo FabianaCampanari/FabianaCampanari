@@ -154,8 +154,6 @@ For a fascinating exploration of the connections between quantum physics and psy
 - **[Quantum Software Development](https://github.com/sponsors/Quantum-Software-Development)**
 
 
-#### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
-
 
 <br><br>
 
