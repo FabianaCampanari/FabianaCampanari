@@ -141,12 +141,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
      - [Ingrid Guimarães - Ït Dress" - Revista Quem](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg)
   
-    
-
-
-
-
- 
+   
 
 <br>
 
@@ -159,6 +154,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 - **[Quantum Software Development](https://github.com/sponsors/Quantum-Software-Development)**
 
 
+#### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
 
 <br><br>
@@ -175,7 +171,6 @@ For a fascinating exploration of the connections between quantum physics and psy
  
  <br>
 
- #### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
 
 #
