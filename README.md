@@ -5,7 +5,9 @@
 [![Fabiana Campanari's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/anuraghazra/github-readme-stats) 
 
 
+
 ###  ☆•.,¸,.•.🎶*F̘͍͖ͫ͘r̴̨̦͕̝ẹ̿͋̒̕ẹ̿͋̒̕ḑ̴̞͛̒o̯̱̊͊͢ṇ̤͛̒̍ o̯̱̊͊͢f̵͖̜̉ͅ S̵̙͕̀̃p̞̈͑̚͞ẹ̿͋̒̕ẹ̿͋̒̕c͕͗ͤ̕̕ḣ̖̻͛̓+*🎶 *¯`•.,¸,.•*
+
 
 
 <!-- <h3 align="center"> 🪬 I Do Design, AI & Code </h3><br> -->
