@@ -10,16 +10,7 @@
 
 
  
- <br>
- 
- 
- #### <p align="center"> [![Sponsor FabianaCampanari ](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
 
-<br>
-
-#
-
-<br>
 
  #### <p align="center"> [💭 Mande Mensagem](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
   
