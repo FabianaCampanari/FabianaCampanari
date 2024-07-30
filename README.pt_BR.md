@@ -39,8 +39,8 @@ $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  -->
 ### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$  -->
 
 
-<!-- #### <p align="center">  Superposição de Qubit
-## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$ -->
+<!-- #### <p align="center">  Superposição de Qubit  -->
+## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$ 
 
 
 
