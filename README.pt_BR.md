@@ -19,6 +19,8 @@
 
 <!-- Após 07/24, o código Latex é formatado usando tags HTML e não mais usando Markdown, veja o novo formato HTML abaixo 👇  -->
 
+<h1 align="center"> $$\Huge{\textbf{\color{blue}Eu Faço} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}IA}  \space \textbf{e} \space \textbf{\color{LightSkyBlue}Código}}$$.
+
 
 
 
