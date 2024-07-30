@@ -8,15 +8,7 @@
 
 
 
- <br>
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
-<br>
-
- #
- 
-<br>
 
 #### <p align="center">  [𖤐](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) Frase Favorite
 
