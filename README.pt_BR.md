@@ -6,9 +6,6 @@
 !Estatísticas do GitHub de Fabiana Campanari -->
 
 
-
-
-
 ##### <p align="center">( Rafael Lain ) </p>   -->
 
 #
