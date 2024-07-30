@@ -14,9 +14,7 @@
 
 
 
-## [**👽 Sobre Mim**:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b0d76e97-041f-4c6a-92b6-a1271c9f5913)
 
-Como uma profissional multifacetada, atualmente estou cursando meu quarto grau em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP). Minha formação acadêmica inclui graduações em Psicologia (PUC-SP), Análise e Desenvolvimento de Sistemas (Faculdade Impacta de Tecnologia) e Design (Universidade da Califórnia, San Diego).
 
 Sou apaixonada por IA, especialmente no desenvolvimento de soluções centradas no ser humano. Ao aproveitar insights da psicologia, busco criar sistemas de IA amigáveis e imparciais. Meu interesse em Computação Quântica me permite construir modelos preditivos robustos. Além disso, concluí o curso CS50 da Universidade de Harvard, o que fortaleceu minha base em Ciência da Computação.
 
