@@ -11,14 +11,6 @@
 
 
 
-
-## [🧘🏼‍♀️ **Work Focus**](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
-
-Integro conhecimentos em Design Gráfico, Desenvolvimento Front-End, Inteligência Artificial Ciência de Dados e Computação Quântica como entusiasta para criar soluções inovadoras e impactantes no mundo digital. Estou animado com as possibilidades desta combinação de habilidades e ansioso para contribuir para projetos que compartilham esta visão.
-
-
-
-
 ## [👀 Objetivos Futuros:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
 Meu objetivo não é apenas me tornar uma profissional de destaque no campo do Desenvolvimento de Software, mas também fazer parte do movimento em constante evolução na Computação Quântica. Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia.
