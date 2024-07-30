@@ -8,11 +8,6 @@
 
 
 
-Meinha maior motivação é impulsionar a inovação e contribuir para o avanço da ciência e da computação quântica em benefício da humanidade.
-
-#
-
-<br>
 
 #### <p align="center"> [🌐 Meu Hub de Contatos](https://linktr.ee/fabianacampanari)
 
