@@ -32,8 +32,13 @@
 <!-- Fórmula da Relatividade.
 $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  -->
 
+
 <!-- #### Emaranhamento:
 ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
+
+### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$  -->
+
+
 
 
 
