@@ -9,13 +9,6 @@
 
 
 
-#### <p align="center"> [🌐 Meu Hub de Contatos](https://linktr.ee/fabianacampanari)
-
-
-<br>
-
-<p align="center">
-<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/> <br>
  
  <br>
  
