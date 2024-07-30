@@ -7,10 +7,6 @@
 
 
 
-
-
-
-
 ## [👀 Objetivos Futuros:](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
 Meu objetivo não é apenas me tornar uma profissional de destaque no campo do Desenvolvimento de Software, mas também fazer parte do movimento em constante evolução na Computação Quântica. Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia.
