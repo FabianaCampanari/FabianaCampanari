@@ -43,11 +43,14 @@ $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  -->
 ## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$  -->
 
 
-<!-- #### <p align="center"> Limit (Calculus I) 
+ #### <p align="center"> Limit (Calculus I) 
 
 ### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
 ### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
+### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
 
 
 
