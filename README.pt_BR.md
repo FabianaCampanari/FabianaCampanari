@@ -57,7 +57,10 @@ $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}
  -->
 
 
+<!-- #### USAR ESSA FORMULA a Seguir 👇
 
+### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+ -->
 
 
 
