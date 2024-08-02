@@ -152,8 +152,8 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-
-< https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/> <br>
+ <p align="center">
+<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/> <br>
  
  <br>
 
