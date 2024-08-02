@@ -95,6 +95,9 @@ Meu objetivo é me destacar em Desenvolvimento de Software, Design e Ciência de
 
 Para uma exploração fascinante das conexões entre física quântica e psicologia, recomendo fortemente dois artigos: “Quando Físicos Quânticos Encontraram Freud e Jung” e “Carl Gustav Jung, Física Quântica e a Mente Espiritual: Uma Visão Mística do Século XXI”. Esses artigos oferecem uma síntese única dessas disciplinas aparentemente distintas e são leitura obrigatória para qualquer pessoa interessada nas interseções entre ciência, arte e a mente humana.
 
+🔗 Leia o artigo - Quando Físicos Quânticos Encontraram Freud e Jung
+
+
 
 
 
