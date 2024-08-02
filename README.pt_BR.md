@@ -64,8 +64,12 @@ $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}
 
 <br>
 
-
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+
+<!--
+[Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
+-->
+
 
 
 
