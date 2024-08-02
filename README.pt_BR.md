@@ -75,6 +75,8 @@ $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 Como uma profissional multifacetada, atualmente estou cursando meu quarto diploma em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP). Minha formação educacional inclui diplomas em Psicologia (PUC-SP), Análise de Sistemas e Desenvolvimento de Software (Impacta Tech University) e Design (University of California, San Diego).
 
+Sou apaixonada por IA, especialmente no desenvolvimento de soluções centradas no ser humano. Ao aproveitar insights da psicologia, busco criar sistemas de IA amigáveis e imparciais. Meu interesse em Computação Quântica me permite construir modelos preditivos robustos.
+
 
 
 
