@@ -73,6 +73,9 @@ $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 ## 👽 Sobre Mim
 
+Como uma profissional multifacetada, atualmente estou cursando meu quarto diploma em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP). Minha formação educacional inclui diplomas em Psicologia (PUC-SP), Análise de Sistemas e Desenvolvimento de Software (Impacta Tech University) e Design (University of California, San Diego).
+
+
 
 
 
