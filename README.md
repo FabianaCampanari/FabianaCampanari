@@ -18,10 +18,6 @@
 
 
 
-<!-- <h3 align="center"> 🪬 I Do Design, AI & Code </h3><br> -->
-
-<br>
-
 <!--START HEADER - IMPORTANT NOTE FROM 07/24 --> 
 
 <!-- OLD MARKDOWN ACCEPTED FOR LATEX CODE UNTIL JUL/20024 --
