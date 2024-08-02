@@ -7,12 +7,14 @@
 [Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
 -->
 
+<!-- STATS API
+[![Fabiana Campanari's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/anuraghazra/github-readme-stats) 
+
 <!-- Header GIF -->
 ![Untitled design (3)](https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200)
 
 
-<!-- STATS API
-[![Fabiana Campanari's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
 
