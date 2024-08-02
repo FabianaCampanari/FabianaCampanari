@@ -81,8 +81,6 @@ $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
 
-
-
 <!--END HEADER -->
 
 <br>
@@ -93,8 +91,6 @@ As a multifaceted professional, I am currently pursuing my fourth degree in Data
 
 
 I am passionate about AI, particularly in developing human-centric solutions. By leveraging insights from psychology, I strive to create user-friendly and unbiased AI systems. My interest in Quantum Computing enables me to build robust predictive models.
-
-
 
 
 ## [🧘🏼‍♀️ Work Focus](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
