@@ -1,23 +1,31 @@
 ##### \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
 
-  <br>
-
-<!-- API DE ESTATÍSTICAS
-!Estatísticas do GitHub de Fabiana Campanari -->
+<br>
 
 <!--
-###  ☆•.,¸,.•.🎶*F̘͍͖ͫ͘r̴̨̦͕̝ẹ̿͋̒̕ẹ̿͋̒̕ḑ̴̞͛̒o̯̱̊͊͢ṇ̤͛̒̍ o̯̱̊͊͢f̵͖̜̉ͅ S̵̙͕̀̃p̞̈͑̚͞ẹ̿͋̒̕ẹ̿͋̒̕c͕͗ͤ̕̕ḣ̖̻͛̓+*🎶 *¯`•.,¸,.•* -->
+[Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
+-->
+
+<!-- STATS API
+[![Fabiana Campanari's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-<!-- <h3 align="center"> 🪬 Eu Faço Design, IA & Código </h3><br> -->
+###  ☆•.,¸,.•.🎶*F̘͍͖ͫ͘r̴̨̦͕̝ẹ̿͋̒̕ẹ̿͋̒̕ḑ̴̞͛̒o̯̱̊͊͢ṇ̤͛̒̍ o̯̱̊͊͢f̵͖̜̉ͅ S̵̙͕̀̃p̞̈͑̚͞ẹ̿͋̒̕ẹ̿͋̒̕c͕͗ͤ̕̕ḣ̖̻͛̓+*🎶 *¯`•.,¸,.•*     
 
-<!--START HEADER -->
+-->
+
+<!-- Header GIF -->
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200"/>
+
 
 <!-- OLD MARKDOWN ACCEPTED FOR LATEX CODE UNTIL JUL/20024
 
 # $$\Huge{\textbf{\color{blue}Eu Faço} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}IA}  \space \textbf{e} \space \textbf{\color{LightSkyBlue}Código}}$$. -->
 
 <!-- Após 07/24, o código Latex é formatado usando tags HTML e não mais usando Markdown, veja o novo formato HTML abaixo 👇  -->
+
+
 
 <h1 align="center"> $$\Huge{\textbf{\color{blue}Eu Faço} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}IA}  \space \textbf{e} \space \textbf{\color{LightSkyBlue}Código}}$$
 
