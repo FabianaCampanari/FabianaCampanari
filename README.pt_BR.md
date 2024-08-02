@@ -98,7 +98,7 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
 
 #### 🔗 [Leia o artigo - Quando Físicos Quânticos Encontraram Freud e Jung](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)
 
-🔗 Leia o artigo - Carl Gustav Jung, Física Quântica e a Mente Espiritual: Uma Visão Mística do Século XXI
+#### 🔗 [Leia o artigo - Carl Gustav Jung, Física Quântica e a Mente Espiritual: Uma Visão Mística do Século XXI]
 
 
 
