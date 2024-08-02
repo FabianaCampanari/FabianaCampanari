@@ -72,7 +72,7 @@ $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 
 
-## [👽 About Me](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
+## [👽 Sobre Mim](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
 
 Como uma profissional multifacetada, atualmente estou cursando meu quarto diploma em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP). Minha formação educacional inclui diplomas em Psicologia (PUC-SP), Análise de Sistemas e Desenvolvimento de Software (Impacta Tech University) e Design (University of California, San Diego).
 
