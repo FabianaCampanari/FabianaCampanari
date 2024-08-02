@@ -1,7 +1,7 @@
 
 ###### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
 
-<br<>
+<br>
 
 <!--
 [Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
