@@ -88,6 +88,9 @@ Com uma combinação de habilidades em Design, Desenvolvimento Front-End, Ciênc
 ## [👀 O Que Eu Busco](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
 
+Meu objetivo é me destacar em Desenvolvimento de Software, Design e Ciência de Dados em IA, enquanto contribuo para avanços em IA e Computação Quântica.
+
+
 
 
 
