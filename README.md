@@ -135,7 +135,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-💖 [GitHub Sponsors]()
+## 💖 GitHub Sponsors
 
 <br>
 
