@@ -91,7 +91,8 @@ Com uma combinação de habilidades em Design, Desenvolvimento Front-End, Ciênc
 Meu objetivo é me destacar em Desenvolvimento de Software, Design e Ciência de Dados em IA, enquanto contribuo para avanços em IA e Computação Quântica.  Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia, aspiro a impulsionar a inovação nesses campos e além.
 
 
-## 🧠 Combustível para o Cérebro
+## [🧠 Combustível para o Cérebro](https://github.com/user-attachments/assets/30e23d3e-5f75-45d0-8567-f5c8c8f243f9)
+
 
 
 
