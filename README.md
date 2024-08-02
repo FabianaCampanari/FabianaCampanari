@@ -30,7 +30,7 @@ After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymor
 
 <h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
-#### <p align="center">  ***< with vibe, [frequency](![IMG_6770 (3)](https://github.com/user-attachments/assets/48b22684-8c07-4fd4-aea6-4a94f06c71e1)
+#### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/48b22684-8c07-4fd4-aea6-4a94f06c71e1)
 ) & joy />*** 🪬  </p>
 
 
