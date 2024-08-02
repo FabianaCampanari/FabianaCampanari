@@ -1,6 +1,9 @@
 
 ###### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
 
+<!--
+[Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
+-->
 
 <!-- Header GIF -->
 ![Untitled design (3)](https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200)
@@ -75,9 +78,7 @@ $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
-<!--
-[Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
--->
+
 
 
 <!--END HEADER -->
