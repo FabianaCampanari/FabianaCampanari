@@ -69,10 +69,7 @@ Relativity Formula
  $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
  -->
 
-
-<!-- Formnula ´scondida - Troquei pela Artte Headere
 $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
- -->
 
 <br>
 
