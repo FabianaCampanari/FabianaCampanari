@@ -1,6 +1,12 @@
 
 ###### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
 
+<br>
+
+<!--
+[Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
+-->
+
 <!-- Header GIF -->
 ![Untitled design (3)](https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200)
 
@@ -13,10 +19,6 @@
 ###  ☆•.,¸,.•.🎶*F̘͍͖ͫ͘r̴̨̦͕̝ẹ̿͋̒̕ẹ̿͋̒̕ḑ̴̞͛̒o̯̱̊͊͢ṇ̤͛̒̍ o̯̱̊͊͢f̵͖̜̉ͅ S̵̙͕̀̃p̞̈͑̚͞ẹ̿͋̒̕ẹ̿͋̒̕c͕͗ͤ̕̕ḣ̖̻͛̓+*🎶 *¯`•.,¸,.•*
 
 
-
-<!-- <h3 align="center"> 🪬 I Do Design, AI & Code </h3><br> -->
-
-<br>
 
 <!--START HEADER - IMPORTANT NOTE FROM 07/24 --> 
 
@@ -34,10 +36,9 @@ After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymor
 
 
 ###### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* <br><br>
- 
-<!-- 
 
-Formuulas Latrex Code
+ 
+<!-- Formuulas Latrex Code
 
 Relativity Formula  
  
@@ -75,9 +76,7 @@ $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
-<!--
-[Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
--->
+
 
 
 <!--END HEADER -->
