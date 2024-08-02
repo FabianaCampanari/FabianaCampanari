@@ -82,8 +82,7 @@ Sou apaixonada por IA, especialmente no desenvolvimento de soluções centradas 
 
 ## [🧘🏼‍♀️ Work Focus](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
 
-Com uma combinação de habilidades em Design, Desenvolvimento Front-End, Ciência de Dados em IA e Computação Quântica como hobby apaixonado, combinada com um diploma em Psicologia, estou dedicada a criar soluções digitais inovadoras. 
-
+Com uma combinação de habilidades em Design, Desenvolvimento Front-End, Ciência de Dados em IA e Computação Quântica como hobby apaixonado, combinada com um diploma em Psicologia, estou dedicada a criar soluções digitais inovadoras. Meu profundo compromisso com o código aberto 
 
 
 
