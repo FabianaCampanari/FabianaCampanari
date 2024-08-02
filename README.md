@@ -1,9 +1,6 @@
 
 ###### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
 
-<h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
-
-#### <p align="center">  ***< with vibe, frequency & joy />*** 🪬  </p>
 
 <!-- Header GIF -->
 ![Untitled design (3)](https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200)
@@ -30,6 +27,10 @@
 After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymore, see new HTML format Bellow 👇
 
 -->
+
+<h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+
+#### <p align="center">  ***< with vibe, frequency & joy />*** 🪬  </p>
 
 ###### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* <br><br>
  
