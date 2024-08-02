@@ -135,7 +135,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
- **<p align="center"> ☀︎ [Personal Account](https://github.com/sponsors/FabianaCampanari)**
+ **<p align="center"> * [Personal Account](https://github.com/sponsors/FabianaCampanari)**
 
 - **[Mindful AI Assistants](https://github.com/sponsors/Mindful-AI-Assistants)**
 
