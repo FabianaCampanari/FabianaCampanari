@@ -1,6 +1,10 @@
 
 ###### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
 
+<!-- Header MP4 -->
+https://github.com/user-attachments/assets/a040110e-4a63-4612-8fd3-a79f38173fd2
+
+
 <!-- STATS API
 [![Fabiana Campanari's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/anuraghazra/github-readme-stats) 
 
