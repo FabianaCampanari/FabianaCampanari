@@ -79,6 +79,10 @@ Como uma profissional multifacetada, atualmente estou cursando meu quarto diplom
 Sou apaixonada por IA, especialmente no desenvolvimento de soluções centradas no ser humano. Ao aproveitar insights da psicologia, busco criar sistemas de IA amigáveis e imparciais. Meu interesse em Computação Quântica me permite construir modelos preditivos robustos.
 
 
+## 🧘🏼‍♀️ Foco de Trabalho
+
+
+
 
 
 
