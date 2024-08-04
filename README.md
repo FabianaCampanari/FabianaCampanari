@@ -39,7 +39,7 @@ After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymor
 
 ![From H Sa;eiens to H FGallacticus](https://github.com/user-attachments/assets/8b35df83-6345-4784-9fb6-1beafb59dbfc)
 
-<br>
+
 
 ##### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* <br><br>
 
