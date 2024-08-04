@@ -16,8 +16,6 @@
 <!-- OLD MARKDOWN ACCEPTED FOR LATEX CODE UNTIL JUL/20024
 
 # $$\Huge{\textbf{\color{blue}Eu Faço} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}IA}  \space \textbf{e} \space \textbf{\color{LightSkyBlue}Código}}$$. -->
->
-
 
 <!-- Header GIF -->
 
