@@ -35,9 +35,6 @@ After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymor
 
 ### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/48b22684-8c07-4fd4-aea6-4a94f06c71e1) & joy />*** 🪬  </p>
 
-<br>
-
-$${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
 <br>
 
