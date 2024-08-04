@@ -37,6 +37,10 @@ After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymor
 
 <br>
 
+$${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+
+<br>
+
 ![From H Sa;eiens to H FGallacticus](https://github.com/user-attachments/assets/8b35df83-6345-4784-9fb6-1beafb59dbfc)
 
 
