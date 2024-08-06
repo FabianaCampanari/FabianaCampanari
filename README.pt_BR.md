@@ -120,6 +120,9 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
 
 <br>
 
+Committers.top Brasil: 2º lugar. Explore mais
+
+
 
 
 
