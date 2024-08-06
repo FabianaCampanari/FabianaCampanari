@@ -126,6 +126,11 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
 
 - **Campeã HackaPUC-SP 2024:** Liderei minha equipe com sucesso, gerenciando todo o repositório, automação, desenvolvimento de bots, design e apresentação. [Leia mais](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)    |  [Veja o repositório](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
+<br>
+
+Designs Exclusivos para a Marca de Moda Tidsy, Rio de Janeiro: Desenhei estampas exclusivas para a Tidsy, uma marca de roupas estilosa no Rio de Janeiro, com lojas no Shopping Leblon e Shopping Fashion Mall em São Conrado. A coleção foi destacada como “It Dress” pela Vogue Brasil e usada por celebridades como Ingrid Guimarães (Revista Quem) e Giovanna Antonelli (Contigo).
+
+
 
 
 
