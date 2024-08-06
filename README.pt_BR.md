@@ -116,6 +116,13 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
 
 ## [🏆 Conquistas]()
 
+2º Lugar Usuário GitHub por Contribuições Públicas no Brasil. Confira | Para rankings globais, Clique aqui.
+
+<br>
+
+
+
+
 
 
 
