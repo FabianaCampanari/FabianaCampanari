@@ -130,6 +130,19 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
 
 - **Designs Exclusivos para a Marca de Moda Tidsy, Rio de Janeiro**: Desenhei estampas exclusivas para a Tidsy, uma marca de roupas estilosa no Rio de Janeiro, com lojas no Shopping Leblon e Shopping Fashion Mall em São Conrado. A coleção foi destacada como “It Dress” pela Vogue Brasil e usada por celebridades como Ingrid Guimarães (Revista Quem) e Giovanna Antonelli (Contigo).
 
+        <br>
+
+     - [View detailed designs on my GitHub repository](https://github.com/FabianaCampanari/Fashion-and-Design)
+  
+     - [Tidsy Facebook Page](https://www.facebook.com/tidsyleblon/)
+  
+     - [Vogue "It Dress" Fabric Print Design (1.80 x 0.90 cm)](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg)
+
+     - [Image of "It Dress" in Vogue](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg) 
+
+    - [Giovanna Antonelli - "It Dress" - Revista Contigo](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png)
+
+
 
 
 
