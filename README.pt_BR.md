@@ -132,7 +132,7 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
 
    <br>
 
-     - [View detailed designs on my GitHub repository](https://github.com/FabianaCampanari/Fashion-and-Design)
+     - [Veja designs detalhados no meu repositório GitHub](https://github.com/FabianaCampanari/Fashion-and-Design)
   
     
 
