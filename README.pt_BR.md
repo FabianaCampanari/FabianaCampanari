@@ -124,7 +124,7 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
 
 <br>
 
-Campeã HackaPUC-SP 2024: Liderei minha equipe com sucesso, gerenciando todo o repositório, automação, desenvolvimento de bots, design e apresentação. Leia mais | Veja o repositório
+- **Campeã HackaPUC-SP 2024:** Liderei minha equipe com sucesso, gerenciando todo o repositório, automação, desenvolvimento de bots, design e apresentação. Leia mais | Veja o repositório
 
 
 
