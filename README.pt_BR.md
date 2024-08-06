@@ -116,7 +116,7 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
 
 ## [🏆 Conquistas]()
 
-- **2º Lugar Usuário GitHub por Contribuições Públicas no Brasil.** [Confira](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)   |   Para rankings globais, [Clique aqui](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file).
+- **2º Lugar Usuário GitHub por Contribuições Públicas no Brasil.** [Confira](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)   |   Para rankings globais, [Clique aqui](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
 
 
 <br>
