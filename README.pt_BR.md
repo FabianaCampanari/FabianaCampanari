@@ -112,6 +112,10 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
 
 #### 🔗 [Leia o artigo - Carl Gustav Jung, Física Quântica e a Mente Espiritual: Uma Visão Mística do Século XXI](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
 
+<br>
+🏆 Conquistas
+
+
 
 
 
