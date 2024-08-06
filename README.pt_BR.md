@@ -134,7 +134,7 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
 
      - [Veja designs detalhados no meu repositório GitHub](https://github.com/FabianaCampanari/Fashion-and-Design)
  
-     - [](https://www.facebook.com/tidsyleblon/)
+     - [Página do Facebook da Tidsy](https://www.facebook.com/tidsyleblon/)
   
   
     
