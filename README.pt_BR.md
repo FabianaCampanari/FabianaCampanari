@@ -136,7 +136,7 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
  
      - [Página do Facebook da Tidsy](https://www.facebook.com/tidsyleblon/)
  
-     - [](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg)
+     - [Design de Estampa “It Dress” da Vogue (1.80 x 0.90 cm)](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg)
   
   
     
