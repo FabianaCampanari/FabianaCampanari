@@ -139,6 +139,12 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
      - [Design de Estampa “It Dress” da Vogue (1.80 x 0.90 cm)](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg)
  
      - [Imagem do “It Dress” na Vogue](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg)
+ 
+     - - [Giovanna Antonelli - "It Dress" - Revista Contigo](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png)
+
+
+<br>
+
   
   
     
