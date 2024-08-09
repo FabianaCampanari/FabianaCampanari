@@ -145,9 +145,9 @@ For a fascinating exploration of the connections between quantum physics and psy
 
      - [Image of "It Dress" in Vogue](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg) 
 
-     - [Giovanna Antonelli - "It Dress" - Revista Contigo](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png)
+     - [Giovanna Antonelli - Brazilian Actress Grin cause said boy said I said August no I've got detector when is door bugger"It Dress" - Revista Contigo](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png)
 
-     - [Ingrid Guimarães - Ït Dress" - UEM - Brazilian Magazine Jurassic Park]()
+     - [Ingrid Guimarães - Brazilian Actress: Ït Dr video plays Soccer Soccer Super was House cheat yeah why ASAP button Houseess" - Revista QUEM - Brazilian Magazine]()
 
 
 <br>
