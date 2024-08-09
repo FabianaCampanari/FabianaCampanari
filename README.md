@@ -147,7 +147,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
      - [Giovanna Antonelli - "It Dress" - Revista Contigo](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png)
 
-     - [Ingrid Guimarães - Ït Dress" - Revista Quem Magazine]()
+     - [Ingrid Guimarães - Ït Dress" - UEM - Brazilian Magazine Jurassic Park]()
 
 
 <br>
