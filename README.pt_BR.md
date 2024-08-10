@@ -140,12 +140,22 @@ Para uma exploração fascinante das conexões entre física quântica e psicolo
  
      - [Imagem do “It Dress” na Vogue](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg)
  
+
+     - [Giovanna Antonelli, Atriz Brasileira - "It Dress" - Revista Contigo](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png)
+
      - [Giovanna Antonelli - "It Dress" - Revista Contigo](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png)
  
      - https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg
 
 
 <br>
+
+## 💖 GitHub Sponsors
+
+<br>
+
+   - **[Personal Account] she
+#
 
   
   
