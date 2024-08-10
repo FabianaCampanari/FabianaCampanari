@@ -141,7 +141,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
       <br>
 
-     - [View detailed designs on my GitHub repository](https://github.com/FabianaCampanari/Fashion-and-Design)
+     - [Check out my GitHub repository to see my detailed designs](https://github.com/FabianaCampanari/Fashion-and-Design)
   
      - [Tidsy Facebook Page](https://www.facebook.com/tidsyleblon/)
   
@@ -151,7 +151,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
      - [Giovanna Antonelli, Brazilian Actress - "It Dress" - Revista Contigo](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png)
 
-     - [Ingrid Guimarães - Brazilian Actress: It Dr video plays Soccer Soccer Super was House cheat yeah why ASAP button Houseess" - Revista QUEM - Brazilian Magazine]()
+     - [Ingrid Guimarães - Brazilian Actress: "It Dress" - Revista QUEM - Brazilian Magazine]()
 
 
 <br>
