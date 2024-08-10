@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">  
-    <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200" width="300"/>  
+    <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200" width="800"/>  
 </p>
 
 <p align="center">  
