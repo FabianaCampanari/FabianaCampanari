@@ -34,7 +34,12 @@
 
 <!-- Header GIF -->
  <p align="center">
+<img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200 height="200" "/>
+
+ <p align="center">
 <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200"/>
+
+
 
 <p align="center">  
     <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200" width="300" height="200"/>  
