@@ -33,29 +33,9 @@
 <br> 
 
 <!-- Header GIF -->
- <p align="center">
-<img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200 height="200" "/>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200"/>
-
-
-
-<p align="center">  
-    <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200" width="300" height="200"/>  
-</p>
-
-<p align="center">  
-    <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200" width="800"/>  
-</p>
-
-<p align="center">  
-    <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200" height="200"/>  
-</p>
-
-<p align="center">  
-    <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200" height="300"/>  
-</p>
 
 ##### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 
 
