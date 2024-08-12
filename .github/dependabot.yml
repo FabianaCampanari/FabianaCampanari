@@ -1,20 +1,23 @@
-version: 2  
-updates:  
-  # Configuração para dependências Ruby (Gemfile)  
-  - package-ecosystem: "rubygems"  
-    directory: "/"  # Diretório onde está o Gemfile  
-    schedule:  
-      interval: "weekly"  # Verificações semanais  
-    commit-message:  
-      prefix: "fix"  # Prefixo na mensagem de commit  
-      include: "scope"  # Inclui o nome da dependência na mensagem  
+# Basic set up for three package managers
 
-  # Configuração para dependências JavaScript (package.json)  
-  - package-ecosystem: "npm"  
-    directory: "/"  # Diretório onde está o package.json  
-    schedule:  
-      interval: "weekly"  # Verificações semanais  
-    commit-message:  
-      prefix: "fix"  # Prefixo na mensagem de commit  
-      include: "scope"  # Inclui o nome da dependência na mensagem  
-    versioning-strategy: "auto"  # Estratégia de versão
+version: 2
+updates:
+
+  # Maintain dependencies for GitHub Actions
+  - package-ecosystem: "github-actions"
+    # Workflow files stored in the default location of `.github/workflows`. (You don't need to specify `/.github/workflows` for `directory`. You can use `directory: "/"`.)
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # Maintain dependencies for npm
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # Maintain dependencies for Composer
+  - package-ecosystem: "composer"
+    directory: "/"
+    schedule:
+      interval: "weekly"
