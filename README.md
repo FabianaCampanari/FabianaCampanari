@@ -196,7 +196,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-<h3 align="center">˗ˏˋ[ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)ˎˊ˗<h3>
+### <h3 align="center">˗ˏˋ[ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)ˎˊ˗<h3>
 
 
 
