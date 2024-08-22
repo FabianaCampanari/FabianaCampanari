@@ -206,6 +206,10 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 ### <p align="center" style="font-size: 200px">  [˗ˏˋॐˎˊ˗](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
+˗ˏˋ[ॐ]()ˎˊ˗
+
+[˗ˏˋ]()ॐ[ˎˊ˗]()
+
 <br>
 
 ### *<p align="center"> One People. One World. One Spirit... We Are All One !* 🌎💙 <br><br>
