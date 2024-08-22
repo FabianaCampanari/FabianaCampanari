@@ -162,7 +162,7 @@ For a fascinating exploration of the connections between quantum physics and psy
   
 #
 
-#### <p align="center"> [🌐 My Contacts Hub](https://linktr.ee/fabianacampanari)
+#### <p align="center"> 🌐 My Contacts [Hub](https://linktr.ee/fabianacampanari)
 
 <br>
 
