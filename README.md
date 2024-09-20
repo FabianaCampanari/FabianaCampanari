@@ -115,7 +115,7 @@ My goal is to excel in Software Development, Design, and AI Data Science, while 
 
 
 
-## ˏˋ🧠ˎˊ˗  [ Brain Fuel](https://github.com/user-attachments/assets/30e23d3e-5f75-45d0-8567-f5c8c8f243f9)
+## ˗ˏˋ🧠ˎˊ˗  [ Brain Fuel](https://github.com/user-attachments/assets/30e23d3e-5f75-45d0-8567-f5c8c8f243f9)
 
 For a fascinating exploration of the connections between quantum physics and psychology, I highly recommend two articles: **"When Quantum Physicists Met Freud and Jung"** and "**Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century**". These articles offer a unique synthesis of these seemingly distinct disciplines and are a must-read for anyone interested in the intersections of science, art, and the human mind.
 
