@@ -109,7 +109,7 @@ With a blend of skills in Design, Front-End Development, AI Data Science, and Qu
 
 
 
-## [👀 What I'm After](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
+## 🔭๋࣭  [What I'm After](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
 My goal is to excel in Software Development, Design, and AI Data Science, while contributing to advancements in AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation across these fields and beyond.
 
@@ -163,7 +163,7 @@ For a fascinating exploration of the connections between quantum physics and psy
   
 #
 
-#### <p align="center"> 🌐 My Contacts [Hub](https://linktr.ee/fabianacampanari)
+#### <p align="center"> 🛰  My Contacts [Hub](https://linktr.ee/fabianacampanari)
 
 <br>
 
