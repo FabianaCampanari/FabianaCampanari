@@ -42,7 +42,6 @@
 
 <br>
 
- 
 <!-- Formuulas Latrex Code
 
 Relativity Formula  
