@@ -6,8 +6,6 @@
 [Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
 -->
 
-
-
 <!-- STATS API
 [![Fabiana Campanari's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaCampanari)](https://github.com/anuraghazra/github-readme-stats) 
 
