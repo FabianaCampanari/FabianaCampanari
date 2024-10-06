@@ -131,6 +131,9 @@ For a fascinating exploration of the connections between quantum physics and psy
 
    [✯]() 🏆 **Winner of the Best AI Tool Innovation Award at the 2024 [Ready Tensor AI Project Showcase Competition]() for the** :bowtie:[SumBot Freecode project.](https://github.com/Mindful-AI-Assistants/SumBot)
 
+   👉🏻 Check out this award-winning project and others at the [Ready Tensor AI Showcase](https://app.readytensor.ai/competition).  
+   👉🏻 View the publication on the Ready Tensor AI app. [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a).
+
    <br>
 
    [✯]() 🏆 **Champion of HackaPUC-SP 2024 in 1st place.**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
