@@ -129,7 +129,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-   [✯]() 🏆 **Winner of the Best AI Tool Innovation Award at the 2024 Ready Tensor AI Project Showcase Competition for the** :bowtie:[SumBot Freecode project.](https://github.com/Mindful-AI-Assistants/SumBot)
+   [✯]() 🏆 **Winner of the Best AI Tool Innovation Award at the 2024 [Ready Tensor AI Project Showcase Competition]() for the** :bowtie:[SumBot Freecode project.](https://github.com/Mindful-AI-Assistants/SumBot)
 
    <br>
 
