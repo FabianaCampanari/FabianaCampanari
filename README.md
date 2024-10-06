@@ -125,19 +125,24 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-## 𓋹 [Achievements](https://gayanvoice.github.io/top-github-users/index.html)   
+## 𓋹 [Achievements]()
+
+   ✯ **Winner of the Best AI Tool Innovation Award at the 2024 Ready Tensor AI Project Showcase Competition for the** :bowtie: [SumBot Freecode project].(https://github.com/Mindful-AI-Assistants/SumBot/blob/8783b148a8aa34a976dedfa61995449aead79a37/Ready%20Tensor%20AI%20Project%20Showcase%202024%20-%20Best%20AI%20Tool%20Innovation.pdf)
+
+   ✯ **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+
+
+
 
   - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | For global rankings, [Click here](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file).
 
   - **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
   
-  - **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+
 
  - **Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brazil and worn by celebrities like Ingrid Guimarães (Revista Quem - Brazilian Magazine) and Giovanna Antonelli (Contigo - Brazilian Magazine).
 
       <br>
-
-     ✯ [Winner of the Best AI Tool Innovation Award at the 2024 Ready Tensor AI Project Showcase Competition for the :bowtie: SumBot Freecode project.](https://github.com/Mindful-AI-Assistants/SumBot/blob/8783b148a8aa34a976dedfa61995449aead79a37/Ready%20Tensor%20AI%20Project%20Showcase%202024%20-%20Best%20AI%20Tool%20Innovation.pdf)
 
      - [Check out my GitHub repository to see my detailed designs](https://github.com/FabianaCampanari/Fashion-and-Design) 
   
