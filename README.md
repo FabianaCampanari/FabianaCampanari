@@ -139,7 +139,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
    [✯]() 🥈 **2nd Place GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | For global rankings, [Click here](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file).
 
-   <br>
+  <br>
 
    [✯]() 🥈 **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
 
@@ -147,7 +147,7 @@ For a fascinating exploration of the connections between quantum physics and psy
   
   [✯]() 👗 **Vogue 'It Dress' Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brazil and worn by celebrities like Ingrid Guimarães (Revista Quem - Brazilian Magazine) and Giovanna Antonelli (Contigo - Brazilian Magazine).
 
-      <br>
+   <br>
 
    - [Check out my GitHub repository to see my detailed designs](https://github.com/FabianaCampanari/Fashion-and-Design) 
   
