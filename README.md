@@ -136,7 +136,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
    <br>
 
-   [✯]() 🏆 **Champion of HackaPUC-SP 2024 in 1st place.**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+   [✯]() 🏆 **Champion of] HackaPUC-SP 2024 in 1st place.**](): Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
 <br>
 
