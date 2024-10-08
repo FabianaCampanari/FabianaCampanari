@@ -1,4 +1,4 @@
-   
+
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
 
 <br>
@@ -25,6 +25,8 @@
 
 <!-- Header GIF -->
 
+<br>
+
 <h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
 ### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/48b22684-8c07-4fd4-aea6-4a94f06c71e1) & joy />*** 🪬  </p>
@@ -36,11 +38,10 @@
  <p align="center">
 <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200"/>
 
-##### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 
+#### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 
 
 <br>
 
- 
 <!-- Formuulas Latrex Code
 
 Relativity Formula  
@@ -107,36 +108,56 @@ With a blend of skills in Design, Front-End Development, AI Data Science, and Qu
 
 
 
-## [👀 What I'm After](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
+## 🔭๋࣭  [What I'm After](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
 My goal is to excel in Software Development, Design, and AI Data Science, while contributing to advancements in AI and Quantum Computing. Through continuous education, hard work, and collaboration with other technology enthusiasts, I aspire to drive innovation across these fields and beyond.
 
 
 
-##  [🧠 Brain Fuel](https://github.com/user-attachments/assets/30e23d3e-5f75-45d0-8567-f5c8c8f243f9)
+## ˗ˏˋ🧠ˎˊ˗  [ Brain Fuel](https://github.com/user-attachments/assets/30e23d3e-5f75-45d0-8567-f5c8c8f243f9)
 
 For a fascinating exploration of the connections between quantum physics and psychology, I highly recommend two articles: **"When Quantum Physicists Met Freud and Jung"** and "**Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century**". These articles offer a unique synthesis of these seemingly distinct disciplines and are a must-read for anyone interested in the intersections of science, art, and the human mind.
 
+<br>
 
-#### 🔗 [Read the article - When Quantum Physicists Met Freud and Jung](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)
+#### 🔗 Read the article - [When Quantum Physicists Met Freud and Jung](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857).
 
-#### 🔗 [Read the article - Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
+#### 🔗 Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf).
 
 <br>
 
-## [🏆 Achievements](https://gayanvoice.github.io/top-github-users/index.html)   
+## 𓋹 [Achievements]()
 
-  - **2nd Place GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | For global rankings, [Click here](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file).
+<br>
 
-  - **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
+   [✯]() 🏆 Winner of the [Best AI Tool Innovation Award](https://github.com/FabianaCampanari/FabianaCampanari/blob/8405e88ee6393c03c6b20a2d121c8bf44d31177e/Certificates/Certificates%20JPG/32-Ready%20Tensor%20AI%20Project%20Showcase%202024%20-%20Best%20AI%20Tool%20Innovation.png) at the 2024 Ready Tensor AI Project Showcase Competition for the :bowtie:[SumBot Freecode project](https://app.readytensor.ai/).
+
+<br>
+   
+   👉🏻 View the publication on the Ready Tensor AI app [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a). <br>
+   👉🏻 View the publication on Github. [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot)
+
+  <br>
+
+   [✯]() 🏆 **Champion of** [HackaPUC-SP 2024 in 1st place.](https://github.com/FabianaCampanari/FabianaCampanari/blob/083e5ad22afb4d10969cc861913030c8083371df/Certificates/Certificates%20JPG/31-HackaPUC%202024%20Certificate%20Fabiana%20Campanari..png): Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+
+<br>
+
+   [✯]() 🥈 **[2nd Place]() GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | For global rankings, [Click here](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file).
+
+  <br>
+
+   [✯]() 🥈 **[2nd place](): Committers.top Brazill**. [Explore more](https://committers.top/brazil#FabianaCampanari)
+
+   <br>
   
-  - **HackaPUC-SP 2024 Champion**: Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+  [✯]() 👗 **[Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg): Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Tidsy, a trendy clothing brand in Rio de Janeiro with locations in Shopping Leblon and Shopping Fashion Mall, launched exclusive prints featured by Vogue Brazil as the "It Dress." The collection was donned by celebrities such as Ingrid Guimarães [Quem Magazine](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) and Giovanna Antonelli [Contigo Magazeine](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png).
+ Magazine.
+ 
+   <br>
 
- - **Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Designed exclusive prints for Tidsy, a stylish clothing brand in Rio de Janeiro, with stores in Shopping Leblon and Shopping Fashion Mall in São Conrado. The collection was featured as "It Dress" by Vogue Brazil and worn by celebrities like Ingrid Guimarães (Revista Quem - Brazilian Magazine) and Giovanna Antonelli (Contigo - Brazilian Magazine).
 
-      <br>
-
-     - [Check out my GitHub repository to see my detailed designs](https://github.com/FabianaCampanari/Fashion-and-Design)
+   - You can find my detailed [Fashion Designs in my GitHub repository].
   
      - [Tidsy Facebook Page](https://www.facebook.com/tidsyleblon/)
   
@@ -161,7 +182,8 @@ For a fascinating exploration of the connections between quantum physics and psy
   
 #
 
-#### <p align="center"> 🌐 My Contacts [Hub](https://linktr.ee/fabianacampanari)
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
 
 <br>
 
@@ -205,11 +227,12 @@ For a fascinating exploration of the connections between quantum physics and psy
 ### <p align="center" style="font-size: 1000px">  ˗ˏˋ[ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)ˎˊ˗ 
 
 
-### *<p align="center"> One People. One World. One Spirit... [We Are All One]() !* 🌎🤍 
+### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)!* 🌎🤍 
 
 <br>
 
 #### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
 
 
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
@@ -222,7 +245,8 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 #
 
-###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)
+###### <p align="center"> Copyright 2024 Fabiana Campanari. Code released under the [MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)
+
 
 
 
