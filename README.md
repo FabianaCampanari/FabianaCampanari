@@ -130,11 +130,13 @@ For a fascinating exploration of the connections between quantum physics and psy
 <br>
 
    [✯]() 🏆 **Winner of the** [Best AI Tool Innovation Award at the 2024 Ready Tensor AI Project Showcase Competition](https://github.com/FabianaCampanari/FabianaCampanari/blob/8405e88ee6393c03c6b20a2d121c8bf44d31177e/Certificates/Certificates%20JPG/32-Ready%20Tensor%20AI%20Project%20Showcase%202024%20-%20Best%20AI%20Tool%20Innovation.png) for the :bowtie:[SumBot Freecode project.](https://app.readytensor.ai/)
+
+<br>
    
    👉🏻 View the publication on the Ready Tensor AI app.** [SumBot FreeCode](https://app.readytensor.ai/publications/uaWsno2Z7r2a). <br>
    👉🏻 View the publication on Github. [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/SumBot)
 
-   <br>
+  <br>
 
    [✯]() 🏆 **Champion of** [HackaPUC-SP 2024 in 1st place.](https://github.com/FabianaCampanari/FabianaCampanari/blob/083e5ad22afb4d10969cc861913030c8083371df/Certificates/Certificates%20JPG/31-HackaPUC%202024%20Certificate%20Fabiana%20Campanari..png): Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
@@ -149,7 +151,8 @@ For a fascinating exploration of the connections between quantum physics and psy
    <br>
   
   [✯]() 👗 **[Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg): Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Tidsy, a trendy clothing brand in Rio de Janeiro with locations in Shopping Leblon and Shopping Fashion Mall, launched exclusive prints featured by Vogue Brazil as the "It Dress." The collection was donned by celebrities such as Ingrid Guimarães [Quem Magazine](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) and Giovanna Antonelli [Contigo Magazeine](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png).
- Magazine
+ Magazine.
+ 
    <br>
 
    - Visit my [github Fashion Design repository](https://github.com/FabianaCampanari/Fashion-and-Design) to see my detailed designs.
