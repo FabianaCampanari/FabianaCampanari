@@ -147,7 +147,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
   <br>
 
-   [✯]() 🥈 **Committers.top Brazil: 2nd place**. [Explore more](https://committers.top/brazil#FabianaCampanari)
+   [✯]() 🥈 **2nd place: Committers.top Brazil**. [Explore more](https://committers.top/brazil#FabianaCampanari)
 
    <br>
   
