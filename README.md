@@ -159,7 +159,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
    - You can find my detailed [Fashion Designs in my GitHub repository].
   
-     - [Tidsy Facebook Page](https://www.facebook.com/tidsyleblon/)
+     -  Tidsy [Facebook Page](https://www.facebook.com/tidsyleblon/)
   
      - [Vogue "It Dress" - Blue Dragonn Fabric Print Design by Fabiana 🚀 Campanari (art size 1.80 x 0.90 cm)](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg)
 
