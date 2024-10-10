@@ -140,7 +140,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
   <br>
 
-   [✯]() 🏆 **Champion of** [HackaPUC-SP 2024 in 1st place.](https://github.com/FabianaCampanari/FabianaCampanari/blob/083e5ad22afb4d10969cc861913030c8083371df/Certificates/Certificates%20JPG/31-HackaPUC%202024%20Certificate%20Fabiana%20Campanari..png): Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+   [✯]() 🏆 **Champion of** [HackaPUC-SP 2024 in 1st place.](https://github.com/user-attachments/assets/ee200c04-b3a9-442c-8150-c143cd69edf2): Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
 <br>
 
