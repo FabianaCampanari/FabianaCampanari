@@ -134,7 +134,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
    
-   👉🏻 View the publication on the [Ready Tensor AI](https://app.readytensor.ai/publications/uaWsno2Z7r2a) <br>
+   👉🏻 View the publication on the [Ready Tensor AI.](https://app.readytensor.ai/publications/uaWsno2Z7r2a) <br>
    👉🏻 View the publication on [Github.](https://github.com/Mindful-AI-Assistants/SumBot) <br>
    👉🏻 Watch demo videos on [YouTube.](https://www.youtube.com/@fabianacampanari4786)
 
