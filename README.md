@@ -130,7 +130,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-   [✯]() 🏆 Winner of the [Best AI Tool Innovation Award](https://github-production-user-asset-6210df.s3.amazonaws.com/113218619/373981412-27954751-6dde-4b21-929f-9dc111fbc3dc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241009T235017Z&X-Amz-Expires=300&X-Amz-Signature=422c7fbfeaa4076a60b24ca75ede105e9f9e1d1fb6798b13627e397663b7616d&X-Amz-SignedHeaders=host) at the 2024 Ready Tensor AI Project Showcase Competition for the :bowtie:[SumBot Freecode project](https://app.readytensor.ai/).
+   [✯]() 🏆 Winner of the [Best AI Tool Innovation Award]() at the 2024 Ready Tensor AI Project Showcase Competition for the :bowtie:[SumBot Freecode project](https://app.readytensor.ai/).
 
 <br>
    
