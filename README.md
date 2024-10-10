@@ -163,7 +163,7 @@ For a fascinating exploration of the connections between quantum physics and psy
      - Vogue "It Dress" - [1.80 x 0.90 cm - Blue Dragonn fabric print design](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) by Fabiana 🚀 Campanari.
 
 
-     - [Image of "It Dress" in Vogue]
+    
 
     
 
