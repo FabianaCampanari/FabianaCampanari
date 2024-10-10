@@ -167,7 +167,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
      - [Giovanna Antonelli, Brazilian Actress - "It Dress" - Revista Contigo - Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png)
 
-     - [Ingrid Guimarães- Brazilian Actress: 
+  
 
 
 <br>
