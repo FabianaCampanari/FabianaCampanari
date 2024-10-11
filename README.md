@@ -130,11 +130,11 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-   [✯]() 🏆 Winner of the [Best AI Tool Innovation Award](https://github.com/user-attachments/assets/967d414e-3ec5-46c3-8026-a5bc90d2f17d) at Ready Tensor AI Project Showcase 2024) at the 2024 Ready Tensor AI Project Showcase Competition for the :bowtie:[SumBot Freecode project](https://app.readytensor.ai/). https://app.readytensor.ai/publications/uaWsno2Z7r2a
+   [✯]() 🏆 Winner of the [Best AI Tool Innovation Award](https://github.com/user-attachments/assets/967d414e-3ec5-46c3-8026-a5bc90d2f17d) at Ready Tensor AI Project Showcase 2024) at the 2024 Ready Tensor AI Project Showcase Competition for the :bowtie:[SumBot Freecode project](). https://app.readytensor.ai/publications/uaWsno2Z7r2a
 
 <br>
    
-   👉🏻 View the publication on the [Ready Tensor AI.]() <br>
+   👉🏻 View the publication on the [Ready Tensor AI.](https://app.readytensor.ai/) <br>
    👉🏻 View the publication on [Github.](https://github.com/Mindful-AI-Assistants/SumBot) <br>
    👉🏻 Watch demo videos on [YouTube.](https://www.youtube.com/@fabianacampanari4786)
 
