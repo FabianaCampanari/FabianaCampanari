@@ -144,10 +144,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-![top-github-users-](https://github.com/user-attachments/assets/2e5441d7-eba9-4673-8ea4-4ad00ae7d242)
-
-
-   [✯]() 🥈 **[2nd place]() GitHub User By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | For global rankings, [Click here](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file).
+   [✯]() 🥈[2nd place](https://github.com/user-attachments/assets/2e5441d7-eba9-4673-8ea4-4ad00ae7d242) - **Top GitHub Users By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | For global rankings, [Click here](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file).
 
   <br>
 
