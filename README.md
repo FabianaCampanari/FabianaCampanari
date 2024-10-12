@@ -158,9 +158,8 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 
 
- Vogue - "It Dress": Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Tidsy, a trendy clothing brand in Rio de Janeiro with locations in Shopping Leblon and Shopping Fashion Mall, launched exclusive prints featured by Vogue Brazil as the "It Dress".  
- 
- The collection was also worn by Brazilian celebrities, like Ingrid Guimarães in Quem magazine and Giovanna Antonelli in Contigo magazine.
+ Vogue Brazil highlighted my design as the "It Dress." This creation was an exclusive piece under the Tidsy Fashion Brand, which is known for its stylish offerings. Tidsy has locations in Shopping Leblon and Shopping Fashion Mall in Rio de Janeiro, where exclusive prints are showcased, as featured by the magazine.  
+The collection was also worn by Brazilian celebrities, like Ingrid Guimarães in Quem magazine and Giovanna Antonelli in Contigo magazine.
 
  
 
