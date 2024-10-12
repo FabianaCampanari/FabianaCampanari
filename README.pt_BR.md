@@ -122,11 +122,9 @@ Para uma exploração fascinante das conexões entre a física quântica e a psi
 ☆ 🏆 Vencedor do [Prêmio de Melhor Inovação em Ferramenta de IA](https://github.com/user-attachments/assets/967d414e-3ec5-46c3-8026-a5bc90d2f17d) no Showcase do Projeto Ready Tensor AI 2024, na competição do Showcase do Projeto Ready Tensor AI 2024, pelo projeto :bowtie:[SumBot Freecode.](https://app.readytensor.ai/publications/uaWsno2Z7r2a)
 
 <br>
-
- 👉🏻 View the publication on the [Ready Tensor AI.](https://app.readytensor.ai/) <br>
- 👉🏻 View the publication on [Github.](https://github.com/Mindful-AI-Assistants/SumBot) <br>
- 👉🏻 Watch demo videos on [YouTube.](https://www.youtube.com/@fabianacampanari4786)
-
+👉🏻 Veja a publicação no [Ready Tensor AI.](https://app.readytensor.ai/) <br>
+👉🏻 Veja a publicação no [Github.](https://github.com/Mindful-AI-Assistants/SumBot) <br>
+👉🏻 Assista aos vídeos de demonstração no [YouTube.](https://www.youtube.com/@fabianacampanari4786)
 
   <br><br>
   
