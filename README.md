@@ -167,7 +167,7 @@ The brand's unique prints have captivated Brazilian celebrities, being showcased
      -  Tidsy [Facebook Page](https://www.facebook.com/tidsyleblon/)
        
 
-   br><br>
+   <br><br>
 
 ## 💖 GitHub Sponsors
 
