@@ -152,7 +152,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
    <br>
   
-  [✯]() 👗 **Vogue  -  [*'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg) : Exclusive Designs for Tidsy Fashion Brand, Rio de Janeiro:** Tidsy, a trendy clothing brand in Rio de Janeiro with locations in Shopping Leblon and Shopping Fashion Mall, launched exclusive prints featured by Vogue Brazil as the "It Dress".  
+  [✯]() 👗 **Vogue  -  [*'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg) : 
   
   The collection was worn by Brazilian celebrities photographed for magazines, such as Ingrid Guimarães, [Quem Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) and Giovanna Antonelli [Contigo Brazilian Magazine.](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png)
 
@@ -160,7 +160,11 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 
 
-My creation for Tidsy Fashion Brand was highlighted by Vogue Brazil as the 'It Dress,' reflecting exclusivity and sophisticated style. This piece is part of Tidsy's iconic and exclusive collections, available only at Shopping Leblon and Shopping Fashion Mall in Rio de Janeiro. The brand's unique prints have captivated Brazilian celebrities, being showcased by Ingrid Guimarães in Quem magazine and Giovanna Antonelli in Contigo magazine. With striking design and presence in top fashion magazines, Tidsy reaffirms its position as a reference in the Brazilian fashion scene.
+
+
+My creation for Tidsy Fashion Brand was highlighted by Vogue Brazil as the 'It Dress,' reflecting exclusivity and sophisticated style. This piece is part of Tidsy's iconic and exclusive collections, available only at Shopping Leblon and Shopping Fashion Mall in Rio de Janeiro. 
+
+The brand's unique prints have captivated Brazilian celebrities, being showcased by Ingrid Guimarães in Quem magazine and Giovanna Antonelli in Contigo magazine. With striking design and presence in top fashion magazines, Tidsy reaffirms its position as a reference in the Brazilian fashion scene.
 
 
 
