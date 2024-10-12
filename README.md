@@ -150,7 +150,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
   ☆ 🥈 [2nd Place](https://github.com/user-attachments/assets/34232f5a-96f8-48a0-b96c-9cb32dca6f3e): Committers.top Brazill**. [Explore more.](https://committers.top/brazil#FabianaCampanari)
   
-  <br>
+  <br><br>
   
  ☆ 👗 [Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg): 
  
