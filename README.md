@@ -159,6 +159,12 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 
  Vogue Brasil has dubbed its design the "It Dress." This exclusive piece is part of the Tidsy Fashion Brand, which is known for its stylish collections available at Shopping Leblon and Shopping Fashion Mall in Rio de Janeiro. The magazine also highlighted Tidsy’s unique prints that were worn and photographed by Brazilian celebrities, including Ingrid Guimarães in Quem magazine and Giovanna Antonelli in Contigo magazine.
+
+Vogue Brasil has referred to Tidsy Fashion Brand's design as the "It Dress," highlighting its exclusivity and fashion appeal. This dress is part of Tidsy's stylish collections sold at Shopping Leblon and Shopping Fashion Mall in Rio de Janeiro. The brand is also noted for its unique prints, which have been showcased by Brazilian celebrities like Ingrid Guimarães in Quem magazine and Giovanna Antonelli in Contigo magazine. If you have any further questions or need more details about Tidsy or its collections, feel free to ask!
+
+
+
+
  
 
  
