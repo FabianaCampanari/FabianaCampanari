@@ -110,6 +110,22 @@ Para uma exploração fascinante das conexões entre a física quântica e a psi
 
 <br>
 
+#### 🔗 Leia o artigo - [Quando Físicos Quânticos Encontraram Freud e Jung.](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)
+
+#### 🔗 Leia o artigo - [Carl Gustav Jung, Física Quântica e a Mente Espiritual: Uma Visão Mística do Século Vinte e Um.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
+<br>
+
+## 𓋹 [Achievements]()
+
+<br>
+
+
+☆ 🏆 Winner of the [Best AI Tool Innovation Award](https://github.com/user-attachments/assets/967d414e-3ec5-46c3-8026-a5bc90d2f17d) at Ready Tensor AI Project Showcase 2024) at the 2024 Ready Tensor AI Project Showcase Competition for the :bowtie:[SumBot Freecode Project.]( https://app.readytensor.ai/publications/uaWsno2Z7r2a)
+
+
+<br>
+
+
 
 
 
