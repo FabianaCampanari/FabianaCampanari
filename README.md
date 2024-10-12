@@ -146,11 +146,12 @@ For a fascinating exploration of the connections between quantum physics and psy
 
   ☆ 🥈 [2nd Place](https://github.com/user-attachments/assets/2e5441d7-eba9-4673-8ea4-4ad00ae7d242) for **Top GitHub Users By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | for Global Rankings, [Click here.](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
 
-  <br>
+  <br><br>
 
   ☆ 🥈 [2nd Place](https://github.com/user-attachments/assets/34232f5a-96f8-48a0-b96c-9cb32dca6f3e): Committers.top Brazill**. [Explore more.](https://committers.top/brazil#FabianaCampanari)
+  
 
-   <br>
+  <br><br>
   
  ☆ 👗 [Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg): 
  
@@ -158,15 +159,17 @@ My creation for Tidsy Fashion Brand was highlighted by Vogue Brazil as the 'It D
 
 The brand's unique prints have captivated Brazilian celebrities, being showcased by [Ingrid Guimarães in Quem Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) and [Giovanna Antonelli in Contigo Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png). With striking design and presence in top fashion magazines, Tidsy reaffirms its position as a reference in the Brazilian fashion scene.
 
-<br>
+
+  <br><br>
  
    - My detailed fashion designs are available in my [GitHub Repository.](https://github.com/FabianaCampanari/Fashion-and-Design)
 
        - Vogue "It Dress" - [1.80 x 0.90 cm - Blue Dragonn fabric print design](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) by Fabiana 🚀 Campanari.
   
      -  Tidsy [Facebook Page](https://www.facebook.com/tidsyleblon/)
+       
 
-<br>
+  <br><br>
 
 ## 💖 GitHub Sponsors
 
