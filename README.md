@@ -142,16 +142,16 @@ For a fascinating exploration of the connections between quantum physics and psy
 
   ☆ 🏆 **Champion of** [HackaPUC-SP 2024 in 1st place.](https://github.com/user-attachments/assets/ee200c04-b3a9-442c-8150-c143cd69edf2): Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository.](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
-<br>
+  <br><br>
 
   ☆ 🥈 [2nd Place](https://github.com/user-attachments/assets/2e5441d7-eba9-4673-8ea4-4ad00ae7d242) for **Top GitHub Users By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | for Global Rankings, [Click here.](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
 
-  <br><br>
+  <br>
 
   ☆ 🥈 [2nd Place](https://github.com/user-attachments/assets/34232f5a-96f8-48a0-b96c-9cb32dca6f3e): Committers.top Brazill**. [Explore more.](https://committers.top/brazil#FabianaCampanari)
   
 
-  <br><br>
+  <br>
   
  ☆ 👗 [Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg): 
  
