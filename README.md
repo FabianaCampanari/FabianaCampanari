@@ -160,7 +160,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
  
 
-The brand's unique prints have captivated Brazilian celebrities, being showcased by Ingrid Guimarães in Quem magazine and Giovanna Antonelli in Contigo magazine. With striking design and presence in top fashion magazines, Tidsy reaffirms its position as a reference in the Brazilian fashion scene.
+The brand's unique prints have captivated Brazilian celebrities, being showcased by Ingrid Guimarães in Quem Brazilian Magazine and Giovanna Antonelli in Contigo Brazikian Magazine. With striking design and presence in top fashion magazines, Tidsy reaffirms its position as a reference in the Brazilian fashion scene.
 
 
 
