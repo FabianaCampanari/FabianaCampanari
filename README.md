@@ -160,7 +160,10 @@ The brand's unique prints have captivated Brazilian celebrities, being showcased
 
   <br>
  
-   - My detailed fashion designs are available in my [GitHub Repository.](https://github.com/FabianaCampanari/Fashion-and-Design)
+   - All me creations and detailed fashion designs are available in my [GitHub Repository.](https://github.com/FabianaCampanari/Fashion-and-Design)
+
+Explore all my creations and detailed fashion designs in my [GitHub repository.]
+
 
        - Vogue "It Dress" - [1.80 x 0.90 cm - Blue Dragonn fabric print design](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) by Fabiana 🚀 Campanari.
   
