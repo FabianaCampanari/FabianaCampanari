@@ -99,10 +99,9 @@ Sou apaixonado por IA, especialmente no desenvolvimento de soluções centradas 
 Com uma combinação de habilidades em Design, Desenvolvimento Front-End, Ciência de Dados em IA e Computação Quântica como um entusiasta apaixonado, juntamente com um diploma em Psicologia, estou dedicado a criar soluções digitais inovadoras. Meu profundo compromisso com o código aberto alimenta meu entusiasmo por colaborar em projetos que se alinham com essa abordagem multidisciplinar.
 
 
-## [👀 O Que Eu Busco](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
+## 🔭๋࣭  [What I'm After](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
-
-Meu objetivo é me destacar em Desenvolvimento de Software, Design e Ciência de Dados em IA, enquanto contribuo para avanços em IA e Computação Quântica.  Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia, aspiro a impulsionar a inovação nesses campos e além.
+Meu objetivo é me destacar em Desenvolvimento de Software, Design e Ciência de Dados em IA, enquanto contribuo para os avanços em IA e Computação Quântica. Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia, aspiro a impulsionar a inovação nesses campos e além.
 
 
 ## [🧠 Combustível para o Cérebro](https://github.com/user-attachments/assets/30e23d3e-5f75-45d0-8567-f5c8c8f243f9)
