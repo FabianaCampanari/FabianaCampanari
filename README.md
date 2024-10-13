@@ -245,7 +245,7 @@ The brand's unique prints have captivated Brazilian celebrities, being showcased
 
 <br>
 
-## 💌 [Contact Us]()
+## 💌 [Contact Me]()
 
 <br><br>
 
