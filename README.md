@@ -255,6 +255,10 @@ The brand's unique prints have captivated Brazilian celebrities, being showcased
 
 For any questions, suggestions, or collaborations, feel free to reach out:
 
+ - Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
+
+ - Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
+
 
 
 
