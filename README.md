@@ -260,11 +260,8 @@ For any questions, suggestions, or collaborations, feel free to reach out:
  - Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 
 
+<br><br>
 
-
-
-
-<br>
 
 <div style="text-align: center;"> <a href="#top">Back to top</a>
 </div>
