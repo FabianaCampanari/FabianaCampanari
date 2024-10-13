@@ -260,19 +260,10 @@ For any questions, suggestions, or collaborations, feel free to reach out:
  - Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 
 
+
 <br><br>
 
 <p align="center"> <a href="#top">Back to top</a>
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
