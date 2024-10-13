@@ -262,10 +262,14 @@ For any questions, suggestions, or collaborations, feel free to reach out:
 
 <br><br>
 
+<p align="center"> <a href="#top">Back to top</a>
 
 <div style="text-align: center;">  
     <a href="#top">Back to top</a>  
 </div>  
+
+
+
 
 
 
