@@ -231,7 +231,7 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
 
 Para quaisquer perguntas, sugestões ou colaborações, sinta-se à vontade para entrar em contato:
 
- - Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
+ - Fabiana Campanari 🚀 [Hub de Contatos](https://linktr.ee/fabianacampanari)
 
  - Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 
