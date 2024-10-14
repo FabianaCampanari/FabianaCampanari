@@ -144,8 +144,7 @@ Para uma exploração fascinante das conexões entre a física quântica e a psi
  
 Minha criação para a marca Tidsy Fashion foi destacada pela Vogue Brasil como o 'It Dress', refletindo exclusividade e estilo sofisticado. Esta peça faz parte das coleções icônicas e exclusivas da Tidsy, disponíveis apenas no Shopping Leblon e no Shopping Fashion Mall no Rio de Janeiro.
 
-The brand's unique prints have captivated Brazilian celebrities, being showcased by [Ingrid Guimarães in Quem Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) and [Giovanna Antonelli in Contigo Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png). With striking design and presence in top fashion magazines, Tidsy reaffirms its position as a reference in the Brazilian fashion scene.
-
+As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo exibidas por [Ingrid Guimarães na revista Quem](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) e [Giovanna Antonelli na revista Contigo](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png). Com um design marcante e presença nas principais revistas de moda, a Tidsy reafirma sua posição como referência na cena da moda brasileira.
 
 
 
