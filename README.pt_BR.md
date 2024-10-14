@@ -160,7 +160,7 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
    <br><br>
    
 
-## 💖 GitHub Sponsors
+## 💖 Patrocinadores do GitHub
 
    - **[Personal Account](https://github.com/sponsors/FabianaCampanari)**
 
