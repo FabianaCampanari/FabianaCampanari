@@ -162,7 +162,7 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
 
 ## 💖 Patrocinadores do GitHub
 
-   - **"[Conta Pessoal](https://github.com/sponsors/FabianaCampanari)"**
+   - **[Conta Pessoal](https://github.com/sponsors/FabianaCampanari)**
 
    - **[Mindful AI Assistants](https://github.com/sponsors/Mindful-AI-Assistants)**
 
