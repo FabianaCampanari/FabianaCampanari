@@ -41,11 +41,6 @@
 #### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 
 
 
-
-https://github.com/user-attachments/assets/0b981308-e37e-4727-996c-31b487077b81
-
-
-
 <br>
 
 <!-- Formuulas Latrex Code
