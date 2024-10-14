@@ -229,7 +229,7 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
 
 <br><br>
 
-For any questions, suggestions, or collaborations, feel free to reach out:
+Para quaisquer perguntas, sugestões ou colaborações, sinta-se à vontade para entrar em contato:
 
  - Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
 
