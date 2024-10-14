@@ -136,8 +136,7 @@ Para uma exploração fascinante das conexões entre a física quântica e a psi
 
   <br>
 
-   ☆ 🥈 [2nd Place](https://github.com/user-attachments/assets/34232f5a-96f8-48a0-b96c-9cb32dca6f3e): Committers.top Brazill**. [Explore more.](https://committers.top/brazil#FabianaCampanari)
-  
+   ☆ 🥈 [2º Lugar](https://github.com/user-attachments/assets/34232f5a-96f8-48a0-b96c-9cb32dca6f3e): Committers.top Brasil**. [Explore mais.](https://committers.top/brazil#FabianaCampanari)
   <br><br>
   
   
