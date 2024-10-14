@@ -140,7 +140,7 @@ Para uma exploração fascinante das conexões entre a física quântica e a psi
   <br><br>
   
   
- ☆ 👗 [Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg): 
+ ☆ 👗 "[Vogue - *'Vestido It'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg):"
  
 My creation for Tidsy Fashion Brand was highlighted by Vogue Brazil as the 'It Dress,' reflecting exclusivity and sophisticated style. This piece is part of Tidsy's iconic and exclusive collections, available only at Shopping Leblon and Shopping Fashion Mall in Rio de Janeiro.
 
