@@ -250,7 +250,7 @@ Para quaisquer perguntas, sugestões ou colaborações, sinta-se à vontade para
 
 #
 
-###### <p align="center"> Copyright 2024 Fabiana Campanari. Code released under the [MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)
+###### <p align="center"> Copyright 2024 Fabiana Campanari. Código liberado sob a [licença MIT.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)
 
 
 
