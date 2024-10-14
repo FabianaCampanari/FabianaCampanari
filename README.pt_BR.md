@@ -152,8 +152,7 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
  "- Explore todas as minhas criações e designs de moda detalhados no meu [repositório do GitHub.](https://github.com/FabianaCampanari/Fashion-and-Design)"
 
 
-   - Vogue "It Dress" - [1.80 x 0.90 cm - Blue Dragonn fabric print design](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) by Fabiana 🚀 Campanari.
-   - 
+   - Vogue 'It Dress' - [1,80 x 0,90 cm - Impressão de tecido Blue Dragonn](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) por Fabiana 🚀 Campanari.
   
    - Tidsy [Facebook Page](https://www.facebook.com/tidsyleblon/)
 
