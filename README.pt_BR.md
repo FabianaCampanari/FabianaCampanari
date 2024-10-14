@@ -203,6 +203,21 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
 
 <br>
 
+ #
+ 
+ <br>
+
+#### <p align="center">  [𖤐](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) Favorite Quote
+
+
+### <p align="center" style="font-size: 1000px">  ˗ˏˋ[ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)ˎˊ˗ 
+
+
+### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)!* 🌎🤍 
+
+<br>
+
+
 
 
 
