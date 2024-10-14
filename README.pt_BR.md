@@ -217,6 +217,25 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
 
 <br>
 
+#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+<br>
+
+## 💌 [Contact Me](https://github.com/user-attachments/assets/0b981308-e37e-4727-996c-31b487077b81)
+
+<br><br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+<br><br>
+
+For any questions, suggestions, or collaborations, feel free to reach out:
+
+ - Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
+
+ - Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
+
+
 
 
 
