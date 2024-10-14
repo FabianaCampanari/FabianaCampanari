@@ -128,7 +128,7 @@ Para uma exploração fascinante das conexões entre a física quântica e a psi
 
   <br><br>
 
-☆ 🏆 ** Campeão do ** [ HackaPUC-SP 2024 em 1º lugar.](https://github.com/user-attachments/assets/ee200c04-b3a9-442c-8150-c143cd69edf2): Conduzi minha equipe com sucesso, gerenciando todo o repositório, automação, desenvolvimento de bots, design e apresentação. [ Leia mais](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) | [Veja o repositório.](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+☆ 🏆 **Campeão do** [ HackaPUC-SP 2024 em 1º lugar.](https://github.com/user-attachments/assets/ee200c04-b3a9-442c-8150-c143cd69edf2): Conduzi minha equipe com sucesso, gerenciando todo o repositório, automação, desenvolvimento de bots, design e apresentação. [ Leia mais](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) | [Veja o repositório.](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
   <br><br>  
 
