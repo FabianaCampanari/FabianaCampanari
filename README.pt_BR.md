@@ -221,7 +221,7 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
 
 <br>
 
-## 💌 [Contact Me](https://github.com/user-attachments/assets/0b981308-e37e-4727-996c-31b487077b81)
+## 💌 [Entre em Contato](https://github.com/user-attachments/assets/0b981308-e37e-4727-996c-31b487077b81)
 
 <br><br>
 
