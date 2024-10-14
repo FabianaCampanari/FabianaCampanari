@@ -132,7 +132,7 @@ Para uma exploração fascinante das conexões entre a física quântica e a psi
 
   <br><br>  
 
-  ☆ 🥈 [2nd Place](https://github.com/user-attachments/assets/2e5441d7-eba9-4673-8ea4-4ad00ae7d242) for **Top GitHub Users By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | for Global Rankings, [Click here.](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
+  ☆ 🥈 [2º Lugar](https://github.com/user-attachments/assets/2e5441d7-eba9-4673-8ea4-4ad00ae7d242) para **Principais Usuários do GitHub por Contribuições Públicas no Brasil**. [Confira aqui](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | para Classificações Globais, [Clique aqui.](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
 
   <br>
 
