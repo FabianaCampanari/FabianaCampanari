@@ -171,7 +171,7 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
 
 #
 
-#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+#### <p align="center">  🛸๋"Meus Contatos [Hub](https://linktr.ee/fabianacampanari)"
 
 <br>
 
