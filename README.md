@@ -1,4 +1,3 @@
-
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
 
 <br>
@@ -106,7 +105,6 @@ I am passionate about AI, particularly in developing human-centric solutions. By
 ## [🧘🏼‍♀️ Work Focus](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
  
 With a blend of skills in Design, Front-End Development, AI Data Science, and Quantum Computing as a passionate hobbyist, combined with a degree in Psychology, I am dedicated to creating innovative digital solutions. My deep commitment to open source fuels my enthusiasm for collaborating on projects that align with this multidisciplinary approach.
-
 
 
 
