@@ -157,7 +157,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
   <!-- https://github.com/user-attachments/assets/34232f5a-96f8-48a0-b96c-9cb32dca6f3e -->
 
-  ☆ 🥈 [2nd Place](https://committers.top/brazil_public): Committers.top Brazill**. [Explore more.](https://committers.top/brazil#FabianaCampanari)
+  ☆ 🥈 [2nd Place](https://committers.top/brazil_public): Committers.top Brazill**. [Explore more.]([https://committers.top/brazil#FabianaCampanari](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/brazil.md))
   
   <br><br>
   
