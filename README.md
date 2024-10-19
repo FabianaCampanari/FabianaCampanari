@@ -151,14 +151,14 @@ For a fascinating exploration of the connections between quantum physics and psy
   <br><br>
 <!--https://github.com/user-attachments/assets/2e5441d7-eba9-4673-8ea4-4ad00ae7d242 -->
   
-  ☆ 🥈 [2nd Place](https://committers.top/brazil_private) for **Top GitHub Users By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | for Global Rankings, [Click here.](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
+  ☆ 🥈 [2nd Place](https://committers.top/brazil_private) for **Top GitHub Users By Public Contributions in Brazil**. [Check it out]() | for Global Rankings, [Click here.](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
 
 https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/brazil.md
   <br>
 
   <!-- https://github.com/user-attachments/assets/34232f5a-96f8-48a0-b96c-9cb32dca6f3e -->
 
-  ☆ 🥈 [2nd Place](https://committers.top/brazil_public): Committers.top Brazill**. [Explore more.]([https://committers.top/brazil#FabianaCampanari](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/brazil.md))
+  ☆ 🥈 [2nd Place](https://committers.top/brazil_public): **Committers.top Brazill**. [Explore more.](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
   
   <br><br>
   
