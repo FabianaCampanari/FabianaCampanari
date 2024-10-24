@@ -83,10 +83,13 @@ $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} 
 -->
 
 
+https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add
+
+
 
 <br>
 
-## [👽 About Me](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
+## [👽 About Me]()
 
 Como um profissional multifacetado, atualmente estou cursando meu quarto diploma em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP). Minha formação educacional inclui diplomas em Psicologia (PUC-SP), Análise de Sistemas e Desenvolvimento de Software (Universidade Impacta Tech) e Design (Universidade da Califórnia, San Diego).
 
@@ -221,7 +224,7 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
 
 <br>
 
-## 💌 [Entre em Contato](https://github.com/user-attachments/assets/0b981308-e37e-4727-996c-31b487077b81)
+## 💌 [Entre em Contato](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
 
 <br><br>
 
