@@ -238,7 +238,7 @@ The brand's unique prints have captivated Brazilian celebrities, being showcased
 
 <p align="center">
   <a href="https://example.com">
-    <img src="https://github.com/user-attachments/assets/7b37ec78-1fc3-4bce-a84a-945b46be71e9" width="300" />
+    <img src="https://github.com/user-attachments/assets/7b37ec78-1fc3-4bce-a84a-945b46be71e9" width="100" />
   </a>
 </p>
 
