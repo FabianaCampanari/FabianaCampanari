@@ -94,7 +94,7 @@ $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} 
 
 <br>
 
-## [👽 About Me]()
+## [👽 About Me](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
 
 As a multifaceted professional, I am currently pursuing my fourth degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP). My educational background includes degrees in Psychology (PUC-SP), Systems Analysis and Software Development (Impacta Tech University), and Design (University of California, San Diego).
 
