@@ -179,6 +179,8 @@ As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo ex
  
  <br>
 
+ #
+
 #### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
 
 <br>
