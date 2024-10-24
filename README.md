@@ -94,7 +94,7 @@ $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} 
 
 <br>
 
-## [👽 About Me]()
+## [👽 About Me](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)
 
 As a multifaceted professional, I am currently pursuing my fourth degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP). My educational background includes degrees in Psychology (PUC-SP), Systems Analysis and Software Development (Impacta Tech University), and Design (University of California, San Diego).
 
@@ -249,7 +249,7 @@ The brand's unique prints have captivated Brazilian celebrities, being showcased
 <BR>
 
 
-### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)!* 🌎🤍 
+### *<p align="center"> One People. One World. One Spirit... [We Are All One]()!* 🌎🤍 
 
 <br>
 
