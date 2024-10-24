@@ -243,8 +243,9 @@ The brand's unique prints have captivated Brazilian celebrities, being showcased
 </p>
 
 
+https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44
 
-### <p align="center" style="font-size: 1000px">  ˗ˏˋ[ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)ˎˊ˗ 
+### <p align="center" style="font-size: 1000px">  ˗ˏˋ[ॐ]()ˎˊ˗ 
 
 
 ### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)!* 🌎🤍 
