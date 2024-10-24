@@ -83,13 +83,10 @@ $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} 
 -->
 
 
-https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add
-
-
-
 <br>
 
-## [👽 About Me]()
+## [👽 About Me](
+https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
 
 Como um profissional multifacetado, atualmente estou cursando meu quarto diploma em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP). Minha formação educacional inclui diplomas em Psicologia (PUC-SP), Análise de Sistemas e Desenvolvimento de Software (Universidade Impacta Tech) e Design (Universidade da Califórnia, San Diego).
 
