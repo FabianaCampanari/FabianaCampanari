@@ -28,7 +28,7 @@
 
 <h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
-#### <p align="center">  ***< with vibe, [frequency]() & joy />*** 🪬  </p>
+#### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92) & joy />*** 🪬  </p>
 
 <br> 
 
