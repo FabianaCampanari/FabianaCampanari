@@ -126,7 +126,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-## 𓋹 [Achievements]()
+## 𓋹 [Achievements](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)
 
 <br>
 
@@ -240,7 +240,7 @@ The brand's unique prints have captivated Brazilian celebrities, being showcased
 
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44">
+  <a href="">
     <img src="https://github.com/user-attachments/assets/7b37ec78-1fc3-4bce-a84a-945b46be71e9" width="75" />
   </a>
 </p>
