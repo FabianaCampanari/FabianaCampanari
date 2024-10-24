@@ -248,7 +248,7 @@ https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44
 ### <p align="center" style="font-size: 1000px">  ˗ˏˋ[ॐ]()ˎˊ˗ 
 
 
-### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)!* 🌎🤍 
+### *<p align="center"> One People. One World. One Spirit... [We Are All One]()!* 🌎🤍 
 
 <br>
 
