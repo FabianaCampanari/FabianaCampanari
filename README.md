@@ -249,7 +249,7 @@ The brand's unique prints have captivated Brazilian celebrities, being showcased
 <BR>
 
 
-### *<p align="center"> One People. One World. One Spirit... [We Are All One]()!* 🌎🤍 
+### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)!* 🌎🤍 
 
 <br>
 
