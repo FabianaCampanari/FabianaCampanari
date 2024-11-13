@@ -177,7 +177,7 @@ Excited to have participated in the **5th Artificial Intelligence Congress at PU
 
 - 👉🏻 [Watch the presentation on YouTube (starts at 3h 26m)](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s)
  
-  <br><br>
+  <br>
 
 ☆ 👗 **[Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg):**  
 
