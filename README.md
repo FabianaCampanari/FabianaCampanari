@@ -147,8 +147,17 @@ Led my team to victory, overseeing repository management, automation, bot develo
 - 👉🏻 [Access the project repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
  <br>  
- 
 
+☆ 🥈 **2nd Place for Top GitHub Users by Public Contributions in Brazil**  
+
+- 👉🏻 [Check the ranking](https://committers.top/brazil_private)  
+- 👉🏻 [Explore the global rankings](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
+
+ <br>  
+
+
+
+ 
 
   <br><br>
   
