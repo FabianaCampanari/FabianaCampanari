@@ -193,7 +193,7 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
    <br><br>
    
 
-## 💖 GitHub Sponsors
+## 💖 My GitHub Sponsors Accounts
 
    - **[Personal Account](https://github.com/sponsors/FabianaCampanari)**
 
