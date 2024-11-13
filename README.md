@@ -159,6 +159,16 @@ Led my team to victory, overseeing repository management, automation, bot develo
 
 - 👉🏻 [Explore the rankings](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
 
+<br>  
+
+☆ 🎉 **Featured in PR Newswire and Yahoo Finance**  
+
+Thrilled to be featured in both **PR Newswire** and **Yahoo Finance**, where my project **SumBot FreeCode** was recognized as the **Best Innovation in AI Tool** during the **ReadyTensor AI Project Showcase 2024**. 🚀  
+
+- 👉🏻 [Read the full article on PR Newswire](https://www.prnewswire.com/news-releases/nlp-innovations-take-center-stage-join-the-data-science-showcase-elevating-ai-research-302275947.html)  
+- 👉🏻 [Read the full article on Yahoo Finance](https://finance.yahoo.com/news/nlp-innovations-center-stage-join-125600542.html?guccounter=1&guce_referrer=aHR0cHM6Ly9sbmtkLmluLw&guce_referrer_sig=AQAAAAP5D5HE2u3Kt9MBLTaTMJONg0asNODNrrC0U0oZn2Ne50aRilDqF7szvGJyoqs-JdGEUXMPgBXERn5aVFcGvbMHPwion0EyZS6rMgcSsQdZLFZYezdZ7pYfvJ_flJef-MUjROWWA7nJYGBNkIIE2zHCjqZhlNv9E2gUUIMlDobm)
+
+
 
  
 
