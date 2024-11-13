@@ -155,6 +155,9 @@ Led my team to victory, overseeing repository management, automation, bot develo
 
  <br>  
 
+☆ 🥈 **2nd Place on Committers.top Brazil**  
+
+- 👉🏻 [Explore the rankings](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
 
 
  
