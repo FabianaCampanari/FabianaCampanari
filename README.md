@@ -131,53 +131,38 @@ For a fascinating exploration of the connections between quantum physics and psy
 <br>
 
 
-☆ 🏆 Winner of the [Best AI Tool Innovation Award](https://github.com/user-attachments/assets/967d414e-3ec5-46c3-8026-a5bc90d2f17d) at Ready Tensor AI Project Showcase 2024) at the 2024 Ready Tensor AI Project Showcase Competition for the :bowtie:[SumBot Freecode Project.]( https://app.readytensor.ai/publications/uaWsno2Z7r2a)
 
 
 <br>
 
    
-   👉🏻 View the publication on the [Ready Tensor AI.](https://app.readytensor.ai/) <br>
-   👉🏻 View the publication on [Github.](https://github.com/Mindful-AI-Assistants/SumBot) <br>
-   👉🏻 Watch demo videos on [YouTube.](https://www.youtube.com/@fabianacampanari4786)
+ 
 
 
   <br><br>
   
   
-  ☆ 🏆 **Champion of** [HackaPUC-SP 2024 in 1st place.](https://github.com/user-attachments/assets/ee200c04-b3a9-442c-8150-c143cd69edf2): Successfully led my team, managing the entire repository, automation, bot development, design, and presentation. [Read more](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  |  [View the repository.](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
-  
+
 
   <br><br>
-<!--https://github.com/user-attachments/assets/2e5441d7-eba9-4673-8ea4-4ad00ae7d242 -->
-  
-  ☆ 🥈 [2nd Place](https://committers.top/brazil_private) for **Top GitHub Users By Public Contributions in Brazil**. [Check it out](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/brazil.md) | for Global Rankings, [Click here.](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
+
 
 
   <br>
 
-  <!-- https://github.com/user-attachments/assets/34232f5a-96f8-48a0-b96c-9cb32dca6f3e -->
-
-  ☆ 🥈 [2nd Place](https://committers.top/brazil_public): **Committers.top Brazill**. [Explore more.](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+ 
+  
   
   <br><br>
   
   
- ☆ 👗 [Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg): 
- 
-My creation for Tidsy Fashion Brand was highlighted by Vogue Brazil as the 'It Dress,' reflecting exclusivity and sophisticated style. This piece is part of Tidsy's iconic and exclusive collections, available only at Shopping Leblon and Shopping Fashion Mall in Rio de Janeiro.
 
-The brand's unique prints have captivated Brazilian celebrities, being showcased by [Ingrid Guimarães in Quem Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) and [Giovanna Antonelli in Contigo Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png). With striking design and presence in top fashion magazines, Tidsy reaffirms its position as a reference in the Brazilian fashion scene.
 
 
   <br>
   
  
-   - Explore all my creations and detailed fashion designs in my [GitHub repository.](https://github.com/FabianaCampanari/Fashion-and-Design)
-
-   - Vogue "It Dress" - [1.80 x 0.90 cm - Blue Dragonn fabric print design](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) by Fabiana 🚀 Campanari.
-  
-   - Tidsy [Facebook Page](https://www.facebook.com/tidsyleblon/)
+   
 
        
    <br><br>
