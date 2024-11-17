@@ -158,12 +158,12 @@ Muito empolgado por ser destacado tanto na **PR Newswire** quanto no **Yahoo Fin
 
 <br>
 
-☆ 🚀✨ **Participant in the 5th Artificial Intelligence Congress at PUC-SP**  
+☆ 🚀✨ **Participante do 5º Congresso de Inteligência Artificial na PUC-SP / 2024**  
 
-Excited to have participated in the **5th Artificial Intelligence Congress at PUC-SP**, where I presented **SumBot FreeCode**.  
-**SumBot FreeCode** is an AI-powered chatbot integrated with Slack, developed using OpenAI’s GPT-3.5 Turbo API. It optimizes team communication and information sharing. By simply using an emoji, **SumBot** can summarize and respond to messages, boosting organization and productivity.  
+Agradecida por ter participado do **5º Congresso de Inteligência Artificial da PUC-SP**, onde apresentei o **SumBot FreeCode**.  
+O **SumBot FreeCode** é um chatbot com inteligência artificial integrado ao Slack, desenvolvido utilizando a API GPT-3.5 Turbo da OpenAI. Ele otimiza a comunicação da equipe e o compartilhamento de informações. Ao usar simplesmente um emoji, o **SumBot** pode resumir e responder a mensagens, aumentando a organização e a produtividade.
 
-- 👉🏻 [Watch the presentation on YouTube (starts at 3h 26m)](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s)
+- 👉🏻 [Assista à apresentação no YouTube (começa em 3h 26m).](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s)
  
   <br>
 
