@@ -118,42 +118,64 @@ Para uma exploração fascinante das conexões entre a física quântica e a psi
 
 <br>
 
-☆ 🏆 Vencedor do [Prêmio de Melhor Inovação em Ferramenta de IA](https://github.com/user-attachments/assets/967d414e-3ec5-46c3-8026-a5bc90d2f17d) no Showcase do Projeto Ready Tensor AI 2024, na competição do Showcase do Projeto Ready Tensor AI 2024, pelo projeto :bowtie:[SumBot Freecode.](https://app.readytensor.ai/publications/uaWsno2Z7r2a)
+☆ 🏆 **Vencedora do Prêmio de Melhor Inovação em Ferramenta de IA** na Exposição de Projetos Ready Tensor AI 2024  
+Homenageado na **Exposição de Projetos Ready Tensor AI 2024** pelo :bowtie: **Projeto FreeCode do SumBot****.  
+
+- 👉🏻 [Leia a publicão na Ready Tensor AI](https://app.readytensor.ai/)  
+- 👉🏻 [Explore the project n0 GitHub](https://github.com/Mindful-AI-Assistants/SumBot)  
+- 👉🏻 [Assista demo videos no YouTube](https://www.youtube.com/@fabianacampanari4786)
 
 <br>
-👉🏻 Veja a publicação no [Ready Tensor AI.](https://app.readytensor.ai/) <br>
-👉🏻 Veja a publicação no [Github.](https://github.com/Mindful-AI-Assistants/SumBot) <br>
-👉🏻 Assista aos vídeos de demonstração no [YouTube.](https://www.youtube.com/@fabianacampanari4786)
 
-  <br><br>
+☆ 🏆 **Campeãa do HackaPUC-SP 2024** – 1st Lugar  
 
-☆ 🏆 **Campeão do** [ HackaPUC-SP 2024 em 1º lugar.](https://github.com/user-attachments/assets/ee200c04-b3a9-442c-8150-c143cd69edf2): Conduzi minha equipe com sucesso, gerenciando todo o repositório, automação, desenvolvimento de bots, design e apresentação. [ Leia mais](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp) | [Veja o repositório.](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+"Conduzi minha equipe à vitória, supervisionando a gestão de repositórios, automação, desenvolvimento de bots, design e apresentação."  
 
-  <br><br>  
+- 👉🏻 [Se informe mais sobre o HackaPUC-SP](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  
+- 👉🏻 [Accesse o projeto no repositorio](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
-  ☆ 🥈 [2º Lugar](https://github.com/user-attachments/assets/2e5441d7-eba9-4673-8ea4-4ad00ae7d242) para **Principais Usuários do GitHub por Contribuições Públicas no Brasil**. [Confira aqui](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) | para Classificações Globais, [Clique aqui.](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
+ <br> 
 
-  <br>
+☆ 🥈 *"*2º Lugar em Usuários Top do GitHub por Contribuições Públicas no Brasil*"**  
 
-   ☆ 🥈 [2º Lugar](https://github.com/user-attachments/assets/34232f5a-96f8-48a0-b96c-9cb32dca6f3e): Committers.top Brasil**. [Explore mais.](https://committers.top/brazil#FabianaCampanari)
-  <br><br>
-  
-  
- ☆ 👗 "[Vogue - *'Vestido It'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg):"
+- 👉🏻 [Check o ranking](https://committers.top/brazil_private)  
+- 👉🏻 [Explore o global rankings](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
+
+ <br>  
+
+☆ 🥈 **"2º Lugar no Committers.top Brasil"**  
+
+- 👉🏻 [Explore o rankings](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+
+<br>  
+
+☆ 🎉 **Destaque na PR Newswire e no Yahoo Finance.**  
+
+Muito empolgado por ser destacado tanto na **PR Newswire** quanto no **Yahoo Finance**, onde meu projeto **SumBot FreeCode** foi reconhecido como a **Melhor Inovação em Ferramenta de IA** durante a **Mostra de Projetos de IA ReadyTensor 2024**. 🚀  
+
+- 👉🏻 [Leia o artigo completo no PR Newswire](https://www.prnewswire.com/news-releases/nlp-innovations-take-center-stage-join-the-data-science-showcase-elevating-ai-research-302275947.html)  
+- 👉🏻 [Leia o artigo completo no Yahoo Finance](https://finance.yahoo.com/news/nlp-innovations-center-stage-join-125600542.html?guccounter=1&guce_referrer=aHR0cHM6Ly9sbmtkLmluLw&guce_referrer_sig=AQAAAAP5D5HE2u3Kt9MBLTaTMJONg0asNODNrrC0U0oZn2Ne50aRilDqF7szvGJyoqs-JdGEUXMPgBXERn5aVFcGvbMHPwion0EyZS6rMgcSsQdZLFZYezdZ7pYfvJ_flJef-MUjROWWA7nJYGBNkIIE2zHCjqZhlNv9E2gUUIMlDobm)
+
+<br>
+
+☆ 🚀✨ **Participant in the 5th Artificial Intelligence Congress at PUC-SP**  
+
+Excited to have participated in the **5th Artificial Intelligence Congress at PUC-SP**, where I presented **SumBot FreeCode**.  
+**SumBot FreeCode** is an AI-powered chatbot integrated with Slack, developed using OpenAI’s GPT-3.5 Turbo API. It optimizes team communication and information sharing. By simply using an emoji, **SumBot** can summarize and respond to messages, boosting organization and productivity.  
+
+- 👉🏻 [Watch the presentation on YouTube (starts at 3h 26m)](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s)
  
-Minha criação para a marca Tidsy Fashion foi destacada pela Vogue Brasil como o 'It Dress', refletindo exclusividade e estilo sofisticado. Esta peça faz parte das coleções icônicas e exclusivas da Tidsy, disponíveis apenas no Shopping Leblon e no Shopping Fashion Mall no Rio de Janeiro.
-
-As estampas exclusivas da marca têm cativado celebridades brasileiras, sendo exibidas por [Ingrid Guimarães na revista Quem](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) e [Giovanna Antonelli na revista Contigo](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png). Com um design marcante e presença nas principais revistas de moda, a Tidsy reafirma sua posição como referência na cena da moda brasileira.
-
-
   <br>
-  
- "- Explore todas as minhas criações e designs de moda detalhados no meu [repositório do GitHub.](https://github.com/FabianaCampanari/Fashion-and-Design)"
 
+☆ 👗 **[Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg):**  
 
-   - Vogue 'It Dress' - [1,80 x 0,90 cm - Impressão de tecido Blue Dragonn](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) por Fabiana 🚀 Campanari.
-  
-   - Tidsy [Página do Facebook](https://www.facebook.com/tidsyleblon/)
+My design for **Tidsy Fashion Brand** was featured as the **'It Dress'** in **Vogue Brazil**, embodying exclusivity and sophisticated style. This piece is part of Tidsy’s iconic, limited-edition collections, available exclusively at **Shopping Leblon** and **Shopping Fashion Mall** in Rio de Janeiro.
+
+The brand's unique prints have garnered the attention of Brazilian celebrities, showcased by [Ingrid Guimarães in *Quem* Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) and [Giovanna Antonelli in *Contigo* Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png). Tidsy continues to redefine trends in the Brazilian fashion scene.
+
+- Explore all my fashion creations and detailed designs in my [GitHub repository](https://github.com/FabianaCampanari/Fashion-and-Design).
+- **Vogue "It Dress"** - [1.80 x 0.90 cm - Blue Dragonn fabric print design](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) by **Fabiana 🚀 Campanari**.  
+- **Tidsy [Facebook Page](https://www.facebook.com/tidsyleblon/)**
 
        
    <br><br>
