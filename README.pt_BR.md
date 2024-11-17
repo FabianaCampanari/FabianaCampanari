@@ -169,14 +169,15 @@ O **SumBot FreeCode** é um chatbot com inteligência artificial integrado ao Sl
 
 ☆ 👗 **[Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg):**  
 
-My design for **Tidsy Fashion Brand** was featured as the **'It Dress'** in **Vogue Brazil**, embodying exclusivity and sophisticated style. This piece is part of Tidsy’s iconic, limited-edition collections, available exclusively at **Shopping Leblon** and **Shopping Fashion Mall** in Rio de Janeiro.
+Meu design para a **Tidsy Fashion Brand** foi destaque como o **'Vestido do Momento'** na **Vogue Brasil**, incorporando exclusividade e estilo sofisticado. Esta peça faz parte das coleções icônicas e de edição limitada da Tidsy, disponíveis exclusivamente no **Shopping Leblon** e no **Shopping Fashion Mall** no Rio de Janeiro.
 
-The brand's unique prints have garnered the attention of Brazilian celebrities, showcased by [Ingrid Guimarães in *Quem* Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) and [Giovanna Antonelli in *Contigo* Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png). Tidsy continues to redefine trends in the Brazilian fashion scene.
+As estampas exclusivas da marca chamaram a atenção de celebridades brasileiras, como mostrado por [Ingrid Guimarães na revista *Quem*](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) e [Giovanna Antonelli na revista *Contigo*](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png). A Tidsy continua a redefinir tendências no cenário da moda brasileira.
 
-- Explore all my fashion creations and detailed designs in my [GitHub repository](https://github.com/FabianaCampanari/Fashion-and-Design).
-- **Vogue "It Dress"** - [1.80 x 0.90 cm - Blue Dragonn fabric print design](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) by **Fabiana 🚀 Campanari**.  
-- **Tidsy [Facebook Page](https://www.facebook.com/tidsyleblon/)**
+Aqui está a tradução para o português:
 
+- Explore todas as minhas criações de moda e designs detalhados no meu [repositório do GitHub](https://github.com/FabianaCampanari/Fashion-and-Design).
+- **Vogue "It Dress"** - [1,80 x 0,90 cm - Design impresso em tecido Blue Dragonn](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) por **Fabiana 🚀 Campanari**.  
+- **Tidsy [Página do Facebook](https://www.facebook.com/tidsyleblon/)**
        
    <br><br>
    
