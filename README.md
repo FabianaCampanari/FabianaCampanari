@@ -277,7 +277,7 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
 For any questions, suggestions, or collaborations, feel free to reach out:
 
-- Fabiana Campanari 🚀 [X](https://x.com/CampanariFabi)
+- Fabiana 🚀  Campanari [X](https://x.com/CampanariFabi)
 
 - Fabiana Campanari [Linkedin](linkedin.com/in/fabiana-campanari) 🚀 
 
