@@ -277,11 +277,12 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
 For any questions, suggestions, or collaborations, feel free to reach out:
 
- - Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
 
 - Fabiana 🚀 Campanari [Linkedin](linkedin.com/in/fabiana-campanari)
 
- - Fabiana 🚀 Campanari [email me](mailto:fabicampanari@proton.me)
+- Fabiana Campanari 🚀 [X](https://x.com/CampanariFabi)
+
+- Fabiana 🚀 Campanari [email me](mailto:fabicampanari@proton.me)
 
 
 
