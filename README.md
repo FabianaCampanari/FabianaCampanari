@@ -251,7 +251,7 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add">
-    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="150" />
+    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="300" />
   </a>
 </p>
 
