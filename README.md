@@ -251,12 +251,12 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add">
-    <img src="https://github.com/user-attachments/assets/7b37ec78-1fc3-4bce-a84a-945b46be71e9" width="150" />
+    <img src="https://github.com/user-attachments/assets/9d38b2a4-8ae5-412b-aa90-af67a884d0d5" width="150" />
   </a>
 </p>
 
 
-<BR>
+<br>
 
 
 ### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)!* 🌎🤍 
