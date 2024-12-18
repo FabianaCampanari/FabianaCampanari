@@ -285,7 +285,7 @@ For any questions, suggestions, or collaborations, feel free to reach out:
 
 <br><br>
 
-<p align="center"> <a href="#top">Back to Top</a>
+<p align="center"> <a href="#top">Back to Top 👆</a>
 
 
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
