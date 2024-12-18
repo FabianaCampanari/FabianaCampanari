@@ -261,7 +261,7 @@ Para quaisquer perguntas, sugestões ou colaborações, sinta-se à vontade para
 
 <br><br>
 
-<p align="center"> <a href="#top">Voltar ao Topo da Página</a>
+<p align="center"> <a href="#top">Voltar ao Topo da Página ☝️</a>
 
 
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
