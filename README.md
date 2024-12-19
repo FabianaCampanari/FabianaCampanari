@@ -273,7 +273,7 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
 <br>
 
-[👌](https://linktr.ee/fabianacampanari)
+👌  [Fabi](https://linktr.ee/fabianacampanari)
 
 
 
