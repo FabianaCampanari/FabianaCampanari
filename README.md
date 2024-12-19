@@ -271,16 +271,6 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
-<br><br>
-
-For any questions, suggestions, or collaborations, feel free to reach out:
-
-- Fabiana 🚀  Campanari [X](https://x.com/CampanariFabi)
-
-- Fabiana Campanari [Linkedin](linkedin.com/in/fabiana-campanari) 🚀 
-
-- Fabiana 🚀 Campanari [email me](mailto:fabicampanari@proton.me)
-
 
 
 <br><br>
