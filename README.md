@@ -278,9 +278,15 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
 <br><br><br>
 
-<p align="center">  ────────────── ✦ ──────────────
+<p align="center">  ────────────── 👆 ──────────────
 
-<p align="center"> <a href="#top">Back to Top 👆</a>
+
+<p align="center"> <a href="#top">Back to Top </a>
+
+<!--
+<p align="center">  ────────────── ✦ ──────────────
+-->
+
 
 
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
