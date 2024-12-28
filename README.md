@@ -249,7 +249,7 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
  <p align="center">
   <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0">
-    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="400" />
+    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
   </a>
 </p>
 
