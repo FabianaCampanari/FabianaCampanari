@@ -30,7 +30,11 @@
 
 #### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92) & joy />*** 🪬  </p>
 
-<br> 
+<br>
+
+#### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 
+
+<br>
 
 <!--Header -->
 
@@ -43,10 +47,7 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200"/>
 -->
 
-#### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 
 
-
-<br>
 
 <!-- Formuulas Latrex Code
 
