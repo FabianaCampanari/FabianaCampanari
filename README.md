@@ -90,7 +90,7 @@ After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymor
 
 #
 
-<br>
+<br><br>
 
 $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
@@ -99,7 +99,7 @@ $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} 
 
 <!--END HEADER -->
 
-<br>
+<br><br>
 
 ## [👽 About Me](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
 
