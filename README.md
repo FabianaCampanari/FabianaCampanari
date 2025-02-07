@@ -96,9 +96,6 @@ Relativity Formula
 After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymore, see new HTML format Bellow 👇
 -->
 
-#
-
-<br><br>
 
 
 <!--END HEADER -->
