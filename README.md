@@ -30,9 +30,12 @@
 
 #### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92) & joy />*** 🪬  </p>
 
-<br>
+<br><br>
 
-#### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 
+$${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+
+####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+
 
 <br>
 
@@ -41,6 +44,11 @@
 https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
 #### 🎶Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.
+
+<br>
+
+
+#### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 
 
 <!-- GIF
 <p align="center">
@@ -91,10 +99,6 @@ After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymor
 #
 
 <br><br>
-
-$${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
-
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
 
 <!--END HEADER -->
