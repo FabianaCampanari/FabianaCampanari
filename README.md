@@ -195,13 +195,6 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 #### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
-
-
-
-
------------------hhhhhh
-
-
 <br>
 
 ## 𓋹 [Achievements](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)
