@@ -133,6 +133,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 #### 🔗 Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
 
 
+
 #
 
 #### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
@@ -194,6 +195,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 <br>
 
 #### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
 
 <br>
 
@@ -271,7 +273,6 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
    - **[Mindful AI Assistants](https://github.com/sponsors/Mindful-AI-Assistants)**
 
    - **[Quantum Software Development](https://github.com/sponsors/Quantum-Software-Development)**
-  
 
 <br>
 
