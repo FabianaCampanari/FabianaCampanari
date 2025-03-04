@@ -128,9 +128,9 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-#### 🔗 Read the article - [When Quantum Physicists Met Freud and Jung.](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)
+#### ☞ Read the article - [When Quantum Physicists Met Freud and Jung.](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)
 
-#### 🔗 Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
+####  ☞ Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
 
 
 
@@ -212,29 +212,29 @@ Honored at the **2024 Ready Tensor AI Project Showcase** for the :bowtie: **SumB
 
 <br>
 
-☆ 🏆 **Champion of HackaPUC-SP 2024** – 1st Place  
+🏆 **Champion of HackaPUC-SP 2024** – 1st Place  
 
 Led my team to victory, overseeing repository management, automation, bot development, design, and presentation.  
 
-- 👉🏻 [Learn more about HackaPUC-SP](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  
-- 👉🏻 [Access the project repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+➢ [Learn more about HackaPUC-SP](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  
+➣ [Access the project repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
  <br> 
 
-☆ 🥈 **2nd Place for Top GitHub Users by Public Contributions in Brazil**  
+🥈 **2nd Place for Top GitHub Users by Public Contributions in Brazil**  
 
-- 👉🏻 [Check the ranking](https://committers.top/brazil_private)  
-- 👉🏻 [Explore the global rankings](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
+➢ [Check the ranking](https://committers.top/brazil_private)  
+➣ [Explore the global rankings](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
 
  <br>  
 
-☆ 🥈 **2nd Place on Committers.top Brazil**  
+ 🥈 **2nd Place on Committers.top Brazil**  
 
-- 👉🏻 [Explore the rankings](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+➤ [Explore the rankings](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
 
 <br>  
 
-☆ 🎉 **Featured in PR Newswire and Yahoo Finance**  
+ 🎉 **Featured in PR Newswire and Yahoo Finance**  
 
 Thrilled to be featured in both **PR Newswire** and **Yahoo Finance**, where my project **SumBot FreeCode** was recognized as the **Best Innovation in AI Tool** during the **ReadyTensor AI Project Showcase 2024**. 🚀  
 
