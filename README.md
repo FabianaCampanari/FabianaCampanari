@@ -203,7 +203,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-☆ 🏆 **Winner of the Best AI Tool Innovation Award** at Ready Tensor AI Project Showcase 2024  
+🏆 **Winner of the Best AI Tool Innovation Award** at Ready Tensor AI Project Showcase 2024  
 Honored at the **2024 Ready Tensor AI Project Showcase** for the :bowtie: **SumBot FreeCode Project**.  
 
 ➢➣➤ [Read the publication on Ready Tensor AI](https://app.readytensor.ai/)  
