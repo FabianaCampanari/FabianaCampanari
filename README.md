@@ -243,7 +243,7 @@ Thrilled to be featured in both **PR Newswire** and **Yahoo Finance**, where my 
 
 <br>
 
-🚀✨ **Participant in the 5th Artificial Intelligence Congress at PUC-SP**  
+🚀 **Participant in the 5th Artificial Intelligence Congress at PUC-SP**  
 
 Excited to have participated in the **5th Artificial Intelligence Congress at PUC-SP**, where I presented **SumBot FreeCode**.  
 **SumBot FreeCode** is an AI-powered chatbot integrated with Slack, developed using OpenAI’s GPT-3.5 Turbo API. It optimizes team communication and information sharing. By simply using an emoji, **SumBot** can summarize and respond to messages, boosting organization and productivity.  
