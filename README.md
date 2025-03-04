@@ -212,12 +212,12 @@ Honored at the **2024 Ready Tensor AI Project Showcase** for the :bowtie: **SumB
 
 <br>
 
-☆ 🏆 **Champion of HackaPUC-SP 2024** – 1st Place  
+🏆 **Champion of HackaPUC-SP 2024** – 1st Place  
 
 Led my team to victory, overseeing repository management, automation, bot development, design, and presentation.  
 
-- 👉🏻 [Learn more about HackaPUC-SP](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  
-- 👉🏻 [Access the project repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+➢ [Learn more about HackaPUC-SP](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  
+➣ [Access the project repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
  <br> 
 
