@@ -221,10 +221,10 @@ Led my team to victory, overseeing repository management, automation, bot develo
 
  <br> 
 
-☆ 🥈 **2nd Place for Top GitHub Users by Public Contributions in Brazil**  
+🥈 **2nd Place for Top GitHub Users by Public Contributions in Brazil**  
 
-- 👉🏻 [Check the ranking](https://committers.top/brazil_private)  
-- 👉🏻 [Explore the global rankings](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
+➢ [Check the ranking](https://committers.top/brazil_private)  
+➣ [Explore the global rankings](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
 
  <br>  
 
