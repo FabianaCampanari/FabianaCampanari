@@ -168,15 +168,12 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+<!--
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants) -->
 
 #
 
 <br>
-
-
-
-  
 
 <!--
  #### <p align="center"> [💭  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
@@ -189,9 +186,8 @@ For a fascinating exploration of the connections between quantum physics and psy
 
  <br>
 
----
-uuu
-iii
+
+#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 <br>
 
@@ -215,11 +211,6 @@ iii
 
 
 ### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)!* 🌎🤍 
-
-<br>
-
-#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
 
 <br>
 
