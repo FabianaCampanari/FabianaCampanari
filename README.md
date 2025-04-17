@@ -148,7 +148,9 @@ For a fascinating exploration of the connections between quantum physics and psy
  
  <br>
 
-#### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+------
+ooooo
+kkoo
 
 #
 
