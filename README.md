@@ -167,7 +167,7 @@ For a fascinating exploration of the connections between quantum physics and psy
  
  <br>
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)(https://github.com/sponsors/Mindful-AI-Assistants)
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 #
 
@@ -188,7 +188,9 @@ For a fascinating exploration of the connections between quantum physics and psy
 
  <br>
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+---
+uuu
+iii
 
 <br>
 
