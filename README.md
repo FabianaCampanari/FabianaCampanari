@@ -34,6 +34,8 @@
 
 $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
+#### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+
 
 <!--
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
