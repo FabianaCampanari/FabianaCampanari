@@ -150,16 +150,14 @@ For a fascinating exploration of the connections between quantum physics and psy
  
  <br>
 
-------
-ooooo
-kkoo
+ #### <p align="center"> [![Sponsor FabianaCampanari ](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
 
 #
 
 <br>
 
 
- #### <p align="center"> [![Sponsor FabianaCampanari ](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+
   
 
 <!--
