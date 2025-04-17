@@ -54,6 +54,11 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
 ### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
 
+<br>
+
+#### <p align="center"> [![Sponsor FabianaCampanari ](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+
+
 <!-- GIF
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200"/>
