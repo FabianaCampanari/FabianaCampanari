@@ -156,8 +156,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
-
+#### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
 
 <br>
 
