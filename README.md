@@ -152,12 +152,11 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 #### ➣ Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
 
-
-
 #
 
-#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+<br>
 
+### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
 
 <br>
 
@@ -174,6 +173,9 @@ For a fascinating exploration of the connections between quantum physics and psy
 #
 
 <br>
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
 
 <!--
  #### <p align="center"> [💭  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
