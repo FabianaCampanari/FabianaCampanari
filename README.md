@@ -38,8 +38,17 @@ $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} 
 
 $$\huge \huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
+<br>
 
+<!---
 #### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+--->
+
+<p align="center">
+  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" alt="committers.top badge" style="height: 20px; width: 220px;">
+  </a>
+</p>
 
 
 <!--
