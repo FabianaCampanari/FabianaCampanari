@@ -28,9 +28,25 @@
 
 <h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
+
+
+
+#### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92) & joy />*** 🪬  </p>
+
+<br><br>
+
+<!---
+$${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+--->
+
+$$\huge \huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+
+<br>
+
+<!-- 
 Relativity Formula  
  
-<!-- #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  --> 
+#### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  --> 
 
 <!-- #### Entanglement:
 
@@ -53,18 +69,6 @@ Relativity Formula
  #### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
  
 -->
-
-#### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92) & joy />*** 🪬  </p>
-
-<br><br>
-
-<!---
-$${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
---->
-
-$$\huge \huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
-
-<br>
 
 <!---
 #### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
