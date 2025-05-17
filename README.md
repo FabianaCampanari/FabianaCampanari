@@ -28,6 +28,32 @@
 
 <h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
+Relativity Formula  
+ 
+<!-- #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  --> 
+
+<!-- #### Entanglement:
+
+<!-- ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
+
+<!-- ### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
+
+<!-- #### <p align="center">  Qubit Superposition 
+
+<!-- ## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$  
+
+### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+
+### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$ 
+
+### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
+### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
+ #### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+ 
+-->
+
 #### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92) & joy />*** 🪬  </p>
 
 <br><br>
@@ -93,31 +119,7 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
 <!-- Formuulas Latrex Code
 
-Relativity Formula  
- 
-<!-- #### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  --> 
 
-<!-- #### Entanglement:
-
-<!-- ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
-
-<!-- ### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
-
-<!-- #### <p align="center">  Qubit Superposition 
-
-<!-- ## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$  
-
-### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
-
-### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$ 
-
-### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
-
-### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
-
- #### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
- 
--->
 
 
 <!-- USAR ESSA FORMULA
