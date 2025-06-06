@@ -39,7 +39,12 @@
 $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 --->
 
+
 $$\huge \huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+
+<!--
+$$\huge \huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+-->
 
 <br>
 
