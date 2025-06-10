@@ -32,9 +32,7 @@
 -->
 
 
-# <p align="center"> Code, soul & science · Data Scientist · Humanistic AI · Designer of Meaning 🪷
 
-#### ***<p align="center"> Vibing with joy, resonating in [frequency](), seeking the unknown />*** 🪬  </p>
 
 
 # <p align="center"> Code, [Soul]() & Science · Data Scientist · [Humanistic AI]() · Designer of [Meaning]()  🪷
