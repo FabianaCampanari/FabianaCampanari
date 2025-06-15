@@ -105,7 +105,7 @@ Relativity Formula
 
 https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
-###### 🎶Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.
+###### 🎶 Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.
 
 <br><br>
 
@@ -186,7 +186,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 #### ➣ Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
 
-#### ➣ 🪷 The Human Phenomenon -  [Pierre Teilhard De Chardin]()
+#### ➣ 🪷 The Human Phenomenon -  [Pierre Teilhard De Chardin](https://github.com/FabianaCampanari/FabianaCampanari/blob/759a47e0e718073ef12d866ae9471681a03ef6cf/%F0%9F%AA%B7%20Pierre%20Teilhard%20De%20Chardin%20-%20The%20Human%20Phenomenon.pdf)
 
 
 #
