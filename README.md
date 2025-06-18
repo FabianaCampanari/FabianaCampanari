@@ -35,7 +35,7 @@
 
 
 
-## <p align="center">  📿 Code, [Soul]() & Science · Data Scientist · [Humanistic AI]() · Designer of [Meaning]() 
+## <p align="center">   Code, [Soul]() & Science · Data Scientist · [Humanistic AI]() · Designer of [Meaning]()  𝚿 𝜳
 
 #### <p align="center">  ***<Vibing with joy, resonating in [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92), seeking the unknown. />*** 🪬  </p>
 
