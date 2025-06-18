@@ -331,7 +331,7 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 <br>
 
 
-## 💌 [Contact Me](mailto:fabicampanari@proton.me)
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
 <br><br>
 
