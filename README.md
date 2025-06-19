@@ -184,7 +184,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 #### ➢ 🇶 - Read the article - [When Quantum Physicists Met Freud and Jung.](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857) - 
 
-#### ➣ 𝛹 -   Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf) - 𝚿
+#### ➣ 𝛹 -   Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf) 
 
 #### ➣ 𝛺 -  The Human Phenomenon -  [Pierre Teilhard De Chardin](https://github.com/FabianaCampanari/FabianaCampanari/blob/759a47e0e718073ef12d866ae9471681a03ef6cf/%F0%9F%AA%B7%20Pierre%20Teilhard%20De%20Chardin%20-%20The%20Human%20Phenomenon.pdf)  
 
