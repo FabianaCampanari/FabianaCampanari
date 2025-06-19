@@ -35,7 +35,7 @@
 
 
 
-## <p align="center">   Code, [Soul]() & Science · Data Scientist · [Humanistic AI]() · Designer of [Meaning]()  𝚿 𝛹
+## <p align="center">   Code, [Soul]() & Science · Data Scientist · [Humanistic AI]() · Designer of [Meaning]()  𝚿 
 
 #### <p align="center">  ***<Vibing with joy, resonating in [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92), seeking the unknown. />*** 🪬  </p>
 
@@ -182,11 +182,11 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-#### ➢ 🇶 Read the article - [When Quantum Physicists Met Freud and Jung.](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857) - 
+#### ➢ 🇶 - Read the article - [When Quantum Physicists Met Freud and Jung.](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857) - 
 
-#### ➣ Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf) - 𝚿
+#### ➣ 𝛹 -   Read the article - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf) - 𝚿
 
-#### ➣  The Human Phenomenon -  [Pierre Teilhard De Chardin](https://github.com/FabianaCampanari/FabianaCampanari/blob/759a47e0e718073ef12d866ae9471681a03ef6cf/%F0%9F%AA%B7%20Pierre%20Teilhard%20De%20Chardin%20-%20The%20Human%20Phenomenon.pdf) -  𝛺
+#### ➣ 𝛺 -  The Human Phenomenon -  [Pierre Teilhard De Chardin](https://github.com/FabianaCampanari/FabianaCampanari/blob/759a47e0e718073ef12d866ae9471681a03ef6cf/%F0%9F%AA%B7%20Pierre%20Teilhard%20De%20Chardin%20-%20The%20Human%20Phenomenon.pdf)  
 
 
 #
