@@ -292,14 +292,14 @@ Led my team to victory, overseeing repository management, automation, bot develo
 
  🎉 **Featured in PR Newswire and Yahoo Finance**  
 
-Thrilled to be featured in both **PR Newswire** and **Yahoo Finance**, where my project **SumBot FreeCode** was recognized as the **Best Innovation in AI Tool** during the **ReadyTensor AI Project Showcase 2024**. 🚀  
+Thrilled to be featured in both **PR Newswire** and **Yahoo Finance**, where my project **SumBot FreeCode** was recognized as the **Best Innovation in AI Tool** during the **ReadyTensor AI Project Showcase 2024**. 🛰️  
 
 ➣[Read the full article on PR Newswire](https://www.prnewswire.com/news-releases/nlp-innovations-take-center-stage-join-the-data-science-showcase-elevating-ai-research-302275947.html)  
 ➢ [Read the full article on Yahoo Finance](https://finance.yahoo.com/news/nlp-innovations-center-stage-join-125600542.html?guccounter=1&guce_referrer=aHR0cHM6Ly9sbmtkLmluLw&guce_referrer_sig=AQAAAAP5D5HE2u3Kt9MBLTaTMJONg0asNODNrrC0U0oZn2Ne50aRilDqF7szvGJyoqs-JdGEUXMPgBXERn5aVFcGvbMHPwion0EyZS6rMgcSsQdZLFZYezdZ7pYfvJ_flJef-MUjROWWA7nJYGBNkIIE2zHCjqZhlNv9E2gUUIMlDobm)
 
 <br>
 
-🚀 **Participant in the 5th Artificial Intelligence Congress at PUC-SP**  
+🛸 **Participant in the 5th Artificial Intelligence Congress at PUC-SP**  
 
 Excited to have participated in the **5th Artificial Intelligence Congress at PUC-SP**, where I presented **SumBot FreeCode**.  
 **SumBot FreeCode** is an AI-powered chatbot integrated with Slack, developed using OpenAI’s GPT-3.5 Turbo API. It optimizes team communication and information sharing. By simply using an emoji, **SumBot** can summarize and respond to messages, boosting organization and productivity.  
@@ -315,7 +315,7 @@ My design for **Tidsy Fashion Brand** was featured as the **'It Dress'** in **Vo
 The brand's unique prints have garnered the attention of Brazilian celebrities, showcased by [Ingrid Guimarães in *Quem* Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) and [Giovanna Antonelli in *Contigo* Brazilian Magazine](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png). Tidsy continues to redefine trends in the Brazilian fashion scene.
 
 - Explore all my fashion creations and detailed designs in my [GitHub repository](https://github.com/FabianaCampanari/Fashion-and-Design).
-- **Vogue "It Dress"** - [1.80 x 0.90 cm - Blue Dragonn fabric print design](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) by **Fabiana 🚀 Campanari**.  
+- **Vogue "It Dress"** - [1.80 x 0.90 cm - Blue Dragonn fabric print design](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) by **Fabiana ⚡️ Campanari**.  
 - **Tidsy [Facebook Page](https://www.facebook.com/tidsyleblon/)**
 
    
