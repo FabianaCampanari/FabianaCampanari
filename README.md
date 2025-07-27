@@ -156,7 +156,7 @@ After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymor
 
 <br><br>
 
-## [👽 About Me](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
+## [🔥 About Me](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
 
 As a multifaceted professional, I am currently pursuing my fourth degree in Data Science and Artificial Intelligence at the Pontifical Catholic University of São Paulo (PUC-SP). My educational background includes degrees in Psychology (PUC-SP), Systems Analysis and Software Development (Impacta Tech University), and Design (University of California, San Diego).
 
@@ -164,7 +164,7 @@ As a multifaceted professional, I am currently pursuing my fourth degree in Data
 I am passionate about AI, particularly in developing human-centric solutions. By leveraging insights from psychology, I strive to create user-friendly and unbiased AI systems. My interest in Quantum Computing enables me to build robust predictive models.
 
 
-## [🧘🏼‍♀️ Work Focus](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
+## [⚡️ Work Focus](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
  
 With a blend of skills in Design, Front-End Development, AI Data Science, and Quantum Computing as a passionate hobbyist, combined with a degree in Psychology, I am dedicated to creating innovative digital solutions. My deep commitment to open source fuels my enthusiasm for collaborating on projects that align with this multidisciplinary approach.
 
@@ -176,7 +176,7 @@ My goal is to excel in Software Development, Design, and AI Data Science, while 
 
 
 
-## 🧠  [ Brain Fuel](https://github.com/user-attachments/assets/30e23d3e-5f75-45d0-8567-f5c8c8f243f9)
+## 💥  [ Brain Fuel](https://github.com/user-attachments/assets/30e23d3e-5f75-45d0-8567-f5c8c8f243f9)
 
 For a fascinating exploration of the connections between quantum physics and psychology, I highly recommend two articles: **"When Quantum Physicists Met Freud and Jung"** and "**Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century**". These articles offer a unique synthesis of these seemingly distinct disciplines and are a must-read for anyone interested in the intersections of science, art, and the human mind.
 
