@@ -259,7 +259,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 <br>
 
-🏆 **Winner of the Best AI Tool Innovation Award** at Ready Tensor AI Project Showcase 2024  
+✨ **Winner of the Best AI Tool Innovation Award** at Ready Tensor AI Project Showcase 2024  
 Honored at the **2024 Ready Tensor AI Project Showcase** for the :bowtie: **SumBot FreeCode Project**.  
 
 ➢ [Read the publication on Ready Tensor AI](https://app.readytensor.ai/)  
@@ -268,7 +268,7 @@ Honored at the **2024 Ready Tensor AI Project Showcase** for the :bowtie: **SumB
 
 <br>
 
-🏆 **Champion of HackaPUC-SP 2024** – 1st Place  
+✨ **Champion of HackaPUC-SP 2024** – 1st Place  
 
 Led my team to victory, overseeing repository management, automation, bot development, design, and presentation.  
 
@@ -290,7 +290,7 @@ Led my team to victory, overseeing repository management, automation, bot develo
 
 <br>  
 
- 🎉 **Featured in PR Newswire and Yahoo Finance**  
+ ⚡️ **Featured in PR Newswire and Yahoo Finance**  
 
 Thrilled to be featured in both **PR Newswire** and **Yahoo Finance**, where my project **SumBot FreeCode** was recognized as the **Best Innovation in AI Tool** during the **ReadyTensor AI Project Showcase 2024**. 🛰️  
 
