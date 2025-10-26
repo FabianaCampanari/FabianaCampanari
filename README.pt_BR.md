@@ -244,7 +244,9 @@ Esses textos oferecem uma síntese única entre disciplinas aparentemente distin
 
 ### *<p align="center"> Um Povo. Um Mundo. Um Espírito... [Somos Todos Um](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)!* 🌎🤍
 
-<br>
+
+<br><br>
+
 
 ## 𓋹 [Conquistas](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)
 
@@ -313,7 +315,7 @@ A Tidsy continua redefinindo tendências na cena da moda brasileira.
    <br><br>
    
 
-   <br><br>
+
    
 
 ## 💖 My GitHub Sponsors Accounts
