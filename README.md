@@ -191,7 +191,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 ####  𝛺 -  The Phenomenon of a Man -  [Pierre Teilhard De Chardin](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/7ce9967370f5a557de31d38bad2c1e6c9f821a03/%F0%9F%87%BA%F0%9F%87%B8Phenomenon%20of%20Man%20-%20Pierre%20T%20Chardin%F0%9F%AA%B7.pdf)
 
-####  ⚚ - El Kybalion - The 7 Hermetics Laws - [**Author:** Unknown (attributed to *The Three Initiates*, a pseudonym) - Wisdom Source: Thoth](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/02b40a5f652836fec1e3ec2a5ad9a468ea14b16f/%F0%9F%87%BA%F0%9F%87%B8El%20KyBalion-7%20HERMETICS%20LAWS%20%20%E2%9A%9A%20.pdf)
+####  ✠ - El Kybalion - The 7 Hermetics Laws - [**Author:** Unknown (attributed to *The Three Initiates*, a pseudonym) - Wisdom Source: Thoth](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/02b40a5f652836fec1e3ec2a5ad9a468ea14b16f/%F0%9F%87%BA%F0%9F%87%B8El%20KyBalion-7%20HERMETICS%20LAWS%20%20%E2%9A%9A%20.pdf)
 
 
 #
