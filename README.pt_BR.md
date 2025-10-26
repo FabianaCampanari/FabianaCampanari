@@ -1,7 +1,6 @@
 \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
 
 <br>
-
 <!--
 [Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
 -->
@@ -13,82 +12,150 @@
 ###  ☆•.,¸,.•.🎶*F̘͍͖ͫ͘r̴̨̦͕̝ẹ̿͋̒̕ẹ̿͋̒̕ḑ̴̞͛̒o̯̱̊͊͢ṇ̤͛̒̍ o̯̱̊͊͢f̵͖̜̉ͅ S̵̙͕̀̃p̞̈͑̚͞ẹ̿͋̒̕ẹ̿͋̒̕c͕͗ͤ̕̕ḣ̖̻͛̓+*🎶 *¯`•.,¸,.•*     
 
 -->
-<!-- OLD MARKDOWN ACCEPTED FOR LATEX CODE UNTIL JUL/20024
-
-# $$\Huge{\textbf{\color{blue}Eu Faço} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}IA}  \space \textbf{e} \space \textbf{\color{LightSkyBlue}Código}}$$. -->
 
 <!-- Header GIF -->
 
+<!--
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200"/>
+--> 
+
+<!--START HEADER - IMPORTANT NOTE FROM 07/24 --> 
+
+<!-- Header GIF -->
+
+<br>
+
+
+<!--
 <h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
+-->
 
-#### <p align="center">  ***< with vibe, [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92) & joy />*** 🪬  </p>
 
-<br>
 
-#### <p align="center"> 𓂀 *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 
 
-<br>
+
+## <p align="center">   Code, [Soul]() & Science · Data Scientist · [Humanistic AI]() · Designer of [Meaning]()  𝚿 
+
+#### <p align="center">  ***<Vibing with [joy](), resonating in [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92), seeking the [unknown]() />*** 🪷  </p>
+
+
+
+
+<br><br>
+
+<!---
+$${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+
+
+<!---
+$$\huge \huge  {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+--->
+
+$$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+
+
+<br><br>
+
+<!-- 
+Relativity Formula  
+ 
+#### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  --> 
+
+<!-- #### Entanglement:
+
+<!-- ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
+
+<!-- ### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
+
+<!-- #### <p align="center">  Qubit Superposition 
+
+<!-- ## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$  
+
+### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+
+### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$ 
+
+### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
+### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
+ #### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+ 
+-->
+
+<!---
+#### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+--->
+
+<p align="center">
+  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" alt="committers.top badge" style="height: 20px; width: 220px;">
+  </a>
+</p>
+
+
+<!--
+####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+-->
+
+<br><br>
 
 <!--Header -->
 
 https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
-#### 🎶 Faixa original de John Williams - Capa épica orquestral/híbrida do tema 'Superman'.
+##### 🎶 ***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.*** 🖤
+
+
+<br><br><br><br>
+
+
+### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
+
+<br>
+
+
+#### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%20FabianaCampanari%20%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+
+
+<!--
+
+#### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-%E2%80%94%E2%80%94%E2%80%94%20FabianaCampanari%20%E2%80%94%E2%80%94%E2%80%94-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+
+
+#### <p align="center"> [![Sponsor FabianaCampanari ](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+
+#### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor%20%E2%80%94%20%20%20FabianaCampanari%20%20%20%E2%80%94-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+
+-->
+
 
 <!-- GIF
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200"/>
 -->
 
-<br>
 
 
-<!-- Formulas Código Latex:-->
-
-<!-- Fórmula da Relatividade.
-$${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  -->
+<!-- Formuulas Latrex Code
 
 
-<!-- #### Emaranhamento:
-### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
-
-### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$  -->
 
 
-<!-- #### <p align="center">  Superposição de Qubit
-## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$  -->
-
-
-<!-- 
- #### <p align="center"> Limit _Calculus I - Formula Colors
-
-$${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
-
-$${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
-
-$${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
-
+<!-- USAR ESSA FORMULA
  $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
-
  -->
 
+<!-- OLD MARKDOWN ACCEPTED FOR LATEX CODE UNTIL JUL/20024 --
+# $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 
-<!-- Após 07/24, o código Latex é formatado usando tags HTML e não mais usando Markdown, veja o novo formato HTML abaixo 👇  --
-
-### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
- -->
-
-#
-
-<br>
-
-$${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
-
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
-
-<!--
-[Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
+After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymore, see new HTML format Bellow 👇
 -->
+
+
+
+<!--END HEADER -->
 
 
 <br>
