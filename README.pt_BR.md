@@ -93,100 +93,148 @@ $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} 
 
 <br>
 
-## [👽 About Me](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
+## [🔥 Sobre Mim](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
 
-Como um profissional multifacetado, atualmente estou cursando meu quarto diploma em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP). Minha formação educacional inclui diplomas em Psicologia (PUC-SP), Análise de Sistemas e Desenvolvimento de Software (Universidade Impacta Tech) e Design (Universidade da Califórnia, San Diego).
+Como uma profissional multifacetada, atualmente estou cursando minha quarta graduação em **Ciência de Dados e Inteligência Artificial** na **Pontifícia Universidade Católica de São Paulo (PUC-SP)**. Minha formação inclui graduações em **Psicologia (PUC-SP)**, **Análise e Desenvolvimento de Sistemas (Impacta Tech University)** e **Design (University of California, San Diego)**.
 
-Sou apaixonado por IA, especialmente no desenvolvimento de soluções centradas no ser humano. Aproveitando insights da psicologia, busco criar sistemas de IA amigáveis e imparciais. Meu interesse em Computação Quântica me permite construir modelos preditivos robustos.
+Sou apaixonada por **IA**, especialmente no desenvolvimento de soluções centradas no ser humano. Com base em insights da psicologia, busco criar sistemas de IA acessíveis e imparciais. Meu interesse em **Computação Quântica** me permite construir modelos preditivos robustos.
 
+## [⚡️ Foco de Trabalho](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
 
+Com uma combinação de habilidades em **Design**, **Desenvolvimento Front-End**, **Ciência de Dados em IA** e **Computação Quântica** (como hobby apaixonado), somadas à minha formação em **Psicologia**, dedico-me a criar soluções digitais inovadoras. Meu profundo compromisso com o **open source** alimenta meu entusiasmo em colaborar em projetos que se alinham a essa abordagem multidisciplinar.
 
-## [🧘🏼‍♀️ Work Focus](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9)
- 
-Com uma combinação de habilidades em Design, Desenvolvimento Front-End, Ciência de Dados em IA e Computação Quântica como um entusiasta apaixonado, juntamente com um diploma em Psicologia, estou dedicado a criar soluções digitais inovadoras. Meu profundo compromisso com o código aberto alimenta meu entusiasmo por colaborar em projetos que se alinham com essa abordagem multidisciplinar.
+## 🔭๋  [O Que Busco](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
 
+Meu objetivo é destacar-me em **Desenvolvimento de Software**, **Design** e **Ciência de Dados em IA**, contribuindo para os avanços em **IA** e **Computação Quântica**. Por meio da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia, aspiro impulsionar a inovação nessas áreas e além.
 
-## 🔭๋࣭  [What I'm After](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/81b6a799-0229-4417-8e55-ddd8032e98ed)
+## 💥  [Combustível Mental](https://github.com/user-attachments/assets/30e23d3e-5f75-45d0-8567-f5c8c8f243f9)
 
-Meu objetivo é me destacar em Desenvolvimento de Software, Design e Ciência de Dados em IA, enquanto contribuo para os avanços em IA e Computação Quântica. Através da educação contínua, trabalho árduo e colaboração com outros entusiastas da tecnologia, aspiro a impulsionar a inovação nesses campos e além.
-
-
-## ˗ˏˋ🧠ˎˊ˗  [ Brain Fuel](https://github.com/user-attachments/assets/30e23d3e-5f75-45d0-8567-f5c8c8f243f9)
-
-Para uma exploração fascinante das conexões entre a física quântica e a psicologia, recomendo fortemente dois artigos: **"Quando Físicos Quânticos Conheceram Freud e Jung"** e **"Carl Gustav Jung, Física Quântica e a Mente Espiritual: Uma Visão Mística do Século XXI"**. Esses artigos oferecem uma síntese única dessas disciplinas aparentemente distintas e são leitura obrigatória para qualquer pessoa interessada nas interseções entre ciência, arte e a mente humana.
+Para uma exploração fascinante das conexões entre **física quântica e psicologia**, recomendo dois artigos: **"When Quantum Physicists Met Freud and Jung"** e **"Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century"**.  
+Esses textos oferecem uma síntese única entre disciplinas aparentemente distintas — leitura essencial para quem se interessa pelas interseções entre ciência, arte e mente humana.
 
 <br>
 
-#### 🔗 Leia o artigo - [Quando Físicos Quânticos Encontraram Freud e Jung.](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)
+#### 🇶 - Leia o artigo - [When Quantum Physicists Met Freud and Jung.](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)  
+#### 𝛹 - Leia o artigo - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)  
+#### 𝛺 - O Fenômeno do Homem - [Pierre Teilhard De Chardin](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/7ce9967370f5a557de31d38bad2c1e6c9f821a03/%F0%9F%87%BA%F0%9F%87%B8Phenomenon%20of%20Man%20-%20Pierre%20T%20Chardin%F0%9F%AA%B7.pdf)  
+#### ⚚ - O Caibalion - As 7 Leis Herméticas - [**Autor:** Desconhecido (*The Three Initiates*, pseudônimo) - Fonte de Sabedoria: Thoth](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/02b40a5f652836fec1e3ec2a5ad9a468ea14b16f/%F0%9F%87%BA%F0%9F%87%B8El%20KyBalion-7%20HERMETICS%20LAWS%20%20%E2%9A%9A%20.pdf)
 
-#### 🔗 Leia o artigo - [Carl Gustav Jung, Física Quântica e a Mente Espiritual: Uma Visão Mística do Século Vinte e Um.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)
-<br>
-
-## 𓋹 [Conquistas]()
-
-<br>
-
-☆ 🏆 **Vencedora do Prêmio de Melhor Inovação em Ferramenta de IA** na Exposição de Projetos Ready Tensor AI 2024  
-Homenageado na **Exposição de Projetos Ready Tensor AI 2024** pelo :bowtie: **Projeto FreeCode do SumBot****.  
-
-- 👉🏻 [Leia a publicão na Ready Tensor AI](https://app.readytensor.ai/)  
-- 👉🏻 [Explore the project n0 GitHub](https://github.com/Mindful-AI-Assistants/SumBot)  
-- 👉🏻 [Assista demo videos no YouTube](https://www.youtube.com/@fabianacampanari4786)
+#
 
 <br>
 
-☆ 🏆 **Campeãa do HackaPUC-SP 2024** – 1st Lugar  
-
-"Conduzi minha equipe à vitória, supervisionando a gestão de repositórios, automação, desenvolvimento de bots, design e apresentação."  
-
-- 👉🏻 [Se informe mais sobre o HackaPUC-SP](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  
-- 👉🏻 [Accesse o projeto no repositorio](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
-
- <br> 
-
-☆ 🥈 *"*2º Lugar em Usuários Top do GitHub por Contribuições Públicas no Brasil*"**  
-
-- 👉🏻 [Check o ranking](https://committers.top/brazil_private)  
-- 👉🏻 [Explore o global rankings](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
-
- <br>  
-
-☆ 🥈 **"2º Lugar no Committers.top Brasil"**  
-
-- 👉🏻 [Explore o rankings](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
-
-<br>  
-
-☆ 🎉 **Destaque na PR Newswire e no Yahoo Finance.**  
-
-Muito empolgado por ser destacado tanto na **PR Newswire** quanto no **Yahoo Finance**, onde meu projeto **SumBot FreeCode** foi reconhecido como a **Melhor Inovação em Ferramenta de IA** durante a **Mostra de Projetos de IA ReadyTensor 2024**. 🚀  
-
-- 👉🏻 [Leia o artigo completo no PR Newswire](https://www.prnewswire.com/news-releases/nlp-innovations-take-center-stage-join-the-data-science-showcase-elevating-ai-research-302275947.html)  
-- 👉🏻 [Leia o artigo completo no Yahoo Finance](https://finance.yahoo.com/news/nlp-innovations-center-stage-join-125600542.html?guccounter=1&guce_referrer=aHR0cHM6Ly9sbmtkLmluLw&guce_referrer_sig=AQAAAAP5D5HE2u3Kt9MBLTaTMJONg0asNODNrrC0U0oZn2Ne50aRilDqF7szvGJyoqs-JdGEUXMPgBXERn5aVFcGvbMHPwion0EyZS6rMgcSsQdZLFZYezdZ7pYfvJ_flJef-MUjROWWA7nJYGBNkIIE2zHCjqZhlNv9E2gUUIMlDobm)
+### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
 
 <br>
 
-☆ 🚀✨ **Participante do 5º Congresso de Inteligência Artificial na PUC-SP / 2024**  
+<p align="center">
+<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/> <br>
 
-Agradecida por ter participado do **5º Congresso de Inteligência Artificial da PUC-SP**, onde apresentei o **SumBot FreeCode**.  
-O **SumBot FreeCode** é um chatbot com inteligência artificial integrado ao Slack, desenvolvido utilizando a API GPT-3.5 Turbo da OpenAI. Ele otimiza a comunicação da equipe e o compartilhamento de informações. Ao usar simplesmente um emoji, o **SumBot** pode resumir e responder a mensagens, aumentando a organização e a produtividade.
+<br>
 
-- 👉🏻 [Assista à apresentação no YouTube (começa em 3h 26m).](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s)
- 
-  <br>
+#### <p align="center"> [![Patrocine Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-☆ 👗 **[Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg):**  
+#
 
-Meu design para a **Tidsy Fashion Brand** foi destaque como o **'Vestido do Momento'** na **Vogue Brasil**, incorporando exclusividade e estilo sofisticado. Esta peça faz parte das coleções icônicas e de edição limitada da Tidsy, disponíveis exclusivamente no **Shopping Leblon** e no **Shopping Fashion Mall** no Rio de Janeiro.
+<br>
 
-As estampas exclusivas da marca chamaram a atenção de celebridades brasileiras, como mostrado por [Ingrid Guimarães na revista *Quem*](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) e [Giovanna Antonelli na revista *Contigo*](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png). A Tidsy continua a redefinir tendências no cenário da moda brasileira.
+#### <p align="center"> 🛸๋ Meu [Hub de Contatos](https://linktr.ee/fabianacampanari)
 
-Aqui está a tradução para o português:
+<br>
 
-- Explore todas as minhas criações de moda e designs detalhados no meu [repositório do GitHub](https://github.com/FabianaCampanari/Fashion-and-Design).
-- **Vogue "It Dress"** - [1,80 x 0,90 cm - Design impresso em tecido Blue Dragonn](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) por **Fabiana 🚀 Campanari**.  
-- **Tidsy [Página do Facebook](https://www.facebook.com/tidsyleblon/)**
-       
+<p align="center">
+<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/><br>
+
+<br>
+
+#### <p align="center"> [![Patrocine Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+<br>
+
+#
+
+<br>
+
+#### <p align="center"> [𖤐](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) Citação Favorita
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0">
+    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
+  </a>
+</p>
+
+<br>
+
+### *<p align="center"> Um Povo. Um Mundo. Um Espírito... [Somos Todos Um](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)!* 🌎🤍
+
+<br>
+
+## 𓋹 [Conquistas](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)
+
+<br>
+
+✨ **Vencedora do Prêmio de Melhor Inovação em Ferramenta de IA** no **Ready Tensor AI Project Showcase 2024**  
+Reconhecida no **Ready Tensor AI Project Showcase 2024** pelo projeto **SumBot FreeCode**.  
+
+➢ [Leia a publicação no Ready Tensor AI](https://app.readytensor.ai/)  
+➣ [Explore o projeto no GitHub](https://github.com/Mindful-AI-Assistants/SumBot)  
+➤ [Assista aos vídeos de demonstração no YouTube](https://www.youtube.com/@fabianacampanari4786)
+
+<br>
+
+✨ **Campeã do HackaPUC-SP 2024** – 1º Lugar  
+
+Liderei minha equipe até a vitória, supervisionando o gerenciamento do repositório, automação, desenvolvimento de bots, design e apresentação.  
+
+➢ [Saiba mais sobre o HackaPUC-SP](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  
+➣ [Acesse o repositório do projeto](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+
+<br>
+
+🥈 **2º Lugar entre os Principais Usuários do GitHub por Contribuições Públicas no Brasil**  
+
+➢ [Confira o ranking](https://committers.top/brazil_private)  
+➣ [Explore os rankings globais](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
+
+<br>
+
+🥈 **2º Lugar no Committers.top Brasil**  
+
+➤ [Explore o ranking](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+
+<br>
+
+⚡️ **Destaque no PR Newswire e Yahoo Finance**  
+
+Fiquei honrada por ter sido destacada no **PR Newswire** e **Yahoo Finance**, onde meu projeto **SumBot FreeCode** foi reconhecido como a **Melhor Inovação em Ferramenta de IA** durante o **ReadyTensor AI Project Showcase 2024**. 🛰️  
+
+➣ [Leia o artigo completo no PR Newswire](https://www.prnewswire.com/news-releases/nlp-innovations-take-center-stage-join-the-data-science-showcase-elevating-ai-research-302275947.html)  
+➢ [Leia o artigo completo no Yahoo Finance](https://finance.yahoo.com/news/nlp-innovations-center-stage-join-125600542.html)
+
+<br>
+
+🛸 **Participante do 5º Congresso de Inteligência Artificial da PUC-SP**  
+
+Participei com entusiasmo do **5º Congresso de Inteligência Artificial da PUC-SP**, onde apresentei o **SumBot FreeCode**.  
+O **SumBot FreeCode** é um chatbot baseado em IA integrado ao **Slack**, desenvolvido com a API **GPT-3.5 Turbo da OpenAI**. Ele otimiza a comunicação e o compartilhamento de informações em equipe. Com o uso de um simples emoji, o **SumBot** pode resumir e responder mensagens, aumentando a organização e a produtividade.  
+
+➣ [Assista à apresentação no YouTube (inicia em 3h26m)](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s)
+
+<br>
+
+👗 **[Vogue - *“It Dress”*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg):**  
+
+Meu design para a **marca Tidsy Fashion** foi destaque como o **“It Dress”** na **Vogue Brasil**, representando exclusividade e estilo sofisticado. A peça faz parte das coleções icônicas e de edição limitada da **Tidsy**, disponíveis exclusivamente no **Shopping Leblon** e **Shopping Fashion Mall**, no Rio de Janeiro.
+
+As estampas exclusivas da marca chamaram a atenção de celebridades brasileiras, sendo apresentadas por [Ingrid Guimarães na Revista *Quem*](https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg) e [Giovanna Antonelli na Revista *Contigo*](https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png).  
+A Tidsy continua redefinindo tendências na cena da moda brasileira.
+
+- Explore todas as minhas criações e designs no meu [repositório no GitHub](https://github.com/FabianaCampanari/Fashion-and-Design).  
+- **Vogue "It Dress"** – [1,80 x 0,90 cm - estampa Blue Dragonn](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) por **Fabiana ⚡️ Campanari**.  
+- **Tidsy [Página no Facebook](https://www.facebook.com/tidsyleblon/)**
+
    <br><br>
    
 
