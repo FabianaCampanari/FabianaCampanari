@@ -107,10 +107,13 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
 ##### 🎶 ***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.*** 🖤
 
-<br><br>
+
+<br><br><br><br>
 
 
-#### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
+### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
+
+<br>
 
 
 #### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%20FabianaCampanari%20%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
@@ -154,7 +157,7 @@ After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymor
 
 <!--END HEADER -->
 
-<br><br>
+<br><br><br>
 
 ## [🔥 About Me](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
 
