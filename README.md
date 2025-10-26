@@ -256,7 +256,9 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 ### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)!* 🌎🤍 
 
-<br>
+
+<br><br>
+
 
 ## 𓋹 [Achievements](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)
 
