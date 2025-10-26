@@ -182,9 +182,20 @@ Esses textos oferecem uma síntese única entre disciplinas aparentemente distin
 <br>
 
 #### 🇶 - Leia o artigo - [When Quantum Physicists Met Freud and Jung.](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)  
+
+<br>
+
 #### 𝛹 - Leia o artigo - [Carl Gustav Jung, Quantum Physics and the Spiritual Mind: A Mystical Vision of the Twenty-First Century.](https://github.com/FabianaCampanari/FabianaCampanari/blob/ad8cfdac536cc47137e895df4675cf0ffdb4bdf0/JUNG_QUANTUM%20PHYSICS.pdf)  
+
+<br>
+
 #### 𝛺 - O Fenômeno do Homem - [Pierre Teilhard De Chardin](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/7ce9967370f5a557de31d38bad2c1e6c9f821a03/%F0%9F%87%BA%F0%9F%87%B8Phenomenon%20of%20Man%20-%20Pierre%20T%20Chardin%F0%9F%AA%B7.pdf)  
-#### ⚚ - O Caibalion - As 7 Leis Herméticas - [**Autor:** Desconhecido (*The Three Initiates*, pseudônimo) - Fonte de Sabedoria: Thoth](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/02b40a5f652836fec1e3ec2a5ad9a468ea14b16f/%F0%9F%87%BA%F0%9F%87%B8El%20KyBalion-7%20HERMETICS%20LAWS%20%20%E2%9A%9A%20.pdf)
+
+<br>
+
+#### ✠ - O Caibalion - As 7 Leis Herméticas - [**Autor:** Desconhecido (*The Three Initiates*, pseudônimo) - Fonte de Sabedoria: Thoth](https://github.com/FabianaCampanari/THQTH-Awakening-Game/blob/02b40a5f652836fec1e3ec2a5ad9a468ea14b16f/%F0%9F%87%BA%F0%9F%87%B8El%20KyBalion-7%20HERMETICS%20LAWS%20%20%E2%9A%9A%20.pdf)
+
+<br>
 
 #
 
