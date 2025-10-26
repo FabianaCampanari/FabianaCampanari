@@ -313,86 +313,47 @@ A Tidsy continua redefinindo tendências na cena da moda brasileira.
    <br><br>
    
 
-## 💖 Patrocinadores do GitHub
+   <br><br>
+   
 
-   - **[Conta Pessoal](https://github.com/sponsors/FabianaCampanari)**
+## 💖 My GitHub Sponsors Accounts
 
-   - **[Mindful AI Assistants](https://github.com/sponsors/Mindful-AI-Assistants)**
+➣ **[Personal Account](https://github.com/sponsors/FabianaCampanari)**
 
-   - **[Quantum Software Development](https://github.com/sponsors/Quantum-Software-Development)**
+➢ **[Mindful AI Assistants](https://github.com/sponsors/Mindful-AI-Assistants)**
 
-
-#
-
-#### <p align="center">  🛸๋"Meus Contatos [Hub](https://linktr.ee/fabianacampanari)"
-
-<br>
-
- <p align="center">
-<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/> <br>
- 
- <br>
-
- #
-
-#### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+➤ **[Quantum Software Development](https://github.com/sponsors/Quantum-Software-Development)**
 
 <br>
 
 
- #### <p align="center"> [![Sponsor FabianaCampanari ](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
-  
-
-<!--
- #### <p align="center"> [💭  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
--->
- 
- <br>
-
- <p align="center">
-<img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/><br>
-
- <br>
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
-<br>
-
- #
- 
- <br>
-
-#### <p align="center">  [𖤐](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) Favorite Quote
-
-
-### <p align="center" style="font-size: 1000px">  ˗ˏˋ[ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)ˎˊ˗ 
-
-
-### *<p align="center"> Um Povo. Um Mundo. Um Espírito... [Nós Somos Todos Um](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)!* 🌎🤍 
-
-<br>
-
-#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
-<br>
-
-## 💌 [Entre em Contato](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
 <br><br>
+
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
 
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
-<br><br>
 
-Para quaisquer perguntas, sugestões ou colaborações, sinta-se à vontade para entrar em contato:
 
- - Fabiana Campanari 🚀 [Hub de Contatos](https://linktr.ee/fabianacampanari)
 
- - Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
+<br><br><br>
 
-<br><br>
+<p align="center">  ────────────── 🔭⋆ ──────────────
 
-<p align="center"> <a href="#top">Voltar ao Topo da Página ☝️</a>
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+
+<!--
+<p align="center">  ────────────── ✦ ──────────────
+-->
+
 
 
 <!-- Programmers and artists are the only professionals whose hobby is their profession."
@@ -405,10 +366,7 @@ Para quaisquer perguntas, sugestões ou colaborações, sinta-se à vontade para
 
 #
 
-###### <p align="center"> Copyright 2025 Fabiana Campanari. Código liberado sob a [licença MIT.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)
-
-
-
+###### <p align="center"> Copyright 2025 Fabiana Campanari. Code released under the [MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)
 
 
 
