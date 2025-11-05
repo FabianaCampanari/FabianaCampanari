@@ -324,8 +324,26 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 - **Tidsy [Facebook Page](https://www.facebook.com/tidsyleblon/)**
 
    
-   <br><br>
-   
+
+
+<br><br>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
+</p>
+
+
+<p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
+
+
+
+
+<br><br><br><br>
+
+
+
+    
 
 ## 💖 My GitHub Sponsors Accounts
 
