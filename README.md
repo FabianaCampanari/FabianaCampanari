@@ -55,7 +55,12 @@ $$\huge \huge  {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$
 $$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
 
-<br><br>
+<br><br><br>
+
+
+#### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
+
+<br>
 
 <!-- 
 Relativity Formula  
@@ -108,15 +113,19 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 ##### 🎶 ***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.*** 🖤
 
 
-<br><br><br><br>
 
 
-### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
+ <br><br>
 
-<br>
+
+ ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
+
+
+<br><br>
 
 
 #### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%20FabianaCampanari%20%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+
 
 
 <!--
