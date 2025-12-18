@@ -368,7 +368,7 @@ A Tidsy continua redefinindo tendências na cena da moda brasileira.
 
 #
 
-###### <p align="center"> Copyright 2025 Fabiana Campanari. Code released under the [MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)
+###### <p align="center"> Copyright 2026 Fabiana Campanari. Code released under the [MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/66325d147794b5fc4688d56e6b78e8cdf42946e4/LICENSE)
 
 
 
