@@ -110,7 +110,7 @@ Relativity Formula
 
 https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
-##### 🎶 [***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.***]() 🖤
+##### <p align="center">  🎶 [***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.***]() 🖤
 
 
 
