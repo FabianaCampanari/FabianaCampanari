@@ -40,10 +40,7 @@
 #### <p align="center">  ***<Vibing with [joy](), resonating in [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92), seeking the [unknown]() />*** 🪷  </p>
 
 
-
-
-
-<br><br><br><br>
+<br><br><br>
 
 <!---
 $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
@@ -56,13 +53,13 @@ $$\huge \huge  {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$
 $$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
 
-<br><br><br>
+<br><br>
 
 
 #### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
 
 
-<br><br><br>
+<br><br>
 
 <!-- 
 Relativity Formula  
@@ -108,6 +105,7 @@ Relativity Formula
 
 
 <br><br><br>
+
 
 <!-- =============== Start Alexanbder Pianiste  ======== -->
 
