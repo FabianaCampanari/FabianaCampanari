@@ -130,14 +130,10 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 =============== End Header ======== -->
 
 
-
-
 <br><br><br>
 
 
  ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
-
-
 
 
 <br><br><br>
@@ -179,7 +175,7 @@ After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymor
 <!--END HEADER -->
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -275,13 +271,14 @@ For a fascinating exploration of the connections between quantum physics and psy
 </p>
 
 
-<br>
+
+<br><br>
 
 
 ### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)!* 🌎🤍 
 
 
-<br><br>
+<br><br><br>
 
 
 ## 𓋹 [Achievements](https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44)
