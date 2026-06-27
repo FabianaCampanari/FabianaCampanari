@@ -1,6 +1,13 @@
-\[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇬🇧 English](README.md)\]
 
 <br>
+
+\[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇬🇧 English](README.md)\]
+
+<br><br>
+<!--END 🇧🇷 Portuguese LANGUAGE BUTTON  -->
+
+
+
 <!--
 [Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
 -->
