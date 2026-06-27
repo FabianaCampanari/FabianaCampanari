@@ -3,6 +3,7 @@
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]   
 
 <br><br>
+<!--END 🇬🇧English LANGUAGE BUTTON  -->
 
 <!--
 [Total Public Contributions in GitHub by Country](https://gayanvoice.github.io/top-github-users/index.html)
@@ -33,7 +34,7 @@
 <h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 -->
 
-<!--END LANGUAGE BUTTON  -->
+
 
 
 
