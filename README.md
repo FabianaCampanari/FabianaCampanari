@@ -311,14 +311,14 @@ Led my team to victory, overseeing repository management, automation, bot develo
 
  <br> 
 
-🥈 **2nd Place for Top GitHub Users by Public Contributions in Brazil**  
+🥇 **1st Place for Top GitHub Users by Public Contributions in Brazil**  
 
 ➢ [Check the ranking](https://committers.top/brazil_private)  
 ➣ [Explore the global rankings](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
 
  <br>  
 
- 🥈 **2nd Place on Committers.top Brazil**  
+ 🥇 **1st Place on Committers.top Brazil**  
 
 ➤ [Explore the rankings](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
 
