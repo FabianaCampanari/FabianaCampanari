@@ -46,13 +46,7 @@
 
 <br><br><br>
 
-<!---
-$${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
-
-<!---
-$$\huge \huge  {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
---->
 
 $$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
@@ -63,39 +57,7 @@ $$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11
 #### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
 
 
-<br><br>
-
-<!-- 
-Relativity Formula  
- 
-#### $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$  --> 
-
-<!-- #### Entanglement:
-
-<!-- ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
-
-<!-- ### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
-
-<!-- #### <p align="center">  Qubit Superposition 
-
-<!-- ## $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$  
-
-### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
-
-### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$ 
-
-### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
-
-### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
-
- #### $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
- 
--->
-
-<!---
-#### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
---->
-
+<br>
 
 <p align="center">
  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
@@ -103,35 +65,7 @@ Relativity Formula
   </a>
 </p
 
-
-
-<!--
-<p align="center">
-  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" alt="committers.top badge" style="height: 20px; width: 220px;">
-  </a>
-</p>
--->
-
-<!--
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
-
-
-
 <br><br><br>
-
-<!--
-
-<!-- =============== Start Alexanbder Pianiste  ========
-
-https://github.com/user-attachments/assets/6fac54f3-721e-4a71-9169-1f8b55facd9a
-
-##### <p align="center">  🎶 [***River Flows In You (Deep House Remix) - Alexandre Pachabezian***]() 🖤
-
-##### <p align="center">  🎶 [***Data Flow Runs Through Us (Let’s Build Differently) - Fabi***]() 🖤
-
-
- =============== End Alexanbder Pianist ======== -->
 
 
 <!-- =============== Galact Federation Arte  ========  -->
@@ -155,40 +89,6 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
 
 #### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%20FabianaCampanari%20%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
-
-
-
-<!--
-
-#### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-%E2%80%94%E2%80%94%E2%80%94%20FabianaCampanari%20%E2%80%94%E2%80%94%E2%80%94-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
-
-
-#### <p align="center"> [![Sponsor FabianaCampanari ](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
-
-#### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor%20%E2%80%94%20%20%20FabianaCampanari%20%20%20%E2%80%94-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
-
--->
-
-
-<!-- GIF
-<p align="center">
-<img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200"/>
--->
-
-<!-- Formuulas Latrex Code
-
-<!-- USAR ESSA FORMULA
- $${\color{blue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
- -->
-
-<!-- OLD MARKDOWN ACCEPTED FOR LATEX CODE UNTIL JUL/20024 --
-# $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
-
-After 07/24 Latex Code is formatte using HTML tags and not using Markdown anymore, see new HTML format Bellow 👇
--->
-
-<!--END HEADER -->
-
 
 
 
