@@ -34,30 +34,20 @@
 <h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
 -->
 
-
-
-
-
-
 ## <p align="center">   Code, [Soul]() & Science · Data Scientist · [Humanistic AI]() · Designer of [Meaning]()  𝚿 
 
-<br>
-
 #### <p align="center">  ***<Vibing with [joy](), resonating in [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92), seeking the [unknown]() />*** 🪷  </p>
-
-
-<br><br>
-
 
 ###### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
 
 
 
-<br><br><br>
-
+<br><br>
 
 
 $$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+
+<br><br>
 
 
 <!-- 🇧🇷 Top Committer ····· Brazil -->
@@ -77,13 +67,7 @@ $$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11
 </p>
 
 
-
-
-
-
-
-<br><br><br>
-
+<br><br>
 
 <!-- =============== Galact Federation Arte  ========  -->
 
@@ -91,19 +75,12 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
 ##### <p align="center">  🎶 [***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.***]() 🖤
 
- <br><br>
 
 <!--=============== End Galact  Header ======== -->
 
-
-<br><br><br>
-
-
  ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
 
-
-<br><br><br>
-
+<br><br>
 
 <!-- ♡ Sponsor ····· Fabiana ⚡️ Campanari -->
 <p align="center">
@@ -122,11 +99,9 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 </p>
 
 
-
-<!-- =============== Start Body  ======== -->
-
 <br><br>
 
+<!-- =============== Start Body  ======== -->
 
 
 ## [🔥 About Me](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
