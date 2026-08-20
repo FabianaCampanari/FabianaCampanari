@@ -41,7 +41,16 @@
 
 ## <p align="center">   Code, [Soul]() & Science · Data Scientist · [Humanistic AI]() · Designer of [Meaning]()  𝚿 
 
+<br>
+
 #### <p align="center">  ***<Vibing with [joy](), resonating in [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92), seeking the [unknown]() />*** 🪷  </p>
+
+
+<br><br>
+
+
+###### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
+
 
 
 <br><br><br>
@@ -51,19 +60,27 @@
 $$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
 
-<br><br>
-
-
-#### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
-
-
-<br>
-
+<!-- 🇧🇷 Top Committer ····· Brazil -->
 <p align="center">
- <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://img.shields.io/badge/🇧🇷_Top_Committer-Brazil-00FFFF?style=flat-square&logoColor=white&labelColor=0a1f44" alt="committers.top badge" height="28">
+  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+    <img
+      src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20TOP%20COMMITTER-0a1f44?style=for-the-badge&labelColor=0a1f44&logoColor=white"
+      alt="🇧🇷 Top Committer"
+      height="36"
+    >
+    <img
+      src="https://img.shields.io/badge/·····%20BRAZIL-00B8A9?style=for-the-badge&labelColor=00B8A9&logoColor=white"
+      alt="Brazil"
+      height="36"
+    >
   </a>
-</p
+</p>
+
+
+
+
+
+
 
 <br><br><br>
 
@@ -88,7 +105,21 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 <br><br><br>
 
 
-#### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%20FabianaCampanari%20%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+<!-- ♡ Sponsor ····· Fabiana ⚡️ Campanari -->
+<p align="center">
+  <a href="https://github.com/sponsors/FabianaCampanari">
+    <img
+      src="https://img.shields.io/badge/♡%20SPONSOR-0a1f44?style=for-the-badge&labelColor=0a1f44&logoColor=white"
+      alt="Sponsor"
+      height="36"
+    >
+    <img
+      src="https://img.shields.io/badge/·····%20Fabiana%20%E2%9A%A1%EF%B8%8F%20Campanari-00B8A9?style=for-the-badge&labelColor=00B8A9&logoColor=white"
+      alt="Fabiana ⚡️ Campanari"
+      height="36"
+    >
+  </a>
+</p>
 
 
 
@@ -147,8 +178,21 @@ For a fascinating exploration of the connections between quantum physics and psy
  <br>
 
 
-#### <p align="center">[![Sponsor ॐ ⋆ ⋆ ⋆ ⋆ Mindful AI ⋆ ⋆ ⋆ ⋆ 𖤐](https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%F0%96%A4%90-brightgreen?logo=github)](https://github.com/sponsors/Mindful-AI-Research)
-
+<!-- ♡ Sponsor ····· ॐ Mindful AI -->
+<p align="center">
+  <a href="https://github.com/sponsors/Mindful-AI-Research">
+    <img
+      src="https://img.shields.io/badge/♡%20SPONSOR-0a1f44?style=for-the-badge&labelColor=0a1f44&logoColor=white"
+      alt="Sponsor"
+      height="36"
+    >
+    <img
+      src="https://img.shields.io/badge/·····%20ॐ%20Mindful%20AI-00B8A9?style=for-the-badge&labelColor=00B8A9&logoColor=white"
+      alt="ॐ Mindful AI"
+      height="36"
+    >
+  </a>
+</p>
 
 #
 
@@ -169,7 +213,21 @@ For a fascinating exploration of the connections between quantum physics and psy
  <br>
 
 
-#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+<!-- ♡ Sponsor ····· 🇶 Quantum Software Development -->
+<p align="center">
+  <a href="https://github.com/sponsors/Quantum-Software-Development">
+    <img
+      src="https://img.shields.io/badge/♡%20SPONSOR-0a1f44?style=for-the-badge&labelColor=0a1f44&logoColor=white"
+      alt="Sponsor"
+      height="36"
+    >
+    <img
+      src="https://img.shields.io/badge/·····%20%F0%9F%87%B6%20Quantum%20Software%20Development-00B8A9?style=for-the-badge&labelColor=00B8A9&logoColor=white"
+      alt="🇶 Quantum Software Development"
+      height="36"
+    >
+  </a>
+</p>
 
 <br>
 
@@ -288,7 +346,7 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
 ➣ **[Personal Account](https://github.com/sponsors/FabianaCampanari)**
 
-➢ **[Mindful AI Assistants](https://github.com/sponsors/Mindful-AI-Assistants)**
+➢ **[ॐ Mindful AI ](https://github.com/sponsors/Mindful-AI-Research)**
 
 ➤ **[Quantum Software Development](https://github.com/sponsors/Quantum-Software-Development)**
 
