@@ -1,23 +1,35 @@
- # Using multiple Python versions with matrix.
+# Esse fluxo de trabalho usa ações que não são certificadas pelo GitHub.
+# São fornecidas por terceiros e regidas por
+# termos de serviço, política de privacidade e suporte separados
+# online.
 
-name: Python package
+# O GitHub recomenda fixar ações em um SHA de commit.
+# Para obter uma versão mais recente, você precisará atualizar o SHA.
+# Você também pode fazer referência a uma marca ou branch, mas a ação pode ser alterada sem aviso.
 
-on: [push]
 
-jobs: 
-  build:
+name: Upload Python Package
 
+on:
+  release:
+    types: [published]
+
+jobs:
+  deploy:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ["pypy3.9", "pypy3.10", "3.9", "3.10", "3.11", "3.12"]
-
     steps:
       - uses: actions/checkout@v4
-      - name: Set up Python ${{ matrix.python-version }}
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: ${{ matrix.python-version }}
-      # You can test your matrix by printing the current Python version
-      - name: Display Python version
-        run: python -c "import sys; print(sys.version)"
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install build
+      - name: Build package
+        run: python -m build
+      - name: Publish package
+        uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          password: ${{ secrets.PYPI_API_TOKEN }}
