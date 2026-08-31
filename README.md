@@ -152,16 +152,10 @@ For a fascinating exploration of the connections between quantum physics and psy
 <p align="center">
   <a href="https://github.com/sponsors/Mindful-AI-Research">
     <img
-      src="https://img.shields.io/badge/♡%20SPONSOR-07111F?style=for-the-badge&labelColor=07111F&logoColor=white"
-      alt="Sponsor"
+      src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90%20%E2%8B%86-3A424C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07111F"
+      alt="Sponsor ॐ ⋆ Mindful AI ⋆ Research & Consulting 𖤐 ⋆"
       height="36"
     >
-    <img
-      src="https://img.shields.io/badge/·····%20ॐ%20Mindful%20AI%20·····-3A424C?style=for-the-badge&labelColor=3A424C&logoColor=white"
-      alt="ॐ Mindful AI"
-      height="36"
-    >
-  </a>
 </p>
 
 <br><br>
