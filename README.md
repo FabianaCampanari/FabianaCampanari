@@ -30,11 +30,9 @@
 
 
 
-<!--
-<h1 align="center"> $$\Huge{\textbf{\color{blue}I Do} \space \textbf{\color{DodgerBlue}Design,} \space \textbf{\color{DeepSkyBlue}AI}  \space \textbf{and} \space \textbf{\color{LightSkyBlue}Code}}$$
--->
 
-## <p align="center">   Code, [Soul]() & Science · Data Scientist · [Humanistic AI]() · Designer of [Meaning]()  𝚿 
+<h2 align="center"> $$\Huge{\textbf{\color{darkblue}Code, Soul and Science} \space \textbf{\color{gray}·} \space \textbf{\color{DodgerBlue}Human-Centered AI}  \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}and Designer of Meaning} \space \textbf{\color{gray} 𝚿}}$$
+
 
 #### <p align="center">  ***<Vibing with [joy](), resonating in [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92), seeking the [unknown]() />*** 🪷  </p>
 
