@@ -47,6 +47,10 @@ $$\huge \Huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle
 
 <br><br>
 
+ ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
+
+ <br>
+
 <!-- START ♡ Sponsor ····· Fabiana ⚡️ Campanari -->
 <p align="center">
   <a href="https://github.com/sponsors/FabianaCampanari">
@@ -77,7 +81,7 @@ $$\huge \Huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle
   </a>
 </p>
 
-<br>><br>
+<br><br>
 <!-- ♡ EBND Sponsor ····· Fabiana ⚡️ Campanari -->
 
 
@@ -86,12 +90,8 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
 ##### <p align="center">  🎶 [***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.***]() 🖤
 
-<br><br>
-<!--=============== End Galact  Header ======== -->
-
- ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
-
 <br><br><br>
+<!--=============== End Galact  Header ======== -->
 
 
 
