@@ -47,7 +47,7 @@ $$\huge \Huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle
 
 <br><br>
 
-<!-- ♡ Sponsor ····· Fabiana ⚡️ Campanari -->
+<!-- START ♡ Sponsor ····· Fabiana ⚡️ Campanari -->
 <p align="center">
   <a href="https://github.com/sponsors/FabianaCampanari">
     <img
@@ -77,12 +77,11 @@ $$\huge \Huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle
   </a>
 </p>
 
+<br>><br>
+<!-- ♡ EBND Sponsor ····· Fabiana ⚡️ Campanari -->
 
-
-<br><br><br>
 
 <!-- =============== Galact Federation Arte  ========  -->
-
 https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
 ##### <p align="center">  🎶 [***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.***]() 🖤
