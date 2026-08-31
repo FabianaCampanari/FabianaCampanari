@@ -43,7 +43,7 @@
 <br><br>
 
 
-$$\huge \Huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+$$\huge \Huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
 <br><br>
 
