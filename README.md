@@ -45,7 +45,7 @@
 <br><br>
 
 
-$$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+$$\huge \Huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
 <br><br>
 
@@ -80,7 +80,7 @@ $$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11
 </p>
 
 
-<br><br>
+<br><br><br>
 
 <!-- =============== Galact Federation Arte  ========  -->
 
@@ -88,12 +88,12 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
 ##### <p align="center">  🎶 [***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.***]() 🖤
 
-
+<br><br>
 <!--=============== End Galact  Header ======== -->
 
  ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
 
-<br><br>
+<br><br><br>
 
 
 
@@ -144,7 +144,7 @@ For a fascinating exploration of the connections between quantum physics and psy
  <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/b3789e50-93e1-48ac-b82e-1db626f7cbb2"/> <br>
  
- <br>
+ <br><br>
 
 
 <!-- ♡ Sponsor ····· ॐ Mindful AI -->
@@ -165,7 +165,7 @@ For a fascinating exploration of the connections between quantum physics and psy
 
 #
 
-<br>
+<br><br>
 
 
 #### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
@@ -174,12 +174,12 @@ For a fascinating exploration of the connections between quantum physics and psy
  #### <p align="center"> [💭  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
 -->
  
- <br>
+ <br><br>
 
  <p align="center">
 <img src="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5b88bfdb-18bf-4b3e-aae3-b0342d2906fe"/><br>
 
- <br>
+ <br><br>
 
 
 <!-- ♡ Sponsor ····· 🇶 Quantum Software Development -->
@@ -198,15 +198,15 @@ For a fascinating exploration of the connections between quantum physics and psy
   </a>
 </p>
 
-<br>
+<br><br>
 
  #
  
- <br>
+ <br><br>
 
 #### <p align="center">  [𖤐](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) Favorite Quote
 
- <br>
+ <br><br>
 
 
  <p align="center">
