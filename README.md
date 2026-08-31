@@ -49,9 +49,22 @@ $$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11
 
 <br><br>
 
+<!-- ♡ Sponsor ····· Fabiana ⚡️ Campanari -->
+<p align="center">
+  <a href="https://github.com/sponsors/FabianaCampanari">
+    <img
+      src="https://img.shields.io/badge/♡%20SPONSOR-0a1f44?style=for-the-badge&labelColor=0a1f44&logoColor=white"
+      alt="Sponsor"
+      height="36"
+    >
+    <img
+      src="https://img.shields.io/badge/·····%20Fabiana%20%E2%9A%A1%EF%B8%8F%20Campanari-00B8A9?style=for-the-badge&labelColor=00B8A9&logoColor=white"
+      alt="Fabiana ⚡️ Campanari"
+      height="36"
+    >
+  </a>
 
 <!-- 🇧🇷 Top Committer ····· Brazil -->
-<p align="center">
   <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
     <img
       src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20TOP%20COMMITTER-0a1f44?style=for-the-badge&labelColor=0a1f44&logoColor=white"
@@ -82,26 +95,7 @@ https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
 
 <br><br>
 
-<!-- ♡ Sponsor ····· Fabiana ⚡️ Campanari -->
-<p align="center">
-  <a href="https://github.com/sponsors/FabianaCampanari">
-    <img
-      src="https://img.shields.io/badge/♡%20SPONSOR-0a1f44?style=for-the-badge&labelColor=0a1f44&logoColor=white"
-      alt="Sponsor"
-      height="36"
-    >
-    <img
-      src="https://img.shields.io/badge/·····%20Fabiana%20%E2%9A%A1%EF%B8%8F%20Campanari-00B8A9?style=for-the-badge&labelColor=00B8A9&logoColor=white"
-      alt="Fabiana ⚡️ Campanari"
-      height="36"
-    >
-  </a>
-</p>
 
-
-<br><br>
-
-<!-- =============== Start Body  ======== -->
 
 
 ## [🔥 About Me](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
