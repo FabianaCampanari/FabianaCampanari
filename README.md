@@ -30,7 +30,7 @@
 
 
 
-<h1 align="center"> $$\Huge{\textbf{\color{DodgerBlue}Code, Soul \& Science} \space \textbf{\color{gray}·} \space \textbf{\color{#2586D8}Human-Centered AI} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Designing Meaning} \space \textbf{\color{LUIGHTSkyBlue}𝚿}}$$ 
+<h1 align="center"> $$\Huge{\textbf{\color{DodgerBlue}Code, Soul \& Science} \space \textbf{\color{gray}·} \space \textbf{\color{#2586D8}Human-Centered AI} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Designing Meaning} \space \textbf{\color{LightSkyBlue}𝚿}}$$ 
 
 ### <p align="center">  Connecting technology, humanity and impact to create intelligent solutions that matter. 
 
