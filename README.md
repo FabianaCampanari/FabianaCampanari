@@ -189,12 +189,12 @@ For a fascinating exploration of the connections between quantum physics and psy
 <p align="center">
   <a href="https://github.com/sponsors/Quantum-Software-Development">
     <img
-      src="https://img.shields.io/badge/♡%20SPONSOR-0a1f44?style=for-the-badge&labelColor=0a1f44&logoColor=white"
+      src="https://img.shields.io/badge/♡%20SPONSOR-07111F?style=for-the-badge&labelColor=07111F&logoColor=white"
       alt="Sponsor"
       height="36"
     >
     <img
-      src="https://img.shields.io/badge/·····%20%F0%9F%87%B6%20Quantum%20Software%20Development-00B8A9?style=for-the-badge&labelColor=00B8A9&logoColor=white"
+      src="https://img.shields.io/badge/%F0%9F%87%B6%20Quantum%20Software%20Development-3A424C?style=for-the-badge&labelColor=3A424C&logoColor=white"
       alt="🇶 Quantum Software Development"
       height="36"
     >
