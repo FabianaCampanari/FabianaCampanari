@@ -53,31 +53,32 @@ $$\huge \Huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 <p align="center">
   <a href="https://github.com/sponsors/FabianaCampanari">
     <img
-      src="https://img.shields.io/badge/♡%20SPONSOR-0a1f44?style=for-the-badge&labelColor=0a1f44&logoColor=white"
+      src="https://img.shields.io/badge/♡%20SPONSOR-07111F?style=for-the-badge&labelColor=07111F&logoColor=white"
       alt="Sponsor"
       height="36"
     >
     <img
-      src="https://img.shields.io/badge/·····%20Fabiana%20%E2%9A%A1%EF%B8%8F%20Campanari-00B8A9?style=for-the-badge&labelColor=00B8A9&logoColor=white"
+      src="https://img.shields.io/badge/·····%20Fabiana%20%E2%9A%A1%EF%B8%8F%20Campanari-3A424C?style=for-the-badge&labelColor=3A424C&logoColor=white"
       alt="Fabiana ⚡️ Campanari"
       height="36"
     >
   </a>
 
-<!-- 🇧🇷 Top Committer ····· Brazil -->
+  <!-- 🇧🇷 Top Committer ····· Brazil -->
   <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
     <img
-      src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20TOP%20COMMITTER-0a1f44?style=for-the-badge&labelColor=0a1f44&logoColor=white"
+      src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20TOP%20COMMITTER-07111F?style=for-the-badge&labelColor=07111F&logoColor=white"
       alt="🇧🇷 Top Committer"
       height="36"
     >
     <img
-      src="https://img.shields.io/badge/·····%20BRAZIL-00B8A9?style=for-the-badge&labelColor=00B8A9&logoColor=white"
+      src="https://img.shields.io/badge/·····%20BRAZIL-3A424C?style=for-the-badge&labelColor=3A424C&logoColor=white"
       alt="Brazil"
       height="36"
     >
   </a>
 </p>
+
 
 
 <br><br><br>
