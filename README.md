@@ -28,9 +28,7 @@
 
 <!-- Header GIF -->
 
-
-
-<h2 align="center"> $$\Huge{\textbf{\color{DodgerBlue}Code, Soul \& Science} \space \textbf{\color{gray}·} \space \textbf{\color{#2586D8}Human-Centered AI} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Designing Meaning} \space \textbf{\color{LightSkyBlue}𝚿}}$$ 
+<h2 align="center"> $$\Huge{\textbf{\color{Blue}Code, Soul \& Science} \space \textbf{\color{gray}·} \space \textbf{\color{DodgerBlue}Human-Centered AI} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Designing Meaning} \space \textbf{\color{LightSkyBlue}𝚿}}$$ 
 
 ### <p align="center">  Connecting technology, humanity and impact to create intelligent solutions that matter. 
 
@@ -43,7 +41,7 @@
 <br><br>
 
 
-$$\huge \Huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+$$\huge \Huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
 <br><br>
 
