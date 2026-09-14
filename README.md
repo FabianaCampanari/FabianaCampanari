@@ -67,10 +67,11 @@ $$\huge \Huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle
   </a>
 
   <!-- 🇧🇷 Top Committer ····· Brazil -->
-  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+<p align="center">
+  <a href="https://committers.top/brazil_public">
     <img
-      src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20TOP%20COMMITTER-07111F?style=for-the-badge&labelColor=07111F&logoColor=white"
-      alt="🇧🇷 Top Committer"
+      src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20TOP%20CONTRIBUTORS-07111F?style=for-the-badge&labelColor=07111F&logoColor=white"
+      alt="🇧🇷 TOP CONTRIBUTORS"
       height="36"
     >
     <img
