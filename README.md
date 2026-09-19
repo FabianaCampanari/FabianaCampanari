@@ -45,10 +45,6 @@ $$\huge \Huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle 
 
 <br><br>
 
- ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
-
- <br>
-
 <!-- START ♡ Sponsor ····· Fabiana ⚡️ Campanari -->
 <p align="center">
   <a href="https://github.com/sponsors/FabianaCampanari">
@@ -63,6 +59,19 @@ $$\huge \Huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle 
       height="36"
     >
   </a>
+
+<br><br>
+<!-- ♡ EBND Sponsor ····· Fabiana ⚡️ Campanari -->
+
+
+<!-- =============== Galact Federation Arte  ========  -->
+https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
+
+##### <p align="center">  🎶 [***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.***]() 🖤
+
+<br><br><br>
+<!--=============== End Galact  Header ======== -->
+
 
   <!-- 🇧🇷 Top Committer ····· Brazil -->
 <p align="center">
@@ -80,20 +89,8 @@ $$\huge \Huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle 
   </a>
 </p>
 
-<br><br>
-<!-- ♡ EBND Sponsor ····· Fabiana ⚡️ Campanari -->
-
-
-<!-- =============== Galact Federation Arte  ========  -->
-https://github.com/user-attachments/assets/8422c734-0ec3-41ff-821c-8752af46e9dc
-
-##### <p align="center">  🎶 [***Original track by John Williams - Epic Orchestral/Hybrid cover of the 'Superman' theme.***]() 🖤
-
 <br><br><br>
-<!--=============== End Galact  Header ======== -->
-
-
-
+  <!-- 🇧🇷 Top Committer ····· Brazil -->
 
 ## [🔥 About Me](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)
 
@@ -293,16 +290,17 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 </p>
 
 
+
+### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
+
+<br>
+
 ### <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
 
 
+<br><br><br>
 
-
-<br><br><br><br>
-
-
-
-    
+   
 
 ## 💖 My GitHub Sponsors Accounts
 
