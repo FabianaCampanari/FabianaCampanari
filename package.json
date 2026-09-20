@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "A sample package.json",
   "dependencies": {
-    "@primer/css": "22.3.0"
+    "@primer/css": "22.3.1"
   },
   "license": "MIT"
 }
