@@ -223,9 +223,9 @@ For a fascinating exploration of the connections between quantum physics and psy
 ✨ **Winner of the Best AI Tool Innovation Award** at Ready Tensor AI Project Showcase 2024  
 Honored at the **2024 Ready Tensor AI Project Showcase** for the :bowtie: **SumBot FreeCode Project**.  
 
-➢ [Read the publication on Ready Tensor AI](https://app.readytensor.ai/)  
-➣ [Explore the project on GitHub](https://github.com/Mindful-AI-Assistants/SumBot)  
-➤ [Watch demo videos on YouTube](https://www.youtube.com/@fabianacampanari4786)
+- [Read the publication on Ready Tensor AI](https://app.readytensor.ai/)  
+- [Explore the project on GitHub](https://github.com/Mindful-AI-Assistants/SumBot)  
+- [Watch demo videos on YouTube](https://www.youtube.com/@fabianacampanari4786)
 
 <br>
 
@@ -255,8 +255,8 @@ Led my team to victory, overseeing repository management, automation, bot develo
 
 Thrilled to be featured in both **PR Newswire** and **Yahoo Finance**, where my project **SumBot FreeCode** was recognized as the **Best Innovation in AI Tool** during the **ReadyTensor AI Project Showcase 2024**. 🛰️  
 
-➣[Read the full article on PR Newswire](https://www.prnewswire.com/news-releases/nlp-innovations-take-center-stage-join-the-data-science-showcase-elevating-ai-research-302275947.html)  
-➢ [Read the full article on Yahoo Finance](https://finance.yahoo.com/news/nlp-innovations-center-stage-join-125600542.html?guccounter=1&guce_referrer=aHR0cHM6Ly9sbmtkLmluLw&guce_referrer_sig=AQAAAAP5D5HE2u3Kt9MBLTaTMJONg0asNODNrrC0U0oZn2Ne50aRilDqF7szvGJyoqs-JdGEUXMPgBXERn5aVFcGvbMHPwion0EyZS6rMgcSsQdZLFZYezdZ7pYfvJ_flJef-MUjROWWA7nJYGBNkIIE2zHCjqZhlNv9E2gUUIMlDobm)
+- [Read the full article on PR Newswire](https://www.prnewswire.com/news-releases/nlp-innovations-take-center-stage-join-the-data-science-showcase-elevating-ai-research-302275947.html)  
+-  [Read the full article on Yahoo Finance](https://finance.yahoo.com/news/nlp-innovations-center-stage-join-125600542.html?guccounter=1&guce_referrer=aHR0cHM6Ly9sbmtkLmluLw&guce_referrer_sig=AQAAAAP5D5HE2u3Kt9MBLTaTMJONg0asNODNrrC0U0oZn2Ne50aRilDqF7szvGJyoqs-JdGEUXMPgBXERn5aVFcGvbMHPwion0EyZS6rMgcSsQdZLFZYezdZ7pYfvJ_flJef-MUjROWWA7nJYGBNkIIE2zHCjqZhlNv9E2gUUIMlDobm)
 
 <br>
 
@@ -265,7 +265,7 @@ Thrilled to be featured in both **PR Newswire** and **Yahoo Finance**, where my 
 Excited to have participated in the **5th Artificial Intelligence Congress at PUC-SP**, where I presented **SumBot FreeCode**.  
 **SumBot FreeCode** is an AI-powered chatbot integrated with Slack, developed using OpenAI’s GPT-3.5 Turbo API. It optimizes team communication and information sharing. By simply using an emoji, **SumBot** can summarize and respond to messages, boosting organization and productivity.  
 
-➣ [Watch the presentation on YouTube (starts at 3h 26m)](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s)
+- [Watch the presentation on YouTube (starts at 3h 26m)](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s)
  
   <br>
 
