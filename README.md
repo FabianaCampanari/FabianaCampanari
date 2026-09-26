@@ -304,11 +304,11 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
 ## 💖 My GitHub Sponsors Accounts
 
-➣ **[Personal Account](https://github.com/sponsors/FabianaCampanari)**
+- **[Personal Account](https://github.com/sponsors/FabianaCampanari)**
 
-➢ **[ॐ Mindful AI ](https://github.com/sponsors/Mindful-AI-Research)**
-
-➤ **[Quantum Software Development](https://github.com/sponsors/Quantum-Software-Development)**
+- **[ॐ Mindful AI ](https://github.com/sponsors/Mindful-AI-Research)**
+  
+- **[Quantum Software Development](https://github.com/sponsors/Quantum-Software-Development)**
 
 <br>
 
