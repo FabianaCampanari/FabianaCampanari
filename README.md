@@ -233,21 +233,21 @@ Honored at the **2024 Ready Tensor AI Project Showcase** for the :bowtie: **SumB
 
 Led my team to victory, overseeing repository management, automation, bot development, design, and presentation.  
 
-➢ [Learn more about HackaPUC-SP](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  
-➣ [Access the project repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
+- [Learn more about HackaPUC-SP](https://j.pucsp.br/noticia/ciencia-de-dados-e-inteligencia-artificial-realiza-segunda-edicao-do-hackapucsp)  
+- [Access the project repository](https://github.com/Mindful-AI-Assistants/HackaPUCSP)
 
  <br> 
 
 🥇 **1st Place for Top GitHub Users by Public Contributions in Brazil**  
 
-➢ [Check the ranking](https://committers.top/brazil_private)  
-➣ [Explore the global rankings](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
+- [Check the ranking](https://committers.top/brazil_private)  
+- [Explore the global rankings](https://github.com/FabianaCampanari/top-github-users?tab=readme-ov-file)
 
  <br>  
 
  🥇 **1st Place on Committers.top Brazil**  
 
-➤ [Explore the rankings](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
+- [Explore the rankings](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)
 
 <br>  
 
@@ -277,7 +277,7 @@ The brand's unique prints have garnered the attention of Brazilian celebrities, 
 
 - Explore all my fashion creations and detailed designs in my [GitHub repository](https://github.com/FabianaCampanari/Fashion-and-Design).
 - **Vogue "It Dress"** - [1.80 x 0.90 cm - Blue Dragonn fabric print design](https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg) by **Fabiana ⚡️ Campanari**.  
-- **Tidsy [Facebook Page](https://www.facebook.com/tidsyleblon/)**
+- [**Tidsy**]((https://www.instagram.com/tidsybrasil/)) - Shopping Rio Design Leblon - RJ
 
    
 
