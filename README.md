@@ -255,8 +255,8 @@ Led my team to victory, overseeing repository management, automation, bot develo
 
 Thrilled to be featured in both **PR Newswire** and **Yahoo Finance**, where my project **SumBot FreeCode** was recognized as the **Best Innovation in AI Tool** during the **ReadyTensor AI Project Showcase 2024**. 🛰️  
 
-- [Read the full article on PR Newswire](https://www.prnewswire.com/news-releases/nlp-innovations-take-center-stage-join-the-data-science-showcase-elevating-ai-research-302275947.html)  
--  [Read the full article on Yahoo Finance](https://web.archive.org/web/20250723202913/https://finance.yahoo.com/news/nlp-innovations-center-stage-join-125600542.html)
+- Read the full article on [PR Newswire](https://www.prnewswire.com/news-releases/nlp-innovations-take-center-stage-join-the-data-science-showcase-elevating-ai-research-302275947.html)  
+-  Read the full article on [Yahoo Finance](https://web.archive.org/web/20250723202913/https://finance.yahoo.com/news/nlp-innovations-center-stage-join-125600542.html)
 
 <br>
 
