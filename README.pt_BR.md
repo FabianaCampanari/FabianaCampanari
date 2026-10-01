@@ -57,7 +57,22 @@ $${\color{DodgerBlue} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} 
 $$\huge \huge  {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 --->
 
-$$\huge \Huge \color{Green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+
+<br><br>
+
+
+$$
+\Huge
+\color{#0057D9}\Phi^+
+\color{#1265DA}\rangle
+\color{#2474DC}=
+\color{#3583DE}\frac{1}{\sqrt{2}}
+\color{#4692E0}\left(
+\color{#579FE1}|00\rangle
+\color{#67ABE0}+
+\color{#76B6DF}|11\rangle
+\color{#83C0DD}\right)
+$$
 
 
 <br><br>
