@@ -30,20 +30,31 @@
 
 <h2 align="center"> $$\Huge{\textbf{\color{Blue}Code, Soul \& Science} \space \textbf{\color{gray}·} \space \textbf{\color{DodgerBlue}Human-Centered AI} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Designing Meaning} \space \textbf{\color{LightSkyBlue}𝚿}}$$ 
 
+
 ### <p align="center">  Connecting technology, humanity and impact to create intelligent solutions that matter. 
 
 ##### <p align="center">  ***<Vibing with [joy](), resonating in [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92), seeking the [unknown]() />***   </p>
 
 ###### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
 
+<br><br>
 
+$$
+\Huge
+\color{#0057D9}\Phi^+
+\color{#1265DA}\rangle
+\color{#2474DC}=
+\color{#3583DE}\frac{1}{\sqrt{2}}
+\color{#4692E0}\left(
+\color{#579FE1}|00\rangle
+\color{#67ABE0}+
+\color{#76B6DF}|11\rangle
+\color{#83C0DD}\right)
+$$
 
 <br><br>
 
 
-$$\huge \Huge \color{DodgerBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
-
-<br><br>
 
 <!-- START ♡ Sponsor ····· Fabiana ⚡️ Campanari -->
 <p align="center">
