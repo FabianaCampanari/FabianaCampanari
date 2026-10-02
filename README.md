@@ -28,10 +28,65 @@
 
 <!-- Header GIF -->
 
-<h2 align="center"> $$\Huge{\textbf{\color{Blue}Code, Soul \& Science} \space \textbf{\color{gray}·} \space \textbf{\color{DodgerBlue}Human-Centered AI} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Designing Meaning} \space \textbf{\color{LightSkyBlue}𝚿}}$$ 
 
 
-### <p align="center">  Connecting technology, humanity and impact to create intelligent solutions that matter. 
+<h2 align="center"> $$\Huge{
+\color{#0057D9}{\textbf{Data}}
+\space
+\color{#1265DA}{\textbf{Scientist}}
+\space
+\color{#2474DC}{\textbf{AI}}
+\space
+\color{#3583DE}{\textbf{Engineer}}
+\space
+\color{#4692E0}{\textbf{|}}
+\space
+\color{#579FE1}{\textbf{Human-Centered}}
+\space
+\color{#67ABE0}{\textbf{AI}}
+\space
+\color{#76B6DF}{\textbf{·}}
+\space
+\color{#83C0DD}{\textbf{Big}}
+\space
+\color{#8BC8DA}{\textbf{Data}}
+\space
+\color{#83C0DD}{\textbf{·}}
+\space
+\color{#76B6DF}{\textbf{Algorithmic}}
+\space
+\color{#67ABE0}{\textbf{Governance}}
+\space
+\color{#579FE1}{\textbf{|}}
+\space
+\color{#4692E0}{\textbf{Founder}}
+}$$
+
+<h3 align="center"> $$\Huge{
+\color{#0057D9}{\textbf{Connecting}}
+\space
+\color{#1265DA}{\textbf{technology,}}
+\space
+\color{#2474DC}{\textbf{humanity}}
+\space
+\color{#3583DE}{\textbf{and}}
+\space
+\color{#4692E0}{\textbf{impact}}
+\space
+\color{#579FE1}{\textbf{to}}
+\space
+\color{#67ABE0}{\textbf{create}}
+\space
+\color{#76B6DF}{\textbf{intelligent}}
+\space
+\color{#83C0DD}{\textbf{solutions}}
+\space
+\color{#8BC8DA}{\textbf{that}}
+\space
+\color{#83C0DD}{\textbf{matter.}}
+}$$
+
+ 
 
 ##### <p align="center">  ***<Vibing with [joy](), resonating in [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92), seeking the [unknown]() />***   </p>
 
