@@ -343,7 +343,7 @@ Proud to have been a **speaker and project presenter at the 5th Artificial Intel
 ➟ [**Presentation recordings:**]
 
 - [Watch my presentation on YouTube](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s) — direct access to the presentation.
-- [Watch the complete recording of Day 2]() — my presentation begins at approximately **3h 25m** into the full recording.
+- [Watch the complete recording of Day 2](https://github.com/user-attachments/assets/73bb0cdc-6784-4f69-9343-85e905439867) — my presentation begins at approximately **3h 25m** into the full recording.
 
 
 <br><br>
