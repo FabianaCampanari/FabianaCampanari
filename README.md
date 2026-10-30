@@ -329,16 +329,24 @@ Thrilled to be featured in both **PR Newswire** and **Yahoo Finance**, where my 
 - Read the full article on [PR Newswire](https://www.prnewswire.com/news-releases/nlp-innovations-take-center-stage-join-the-data-science-showcase-elevating-ai-research-302275947.html)  
 -  Read the full article on [Yahoo Finance](https://web.archive.org/web/20250723202913/https://finance.yahoo.com/news/nlp-innovations-center-stage-join-125600542.html)
 
+<br><br>
+
+🛸 [**Speaker & Project Presenter — 5th Artificial Intelligence Congress | PUC-SP & Google**]()
+
+Proud to have been a **speaker and project presenter at the 5th Artificial Intelligence Congress, held at PUC-SP in partnership with Google**, where I presented **SumBot FreeCode**, an AI-powered chatbot integrated with Slack and developed using OpenAI's GPT-3.5 Turbo API.
+
+**SumBot FreeCode** enhances team communication and information sharing through emoji-triggered interactions. Users can simply react to messages with an emoji to generate conversation summaries and receive contextual responses directly in Slack — streamlining information retrieval, collaboration, and team productivity.
+
 <br>
 
-🛸 **Participant in the 5th Artificial Intelligence Congress at PUC-SP**  
 
-Excited to have participated in the **5th Artificial Intelligence Congress at PUC-SP**, where I presented **SumBot FreeCode**.  
-**SumBot FreeCode** is an AI-powered chatbot integrated with Slack, developed using OpenAI’s GPT-3.5 Turbo API. It optimizes team communication and information sharing. By simply using an emoji, **SumBot** can summarize and respond to messages, boosting organization and productivity.  
+➟ [**Presentation recordings:**]
 
-- [Watch the presentation on YouTube (starts at 3h 26m)](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s)
- 
-  <br>
+- [Watch my presentation on YouTube](https://www.youtube.com/watch?v=d7WaC06C6m4&t=12969s) — direct access to the presentation.
+- [Watch the complete recording of Day 2]() — my presentation begins at approximately **3h 25m** into the full recording.
+
+
+<br><br>
 
 👗 **[Vogue - *'It Dress'*](https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg):**  
 
