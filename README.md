@@ -25,6 +25,21 @@
 --> 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- START TEASER ----------------------- -->
 <h1 align="center"> $$\Huge{
 \color{#0057D9}{\textbf{Data}}
@@ -83,9 +98,6 @@ $$\large{
 \color{#4692E0}{\textbf{\&}}
 \space
 \color{#579FE1}{\textbf{impact}}
-}$$
-$$\normalsize{
-\color{#76B6DF}{\textbf{Creating intelligent solutions that matter.}}
 }$$
 </p>
 
