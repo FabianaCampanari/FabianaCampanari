@@ -24,92 +24,78 @@
 <img src="https://github.com/user-attachments/assets/e2fda991-556c-4e72-b60a-cba63b7b1200"/>
 --> 
 
-<!--START HEADER - IMPORTANT NOTE FROM 07/24 --> 
 
-<!-- Header GIF -->
-
-
-
-<h2 align="center"> $$\Huge{
+<!-- START TEASER ----------------------- -->
+<h1 align="center"> $$\Huge{
 \color{#0057D9}{\textbf{Data}}
 \space
 \color{#1265DA}{\textbf{Scientist}}
 \space
-\color{#2474DC}{\textbf{AI}}
+\color{#2474DC}{\textbf{\&}}
 \space
-\color{#3583DE}{\textbf{Engineer}}
+\color{#3583DE}{\textbf{AI/ML}}
 \space
-\color{#4692E0}{\textbf{|}}
-\space
-\color{#579FE1}{\textbf{Human-Centered}}
-\space
-\color{#67ABE0}{\textbf{AI}}
-\space
-\color{#76B6DF}{\textbf{·}}
-\space
-\color{#83C0DD}{\textbf{Big}}
-\space
-\color{#8BC8DA}{\textbf{Data}}
-\space
-\color{#83C0DD}{\textbf{·}}
-\space
-\color{#76B6DF}{\textbf{Algorithmic}}
-\space
-\color{#67ABE0}{\textbf{Governance}}
-\space
-\color{#579FE1}{\textbf{|}}
-\space
-\color{#4692E0}{\textbf{Founder}}
+\color{#4692E0}{\textbf{Engineer}}
 }$$
 
-<h3 align="center"> $$\Huge{
-\color{#0057D9}{\textbf{Connecting}}
+<h2 align="center"> $$\Large{
+\color{#0057D9}{\textbf{Human-Centered}}
 \space
-\color{#1265DA}{\textbf{technology,}}
+\color{#1265DA}{\textbf{AI}}
 \space
-\color{#2474DC}{\textbf{humanity}}
+\color{#2474DC}{\textbf{·}}
 \space
-\color{#3583DE}{\textbf{and}}
+\color{#3583DE}{\textbf{Big}}
 \space
-\color{#4692E0}{\textbf{impact}}
+\color{#4692E0}{\textbf{Data}}
 \space
-\color{#579FE1}{\textbf{to}}
+\color{#579FE1}{\textbf{·}}
 \space
-\color{#67ABE0}{\textbf{create}}
+\color{#67ABE0}{\textbf{Algorithmic}}
 \space
-\color{#76B6DF}{\textbf{intelligent}}
-\space
-\color{#83C0DD}{\textbf{solutions}}
-\space
-\color{#8BC8DA}{\textbf{that}}
-\space
-\color{#83C0DD}{\textbf{matter.}}
+\color{#76B6DF}{\textbf{Governance}}
 }$$
 
- 
+<h3 align="center"> $$\large{
+\color{#0057D9}{\textbf{Psychology}}
+\space
+\color{#2474DC}{\textbf{·}}
+\space
+\color{#3583DE}{\textbf{Design}}
+\space
+\color{#4692E0}{\textbf{\&}}
+\space
+\color{#579FE1}{\textbf{Semiotics}}
+\space
+\color{#67ABE0}{\textbf{|}}
+\space
+\color{#76B6DF}{\textbf{Founder}}
+}$$
 
-##### <p align="center">  ***<Vibing with [joy](), resonating in [frequency](https://github.com/user-attachments/assets/0ea7c155-14fe-4a69-9073-bbaeac161d92), seeking the [unknown]() />***   </p>
-
-###### <p align="center">  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 𓂀
+<p align="center">
+$$\large{
+\color{#1265DA}{\textbf{Connecting}}
+\space
+\color{#2474DC}{\textbf{technology,}}
+\space
+\color{#3583DE}{\textbf{humanity}}
+\space
+\color{#4692E0}{\textbf{\&}}
+\space
+\color{#579FE1}{\textbf{impact}}
+}$$
+$$\normalsize{
+\color{#76B6DF}{\textbf{Creating intelligent solutions that matter.}}
+}$$
+</p>
 
 <br><br>
-
-$$
-\Huge
-\color{#0057D9}\Phi^+
-\color{#1265DA}\rangle
-\color{#2474DC}=
-\color{#3583DE}\frac{1}{\sqrt{2}}
-\color{#4692E0}\left(
-\color{#579FE1}|00\rangle
-\color{#67ABE0}+
-\color{#76B6DF}|11\rangle
-\color{#83C0DD}\right)
-$$
-
-<br><br>
+<!-- ♡ EBND TEASER ----------------------- -->
 
 
+###### <p align="center"> 𓂀  *[ A KURIA MATTE ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/5c7b3c9a-da37-40c5-a75b-6da58f355a7d)* 
+
+<br><br><br>
 
 <!-- START ♡ Sponsor ····· Fabiana ⚡️ Campanari -->
 <p align="center">
@@ -128,6 +114,26 @@ $$
 
 <br><br>
 <!-- ♡ EBND Sponsor ····· Fabiana ⚡️ Campanari -->
+
+
+$$
+\Huge
+\color{#0057D9}\Phi^+
+\color{#1265DA}\rangle
+\color{#2474DC}=
+\color{#3583DE}\frac{1}{\sqrt{2}}
+\color{#4692E0}\left(
+\color{#579FE1}|00\rangle
+\color{#67ABE0}+
+\color{#76B6DF}|11\rangle
+\color{#83C0DD}\right)
+$$
+
+<br><br>
+
+
+
+
 
 
 <!-- =============== Galact Federation Arte  ========  -->
