@@ -25,21 +25,6 @@
 --> 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- START TEASER ----------------------- -->
 <h1 align="center"> $$\Huge{
 \color{#0057D9}{\textbf{Data}}
