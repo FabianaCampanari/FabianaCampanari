@@ -53,7 +53,7 @@
 \color{#4692E0}{\textbf{Engineer}}
 }$$
 
-<h2 align="center"> $$\Large{
+<h3 align="center"> $$\Large{
 \color{#0057D9}{\textbf{Human-Centered}}
 \space
 \color{#1265DA}{\textbf{AI}}
